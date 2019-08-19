@@ -1,0 +1,451 @@
+Gene	Gene_id	Disease	Disease_id	Type	Disease_Class	Semantic_Type	N_genes_d	N_SNPs_d	Score_gda	EL_gda	EI_gda	N_PMIDs	N_SNPs_gda	First_Ref	Last_Ref
+CHRNB2	1141	Epilepsy, Nocturnal Frontal Lobe, Type 3	C1854335	disease	Nervous System Diseases	Disease or Syndrome	1	5	0.8	no reported evidence		5	5	1993.0	2012.0
+FTO	79068	Growth Retardation, Developmental Delay, Coarse Facies, And Early Death	C2752001	disease	Congenital, Hereditary, and Neonatal Diseases and Abnormalities; Endocrine System Diseases; Mental Disorders; Musculoskeletal Diseases; Pathological Conditions, Signs and Symptoms	Congenital Abnormality	1	3	0.7	no reported evidence		4	3	2009.0	2016.0
+CHRNB2	1141	Autistic Disorder	C0004352	group	Mental Disorders	Mental or Behavioral Dysfunction	676	237	0.51	no reported evidence		4	0	2003.0	2008.0
+CHRNB2	1141	Attention Deficit Disorder	C0041671	disease	Mental Disorders	Mental or Behavioral Dysfunction	72	2	0.5	no reported evidence		4	0	2003.0	2012.0
+SLC4A2	6522	Autosomal Recessive Polycystic Kidney Disease	C0085548	disease	Congenital, Hereditary, and Neonatal Diseases and Abnormalities; Female Urogenital Diseases and Pregnancy Complications; Male Urogenital Diseases	Disease or Syndrome	37	181	0.5	no reported evidence		1	0	2008.0	2008.0
+FTO	79068	Diabetes Mellitus, Non-Insulin-Dependent	C0011860	disease	Endocrine System Diseases; Nutritional and Metabolic Diseases	Disease or Syndrome	1671	1522	0.5	no reported evidence	0.9195402	100	17	2007.0	2017.0
+FTO	79068	Obesity	C0028754	disease	Nutritional and Metabolic Diseases; Pathological Conditions, Signs and Symptoms	Disease or Syndrome	1960	811	0.5	no reported evidence	0.9529086	374	63	2007.0	2018.0
+FTO	79068	Breast Carcinoma	C0678222	disease	Neoplasms; Skin and Connective Tissue Diseases	Neoplastic Process	4962	1839	0.47	no reported evidence	1.0	11	5	2013.0	2018.0
+FTO	79068	melanoma	C0025202	disease	Neoplasms	Neoplastic Process	2453	389	0.43	no reported evidence	1.0	4	1	2013.0	2017.0
+CDK5	1020	Cerebellar Hypoplasia	C0266470	disease	Congenital, Hereditary, and Neonatal Diseases and Abnormalities; Mental Disorders; Nervous System Diseases	Congenital Abnormality	143	6	0.4	limited		1	0	2015.0	2015.0
+CDK5	1020	LISSENCEPHALY 7 WITH CEREBELLAR HYPOPLASIA	C4225359	disease		Disease or Syndrome	1	1	0.4	no reported evidence		1	1	2015.0	2015.0
+CHRNB2	1141	Epilepsy, Frontal Lobe	C0085541	disease	Nervous System Diseases	Disease or Syndrome	7	0	0.4	no reported evidence	1.0	11	0	2002.0	2016.0
+FTO	79068	Body Weight	C0005910	phenotype	Pathological Conditions, Signs and Symptoms	Organism Attribute	23	41	0.4	no reported evidence		4	3	2008.0	2012.0
+FTO	79068	Pediatric Obesity	C2362324	disease	Nutritional and Metabolic Diseases; Pathological Conditions, Signs and Symptoms	Disease or Syndrome	70	31	0.4	no reported evidence	0.9285714	15	1	2007.0	2016.0
+CHRNB2	1141	Autosomal Dominant Nocturnal Frontal Lobe Epilepsy	C3696898	disease	Nervous System Diseases	Disease or Syndrome	10	6	0.39	no reported evidence	1.0	9	1	2001.0	2013.0
+FTO	79068	Malignant neoplasm of breast	C0006142	disease	Neoplasms; Skin and Connective Tissue Diseases	Neoplastic Process	5053	1365	0.37	no reported evidence	1.0	7	3	2013.0	2018.0
+FTO	79068	Mental Depression	C0011570	disease	Behavior and Behavior Mechanisms	Mental or Behavioral Dysfunction	574	137	0.35	no reported evidence	0.5	5	1	2012.0	2016.0
+FTO	79068	Depressive disorder	C0011581	disease	Mental Disorders	Mental or Behavioral Dysfunction	740	143	0.35	no reported evidence	0.6666667	5	1	2012.0	2016.0
+CHRNB2	1141	Alzheimer's Disease	C0002395	disease	Mental Disorders; Nervous System Diseases	Disease or Syndrome	1981	1062	0.34	no reported evidence	1.0	4	0	2000.0	2007.0
+SLC4A2	6522	Primary biliary cirrhosis	C0008312	disease	Digestive System Diseases	Disease or Syndrome	328	108	0.34	no reported evidence	1.0	5	1	2002.0	2012.0
+FTO	79068	Alcoholic Intoxication, Chronic	C0001973	disease	Mental Disorders; Substance-Related Disorders	Mental or Behavioral Dysfunction	423	323	0.33	no reported evidence	1.0	3	1	2011.0	2015.0
+CDK5	1020	Tauopathies	C0949664	group	Nervous System Diseases	Disease or Syndrome	129	18	0.32	no reported evidence	1.0	3	0	2013.0	2017.0
+CHRNB2	1141	Schizophrenia	C0036341	disease	Mental Disorders	Mental or Behavioral Dysfunction	1922	1782	0.32	no reported evidence	0.5	2	0	2007.0	2008.0
+CDK5	1020	Schizophrenia	C0036341	disease	Mental Disorders	Mental or Behavioral Dysfunction	1922	1782	0.31	no reported evidence	1.0	1	0	2011.0	2011.0
+FTO	79068	Mood Disorders	C0525045	group	Mental Disorders	Mental or Behavioral Dysfunction	335	91	0.31	no reported evidence	1.0	1	0	2012.0	2012.0
+CDK5	1020	Cocaine Dependence	C0600427	disease	Mental Disorders; Substance-Related Disorders	Mental or Behavioral Dysfunction	156	28	0.3	no reported evidence	1.0	2	0	2001.0	2005.0
+CHRNB2	1141	Anxiety Disorders	C0003469	group	Mental Disorders	Mental or Behavioral Dysfunction	395	79	0.3	no reported evidence		1	0	2013.0	2013.0
+CHRNB2	1141	Presenile dementia	C0011265	disease	Mental Disorders; Nervous System Diseases	Mental or Behavioral Dysfunction	361	102	0.3	no reported evidence		1	0	2007.0	2007.0
+CHRNB2	1141	Hypothermia, natural	C0020672	phenotype	Pathological Conditions, Signs and Symptoms	Finding	18	0	0.3	no reported evidence		1	0	2004.0	2004.0
+CHRNB2	1141	Inflammation	C0021368	phenotype	Pathological Conditions, Signs and Symptoms	Pathologic Function	428	18	0.3	no reported evidence		1	0	2011.0	2011.0
+CHRNB2	1141	Nerve Degeneration	C0027746	phenotype	Pathological Conditions, Signs and Symptoms	Cell or Molecular Dysfunction	144	5	0.3	no reported evidence		1	0	2011.0	2011.0
+CHRNB2	1141	Reflex, Abnormal	C0034933	phenotype	Nervous System Diseases; Pathological Conditions, Signs and Symptoms	Sign or Symptom	5	0	0.3	no reported evidence		1	0	2013.0	2013.0
+CHRNB2	1141	Substance Withdrawal Syndrome	C0038587	disease	Mental Disorders; Substance-Related Disorders	Mental or Behavioral Dysfunction	57	0	0.3	no reported evidence		1	0	2008.0	2008.0
+CHRNB2	1141	Sudden infant death syndrome	C0038644	disease	Pathological Conditions, Signs and Symptoms	Disease or Syndrome	77	30	0.3	no reported evidence		1	0	2012.0	2012.0
+CHRNB2	1141	Drug Withdrawal Symptoms	C0086189	phenotype	Mental Disorders; Substance-Related Disorders	Sign or Symptom	53	0	0.3	no reported evidence		1	0	2008.0	2008.0
+CHRNB2	1141	Withdrawal Symptoms	C0087169	phenotype	Mental Disorders; Substance-Related Disorders	Sign or Symptom	72	9	0.3	no reported evidence		1	0	2008.0	2008.0
+CHRNB2	1141	Reflex, Corneal, Decreased	C0151572	phenotype	Nervous System Diseases; Pathological Conditions, Signs and Symptoms	Finding	6	0	0.3	no reported evidence		1	0	2013.0	2013.0
+CHRNB2	1141	Hyporeflexia	C0151888	phenotype	Nervous System Diseases; Pathological Conditions, Signs and Symptoms	Finding	5	0	0.3	no reported evidence		1	0	2013.0	2013.0
+CHRNB2	1141	Hyperreflexia	C0151889	phenotype	Nervous System Diseases; Pathological Conditions, Signs and Symptoms	Finding	300	4	0.3	no reported evidence		1	0	2013.0	2013.0
+CHRNB2	1141	Absent reflex	C0234146	phenotype	Nervous System Diseases; Pathological Conditions, Signs and Symptoms	Finding	136	0	0.3	no reported evidence		1	0	2013.0	2013.0
+CHRNB2	1141	Reflex, Gag, Absent	C0234784	phenotype	Nervous System Diseases; Pathological Conditions, Signs and Symptoms	Finding	5	0	0.3	no reported evidence		1	0	2013.0	2013.0
+CHRNB2	1141	Reflex, Deep Tendon, Absent	C0241772	phenotype	Nervous System Diseases; Pathological Conditions, Signs and Symptoms	Finding	136	0	0.3	no reported evidence		1	0	2013.0	2013.0
+CHRNB2	1141	Hypothermia, Accidental	C0274285	disease	Pathological Conditions, Signs and Symptoms	Injury or Poisoning	12	0	0.3	no reported evidence		1	0	2004.0	2004.0
+CHRNB2	1141	Familial Alzheimer Disease (FAD)	C0276496	disease	Mental Disorders; Nervous System Diseases	Disease or Syndrome	187	62	0.3	no reported evidence		1	0	2007.0	2007.0
+CHRNB2	1141	Hoffman's Reflex	C0277839	phenotype	Nervous System Diseases; Pathological Conditions, Signs and Symptoms	Finding	5	0	0.3	no reported evidence		1	0	2013.0	2013.0
+CHRNB2	1141	Reflex, Pendular	C0277850	phenotype	Nervous System Diseases; Pathological Conditions, Signs and Symptoms	Finding	5	0	0.3	no reported evidence		1	0	2013.0	2013.0
+CHRNB2	1141	Reflex, Corneal, Absent	C0278211	phenotype	Nervous System Diseases; Pathological Conditions, Signs and Symptoms	Finding	5	0	0.3	no reported evidence		1	0	2013.0	2013.0
+CHRNB2	1141	Anxiety States, Neurotic	C0376280	disease	Mental Disorders	Mental or Behavioral Dysfunction	39	0	0.3	no reported evidence		1	0	2013.0	2013.0
+CHRNB2	1141	Frontal Epilepsy, Benign, Childhood	C0393671	disease	Nervous System Diseases	Disease or Syndrome	4	0	0.3	no reported evidence		1	0	2004.0	2004.0
+CHRNB2	1141	Epilepsy, Supplementary Motor	C0393683	disease	Nervous System Diseases	Disease or Syndrome	4	0	0.3	no reported evidence		1	0	2004.0	2004.0
+CHRNB2	1141	Epilepsy, Cingulate	C0393684	disease	Nervous System Diseases	Disease or Syndrome	4	0	0.3	no reported evidence		1	0	2004.0	2004.0
+CHRNB2	1141	Epilepsy, Opercular	C0393688	disease	Nervous System Diseases	Disease or Syndrome	4	0	0.3	no reported evidence		1	0	2004.0	2004.0
+CHRNB2	1141	Alzheimer Disease, Late Onset	C0494463	disease	Mental Disorders; Nervous System Diseases	Mental or Behavioral Dysfunction	252	110	0.3	no reported evidence		1	0	2007.0	2007.0
+CHRNB2	1141	Reflex, Acoustic, Abnormal	C0522345	phenotype	Nervous System Diseases; Pathological Conditions, Signs and Symptoms	Finding	5	0	0.3	no reported evidence		1	0	2013.0	2013.0
+CHRNB2	1141	Epileptic encephalopathy	C0543888	disease		Disease or Syndrome	467	60	0.3	strong		0	0		
+CHRNB2	1141	Acute Confusional Senile Dementia	C0546126	disease	Mental Disorders; Nervous System Diseases	Mental or Behavioral Dysfunction	84	2	0.3	no reported evidence		1	0	2007.0	2007.0
+CHRNB2	1141	Reflex, Ankle, Absent	C0558845	phenotype	Nervous System Diseases; Pathological Conditions, Signs and Symptoms	Finding	14	1	0.3	no reported evidence		1	0	2013.0	2013.0
+CHRNB2	1141	Reflex, Triceps, Absent	C0558846	phenotype	Nervous System Diseases; Pathological Conditions, Signs and Symptoms	Finding	5	0	0.3	no reported evidence		1	0	2013.0	2013.0
+CHRNB2	1141	Reflex, Biceps, Absent	C0558847	phenotype	Nervous System Diseases; Pathological Conditions, Signs and Symptoms	Finding	5	0	0.3	no reported evidence		1	0	2013.0	2013.0
+CHRNB2	1141	Reflex, Anal, Absent	C0576612	phenotype	Nervous System Diseases; Pathological Conditions, Signs and Symptoms	Finding	5	0	0.3	no reported evidence		1	0	2013.0	2013.0
+CHRNB2	1141	Abnormal Deep Tendon Reflex	C0743002	phenotype	Nervous System Diseases; Pathological Conditions, Signs and Symptoms	Finding	5	0	0.3	no reported evidence		1	0	2013.0	2013.0
+CHRNB2	1141	Alzheimer's Disease, Focal Onset	C0750900	disease	Mental Disorders; Nervous System Diseases	Mental or Behavioral Dysfunction	84	2	0.3	no reported evidence		1	0	2007.0	2007.0
+CHRNB2	1141	Alzheimer Disease, Early Onset	C0750901	disease	Mental Disorders; Nervous System Diseases	Disease or Syndrome	115	55	0.3	no reported evidence		1	0	2007.0	2007.0
+CHRNB2	1141	Bulbocavernosus Reflex, Decreased	C0751468	phenotype	Nervous System Diseases; Pathological Conditions, Signs and Symptoms	Finding	5	0	0.3	no reported evidence		1	0	2013.0	2013.0
+CHRNB2	1141	Bulbocavernousus Reflex Absent	C0751469	phenotype	Nervous System Diseases; Pathological Conditions, Signs and Symptoms	Finding	5	0	0.3	no reported evidence		1	0	2013.0	2013.0
+CHRNB2	1141	Palmo-Mental Reflex	C0751470	phenotype	Nervous System Diseases; Pathological Conditions, Signs and Symptoms	Finding	5	0	0.3	no reported evidence		1	0	2013.0	2013.0
+CHRNB2	1141	Reflex, Anal, Decreased	C0751471	phenotype	Nervous System Diseases; Pathological Conditions, Signs and Symptoms	Finding	5	0	0.3	no reported evidence		1	0	2013.0	2013.0
+CHRNB2	1141	Reflex, Ankle, Abnormal	C0751472	phenotype	Nervous System Diseases; Pathological Conditions, Signs and Symptoms	Finding	5	0	0.3	no reported evidence		1	0	2013.0	2013.0
+CHRNB2	1141	Reflex, Ankle, Decreased	C0751473	phenotype	Nervous System Diseases; Pathological Conditions, Signs and Symptoms	Finding	5	0	0.3	no reported evidence		1	0	2013.0	2013.0
+CHRNB2	1141	Reflex, Biceps, Abnormal	C0751474	phenotype	Nervous System Diseases; Pathological Conditions, Signs and Symptoms	Finding	5	0	0.3	no reported evidence		1	0	2013.0	2013.0
+CHRNB2	1141	Reflex, Biceps, Decreased	C0751475	phenotype	Nervous System Diseases; Pathological Conditions, Signs and Symptoms	Finding	5	0	0.3	no reported evidence		1	0	2013.0	2013.0
+CHRNB2	1141	Reflex, Gag, Decreased	C0751476	phenotype	Nervous System Diseases; Pathological Conditions, Signs and Symptoms	Finding	5	0	0.3	no reported evidence		1	0	2013.0	2013.0
+CHRNB2	1141	Reflex, Knee, Abnormal	C0751477	phenotype	Nervous System Diseases; Pathological Conditions, Signs and Symptoms	Finding	5	0	0.3	no reported evidence		1	0	2013.0	2013.0
+CHRNB2	1141	Reflex, Knee, Decreased	C0751478	phenotype	Nervous System Diseases; Pathological Conditions, Signs and Symptoms	Finding	5	0	0.3	no reported evidence		1	0	2013.0	2013.0
+CHRNB2	1141	Reflex, Moro, Asymmetric	C0751479	phenotype	Nervous System Diseases; Pathological Conditions, Signs and Symptoms	Finding	5	0	0.3	no reported evidence		1	0	2013.0	2013.0
+CHRNB2	1141	Reflex, Triceps, Abnormal	C0751480	phenotype	Nervous System Diseases; Pathological Conditions, Signs and Symptoms	Finding	5	0	0.3	no reported evidence		1	0	2013.0	2013.0
+CHRNB2	1141	Reflex, Triceps, Decreased	C0751481	phenotype	Nervous System Diseases; Pathological Conditions, Signs and Symptoms	Finding	5	0	0.3	no reported evidence		1	0	2013.0	2013.0
+CHRNB2	1141	Long Sleeper Syndrome	C0751508	disease	Mental Disorders; Nervous System Diseases; Pathological Conditions, Signs and Symptoms	Disease or Syndrome	7	0	0.3	no reported evidence		1	0	2002.0	2002.0
+CHRNB2	1141	Short Sleeper Syndrome	C0751509	disease	Mental Disorders; Nervous System Diseases; Pathological Conditions, Signs and Symptoms	Disease or Syndrome	8	1	0.3	no reported evidence		1	0	2002.0	2002.0
+CHRNB2	1141	Sleep-Related Neurogenic Tachypnea	C0751510	disease	Mental Disorders; Nervous System Diseases; Pathological Conditions, Signs and Symptoms	Disease or Syndrome	7	0	0.3	no reported evidence		1	0	2002.0	2002.0
+CHRNB2	1141	Subwakefullness Syndrome	C0751511	disease	Mental Disorders; Nervous System Diseases; Pathological Conditions, Signs and Symptoms	Disease or Syndrome	7	0	0.3	no reported evidence		1	0	2002.0	2002.0
+CHRNB2	1141	Epilepsy, Anterior Fronto-Polar	C0751642	disease	Nervous System Diseases	Disease or Syndrome	4	0	0.3	no reported evidence		1	0	2004.0	2004.0
+CHRNB2	1141	Epilepsy, Orbito-Frontal	C0751643	disease	Nervous System Diseases	Disease or Syndrome	4	0	0.3	no reported evidence		1	0	2004.0	2004.0
+CHRNB2	1141	Sleep Disorders	C0851578	group	Mental Disorders; Nervous System Diseases; Pathological Conditions, Signs and Symptoms	Disease or Syndrome	47	6	0.3	no reported evidence		1	0	2002.0	2002.0
+CHRNB2	1141	Attention deficit hyperactivity disorder	C1263846	disease	Mental Disorders	Mental or Behavioral Dysfunction	411	202	0.3	no reported evidence		1	0	2012.0	2012.0
+CHRNB2	1141	Anxiety neurosis (finding)	C1279420	disease	Mental Disorders	Mental or Behavioral Dysfunction	52	1	0.3	no reported evidence		1	0	2013.0	2013.0
+CHRNB2	1141	Minimal Brain Dysfunction	C1321905	disease	Mental Disorders	Mental or Behavioral Dysfunction	21	0	0.3	no reported evidence		1	0	2012.0	2012.0
+CHRNB2	1141	Intellectual Disability	C3714756	group	Behavior and Behavior Mechanisms; Mental Disorders; Nervous System Diseases; Pathological Conditions, Signs and Symptoms	Mental or Behavioral Dysfunction	2502	53	0.3	limited		2	0	2001.0	2013.0
+CHRNB2	1141	Sleep Wake Disorders	C4042891	group	Mental Disorders; Nervous System Diseases; Pathological Conditions, Signs and Symptoms	Mental or Behavioral Dysfunction	11	0	0.3	no reported evidence		1	0	2002.0	2002.0
+SLC4A2	6522	Choledochal Cyst	C0008340	disease	Congenital, Hereditary, and Neonatal Diseases and Abnormalities; Digestive System Diseases; Neoplasms	Congenital Abnormality	10	0	0.3	no reported evidence		1	0	2008.0	2008.0
+SLC4A2	6522	Choledochal Cyst, Type I	C0009439	disease	Congenital, Hereditary, and Neonatal Diseases and Abnormalities; Digestive System Diseases; Neoplasms	Congenital Abnormality	5	0	0.3	no reported evidence		1	0	2008.0	2008.0
+SLC4A2	6522	Biliary cirrhosis	C0023892	disease	Digestive System Diseases	Disease or Syndrome	154	560	0.3	no reported evidence		1	0	2008.0	2008.0
+SLC4A2	6522	Prostatic Neoplasms	C0033578	group	Male Urogenital Diseases; Neoplasms	Neoplastic Process	1553	25	0.3	no reported evidence		1	0	2018.0	2018.0
+SLC4A2	6522	Biliary Cirrhosis, Secondary	C0238065	disease	Digestive System Diseases	Disease or Syndrome	33	0	0.3	no reported evidence		1	0	2008.0	2008.0
+SLC4A2	6522	Malignant neoplasm of prostate	C0376358	disease	Male Urogenital Diseases; Neoplasms	Neoplastic Process	3238	563	0.3	no reported evidence		1	0	2018.0	2018.0
+SLC4A2	6522	Choledochal Cyst, Type II	C1257796	disease	Congenital, Hereditary, and Neonatal Diseases and Abnormalities; Digestive System Diseases; Neoplasms	Congenital Abnormality	5	0	0.3	no reported evidence		1	0	2008.0	2008.0
+SLC4A2	6522	Choledochal Cyst, Type III	C1257797	disease	Congenital, Hereditary, and Neonatal Diseases and Abnormalities; Digestive System Diseases; Neoplasms	Congenital Abnormality	5	0	0.3	no reported evidence		1	0	2008.0	2008.0
+SLC4A2	6522	Choledochal Cyst, Type IV	C1257798	disease	Congenital, Hereditary, and Neonatal Diseases and Abnormalities; Digestive System Diseases; Neoplasms	Congenital Abnormality	5	0	0.3	no reported evidence		1	0	2008.0	2008.0
+SLC4A2	6522	Choledochal Cyst, Type V	C1257799	disease	Congenital, Hereditary, and Neonatal Diseases and Abnormalities; Digestive System Diseases; Neoplasms	Congenital Abnormality	5	0	0.3	no reported evidence		1	0	2008.0	2008.0
+ASIC3	9311	Inflammation	C0021368	phenotype	Pathological Conditions, Signs and Symptoms	Pathologic Function	428	18	0.3	no reported evidence		1	0	2001.0	2001.0
+ABCB8	11194	Malignant neoplasm of breast	C0006142	disease	Neoplasms; Skin and Connective Tissue Diseases	Neoplastic Process	5053	1365	0.3	no reported evidence		0	0		
+FTO	79068	Weight Gain	C0043094	phenotype	Pathological Conditions, Signs and Symptoms	Finding	109	1	0.3	no reported evidence		1	0	2014.0	2014.0
+FTO	79068	Mammary Neoplasms, Human	C1257931	group	Neoplasms; Skin and Connective Tissue Diseases	Neoplastic Process	475	0	0.3	no reported evidence		1	0	2013.0	2013.0
+FTO	79068	Mammary Neoplasms	C1458155	group	Neoplasms; Skin and Connective Tissue Diseases	Neoplastic Process	2386	303	0.3	no reported evidence		1	0	2013.0	2013.0
+FTO	79068	BODY MASS INDEX QUANTITATIVE TRAIT LOCUS 14	C2675914	phenotype		Finding	1	0	0.3	no reported evidence		0	0		
+FTO	79068	Intellectual Disability	C3714756	group	Behavior and Behavior Mechanisms; Mental Disorders; Nervous System Diseases; Pathological Conditions, Signs and Symptoms	Mental or Behavioral Dysfunction	2502	53	0.3	strong		2	0	2009.0	2016.0
+FTO	79068	Adolescent Obesity	C4317171	disease	Nutritional and Metabolic Diseases; Pathological Conditions, Signs and Symptoms	Disease or Syndrome	4	0	0.3	no reported evidence		1	0	2016.0	2016.0
+FTO	79068	Childhood Overweight	C4521075	phenotype	Nutritional and Metabolic Diseases; Pathological Conditions, Signs and Symptoms	Sign or Symptom	4	0	0.3	no reported evidence		1	0	2016.0	2016.0
+CDK5	1020	Brain Ischemia	C0007786	disease	Cardiovascular Diseases; Nervous System Diseases	Disease or Syndrome	263	4	0.21	no reported evidence	1.0	2	0	2003.0	2007.0
+CHRNB2	1141	Other specified manifestations of hyperkinetic syndrome	C0154629	disease		Mental or Behavioral Dysfunction	21	0	0.2	no reported evidence		3	0	2003.0	2008.0
+SLC4A2	6522	Prediabetes syndrome	C0362046	disease	Endocrine System Diseases; Nutritional and Metabolic Diseases	Disease or Syndrome	81	14	0.2	no reported evidence		1	0	2014.0	2014.0
+FTO	79068	Diabetes Mellitus	C0011849	group	Endocrine System Diseases; Nutritional and Metabolic Diseases	Disease or Syndrome	1506	440	0.2	no reported evidence	0.8	31	3	2007.0	2018.0
+FTO	79068	Metabolic Syndrome X	C0524620	disease	Nutritional and Metabolic Diseases	Disease or Syndrome	547	293	0.2	no reported evidence	1.0	12	4	2008.0	2018.0
+CHRNB2	1141	Epilepsy	C0014544	disease	Nervous System Diseases	Disease or Syndrome	1176	147	0.13	no reported evidence	1.0	3	1	2001.0	2007.0
+FTO	79068	Malignant Neoplasms	C0006826	group	Neoplasms	Neoplastic Process	1437	87	0.11	no reported evidence	1.0	2	1	2016.0	2018.0
+FTO	79068	Coronary heart disease	C0010068	disease	Cardiovascular Diseases	Disease or Syndrome	912	760	0.11	no reported evidence	1.0	3	2	2011.0	2016.0
+FTO	79068	Epilepsy	C0014544	disease	Nervous System Diseases	Disease or Syndrome	1176	147	0.11	no reported evidence	1.0	1	0	2013.0	2013.0
+FTO	79068	Chronic Obstructive Airway Disease	C0024117	disease	Respiratory Tract Diseases	Disease or Syndrome	668	408	0.11	no reported evidence	1.0	1	1	2011.0	2011.0
+FTO	79068	Global developmental delay	C0557874	disease		Mental or Behavioral Dysfunction	1101	21	0.11	no reported evidence	1.0	1	0	2016.0	2016.0
+CDK5	1020	Alzheimer's Disease	C0002395	disease	Mental Disorders; Nervous System Diseases	Disease or Syndrome	1981	1062	0.1	no reported evidence	1.0	29	1	2000.0	2018.0
+CDK5	1020	Arthrogryposis	C0003886	disease	Congenital, Hereditary, and Neonatal Diseases and Abnormalities; Musculoskeletal Diseases	Disease or Syndrome	306	6	0.1	no reported evidence		0	0		
+CDK5	1020	Hirsutism	C0019572	phenotype	Pathological Conditions, Signs and Symptoms; Skin and Connective Tissue Diseases	Finding	63	3	0.1	no reported evidence		0	0		
+CDK5	1020	Lymphedema	C0024236	disease	Hemic and Lymphatic Diseases	Disease or Syndrome	49	1	0.1	no reported evidence		0	0		
+CDK5	1020	Micrognathism	C0025990	disease	Congenital, Hereditary, and Neonatal Diseases and Abnormalities; Musculoskeletal Diseases; Stomatognathic Diseases	Congenital Abnormality	399	4	0.1	no reported evidence		0	0		
+CDK5	1020	Agenesis of corpus callosum	C0175754	disease	Congenital, Hereditary, and Neonatal Diseases and Abnormalities; Nervous System Diseases; Pathological Conditions, Signs and Symptoms	Congenital Abnormality	316	19	0.1	no reported evidence		0	0		
+CDK5	1020	Absent reflex	C0234146	phenotype	Nervous System Diseases; Pathological Conditions, Signs and Symptoms	Finding	136	0	0.1	no reported evidence		0	0		
+CDK5	1020	Hand clenching	C0239815	phenotype		Finding	9	0	0.1	no reported evidence		0	0		
+CDK5	1020	Lymphatic obstruction	C0240278	phenotype		Finding	30	0	0.1	no reported evidence		0	0		
+CDK5	1020	Reflex, Deep Tendon, Absent	C0241772	phenotype	Nervous System Diseases; Pathological Conditions, Signs and Symptoms	Finding	136	0	0.1	no reported evidence		0	0		
+CDK5	1020	Lissencephaly	C0266463	disease	Congenital, Hereditary, and Neonatal Diseases and Abnormalities; Nervous System Diseases	Congenital Abnormality	63	2	0.1	no reported evidence		0	0		
+CDK5	1020	Absent tendon reflex	C0278124	phenotype		Finding	133	0	0.1	no reported evidence		0	0		
+CDK5	1020	Small head	C0424688	phenotype		Finding	569	57	0.1	no reported evidence		0	0		
+CDK5	1020	Short neck	C0521525	phenotype		Finding	203	1	0.1	no reported evidence		0	0		
+CDK5	1020	Neurodegenerative Disorders	C0524851	group	Nervous System Diseases	Disease or Syndrome	744	41	0.1	no reported evidence	0.923076923076923	13	0	2002.0	2018.0
+CDK5	1020	Global developmental delay	C0557874	disease		Mental or Behavioral Dysfunction	1101	21	0.1	no reported evidence		0	0		
+CDK5	1020	Onset of lymphedema around puberty	C1835229	phenotype		Finding	30	0	0.1	no reported evidence		0	0		
+CDK5	1020	Hypoplastic mandible condyle	C1857130	phenotype		Anatomical Abnormality	394	0	0.1	no reported evidence		0	0		
+CDK5	1020	Cognitive delay	C1864897	phenotype		Finding	965	0	0.1	no reported evidence		0	0		
+CDK5	1020	Full cheeks	C1866231	phenotype		Finding	82	0	0.1	no reported evidence		0	0		
+CDK5	1020	Agyria	C1879312	disease	Congenital, Hereditary, and Neonatal Diseases and Abnormalities; Nervous System Diseases	Congenital Abnormality	47	0	0.1	no reported evidence		0	0		
+CDK5	1020	Chubby cheeks	C2748653	phenotype		Finding	82	0	0.1	no reported evidence		0	0		
+CDK5	1020	Puffy cheeks	C3806443	phenotype		Finding	82	0	0.1	no reported evidence		0	0		
+CDK5	1020	Mental and motor retardation	C4020875	phenotype		Pathologic Function	1020	151	0.1	no reported evidence		0	0		
+CDK5	1020	Aplasia/Hypoplasia of the mandible	C4024589	phenotype		Anatomical Abnormality	396	0	0.1	no reported evidence		0	0		
+CDK5	1020	Hypertrophy of cheeks	C4280647	phenotype		Finding	82	0	0.1	no reported evidence		0	0		
+CDK5	1020	Hyperplasia of cheeks	C4280648	phenotype		Finding	82	0	0.1	no reported evidence		0	0		
+CDK5	1020	Decreased projection of lower jaw	C4476523	phenotype		Anatomical Abnormality	394	0	0.1	no reported evidence		0	0		
+CDK5	1020	Decreased projection of mandible	C4476524	phenotype		Anatomical Abnormality	394	0	0.1	no reported evidence		0	0		
+CDK5	1020	Retrusion of lower jaw	C4476525	phenotype		Anatomical Abnormality	394	0	0.1	no reported evidence		0	0		
+CHRNB2	1141	Seizures	C0036572	phenotype	Nervous System Diseases; Pathological Conditions, Signs and Symptoms	Sign or Symptom	1173	165	0.1	no reported evidence		0	0		
+CHRNB2	1141	Genetic Diseases, Inborn	C0950123	group	Congenital, Hereditary, and Neonatal Diseases and Abnormalities	Disease or Syndrome	506	827	0.1	no reported evidence		1	1	2017.0	2017.0
+FTO	79068	Atrial Fibrillation	C0004238	disease	Cardiovascular Diseases; Pathological Conditions, Signs and Symptoms	Disease or Syndrome	287	216	0.1	no reported evidence		1	1	2016.0	2016.0
+FTO	79068	Hypertrophic Cardiomyopathy	C0007194	disease	Cardiovascular Diseases	Disease or Syndrome	327	287	0.1	no reported evidence		0	0		
+FTO	79068	Cardiovascular Diseases	C0007222	group	Cardiovascular Diseases	Disease or Syndrome	786	197	0.1	no reported evidence	1.0	12	2	2008.0	2016.0
+FTO	79068	Cryptorchidism	C0010417	disease	Congenital, Hereditary, and Neonatal Diseases and Abnormalities; Endocrine System Diseases; Male Urogenital Diseases	Congenital Abnormality	413	15	0.1	no reported evidence		0	0		
+FTO	79068	Dandy-Walker Syndrome	C0010964	disease	Congenital, Hereditary, and Neonatal Diseases and Abnormalities; Nervous System Diseases	Disease or Syndrome	79	5	0.1	no reported evidence		0	0		
+FTO	79068	Diabetes	C0011847	disease		Disease or Syndrome	1267	349	0.1	no reported evidence	0.7777778	27	3	2007.0	2018.0
+FTO	79068	Patent ductus arteriosus	C0013274	disease	Cardiovascular Diseases; Congenital, Hereditary, and Neonatal Diseases and Abnormalities	Congenital Abnormality	250	16	0.1	no reported evidence		0	0		
+FTO	79068	Fetal Growth Retardation	C0015934	phenotype	Congenital, Hereditary, and Neonatal Diseases and Abnormalities; Female Urogenital Diseases and Pregnancy Complications; Pathological Conditions, Signs and Symptoms	Pathologic Function	303	0	0.1	no reported evidence		0	0		
+FTO	79068	Sensorineural Hearing Loss (disorder)	C0018784	disease	Nervous System Diseases; Otorhinolaryngologic Diseases; Pathological Conditions, Signs and Symptoms	Disease or Syndrome	470	31	0.1	no reported evidence		0	0		
+FTO	79068	Heart failure	C0018801	disease	Cardiovascular Diseases	Disease or Syndrome	814	91	0.1	no reported evidence		1	1	2016.0	2016.0
+FTO	79068	heart rate	C0018810	phenotype		Clinical Attribute	29	75	0.1	no reported evidence		1	1	2009.0	2009.0
+FTO	79068	Ventricular Septal Defects	C0018818	group	Cardiovascular Diseases; Congenital, Hereditary, and Neonatal Diseases and Abnormalities	Congenital Abnormality	225	20	0.1	no reported evidence		0	0		
+FTO	79068	Hematocrit procedure	C0018935	phenotype		Laboratory Procedure	100	212	0.1	no reported evidence		1	1	2016.0	2016.0
+FTO	79068	Umbilical hernia	C0019322	phenotype		Disease or Syndrome	110	1	0.1	no reported evidence		0	0		
+FTO	79068	Hydrocephalus	C0020255	disease	Nervous System Diseases	Disease or Syndrome	252	7	0.1	no reported evidence		0	0		
+FTO	79068	Infant, Small for Gestational Age	C0021296	phenotype		Disease or Syndrome	274	0	0.1	no reported evidence		0	0		
+FTO	79068	Inflammatory Bowel Diseases	C0021390	group	Digestive System Diseases	Disease or Syndrome	910	451	0.1	no reported evidence		1	1	2017.0	2017.0
+FTO	79068	Leukopenia	C0023530	disease	Hemic and Lymphatic Diseases	Disease or Syndrome	245	63	0.1	no reported evidence		1	1	2017.0	2017.0
+FTO	79068	Macroglossia	C0024421	disease	Stomatognathic Diseases	Disease or Syndrome	93	0	0.1	no reported evidence		0	0		
+FTO	79068	Muscle Hypertonia	C0026826	phenotype	Nervous System Diseases; Pathological Conditions, Signs and Symptoms	Finding	116	2	0.1	no reported evidence		0	0		
+FTO	79068	Polycystic Ovary Syndrome	C0032460	disease	Endocrine System Diseases; Female Urogenital Diseases and Pregnancy Complications; Neoplasms	Disease or Syndrome	525	181	0.1	no reported evidence	1.0	14	1	2008.0	2017.0
+FTO	79068	Seizures	C0036572	phenotype	Nervous System Diseases; Pathological Conditions, Signs and Symptoms	Sign or Symptom	1173	165	0.1	no reported evidence		0	0		
+FTO	79068	Cerebrovascular accident	C0038454	group	Cardiovascular Diseases; Nervous System Diseases	Disease or Syndrome	767	331	0.1	no reported evidence		1	2	2016.0	2016.0
+FTO	79068	C-reactive protein measurement	C0201657	phenotype		Laboratory Procedure	50	245	0.1	no reported evidence		1	1	2017.0	2017.0
+FTO	79068	Triglycerides measurement	C0202236	phenotype		Laboratory Procedure	335	923	0.1	no reported evidence		4	4	2012.0	2017.0
+FTO	79068	Waist-Hip Ratio	C0205682	phenotype		Organism Attribute	121	320	0.1	no reported evidence		2	8	2008.0	2015.0
+FTO	79068	Brachydactyly	C0221357	disease	Congenital, Hereditary, and Neonatal Diseases and Abnormalities; Musculoskeletal Diseases	Congenital Abnormality	203	6	0.1	no reported evidence		0	0		
+FTO	79068	Failure to gain weight	C0231246	phenotype		Finding	538	22	0.1	no reported evidence		0	0		
+FTO	79068	Protrusion of tongue	C0241442	phenotype		Finding	17	1	0.1	no reported evidence		0	0		
+FTO	79068	Cutis marmorata	C0263401	disease		Disease or Syndrome	47	0	0.1	no reported evidence		0	0		
+FTO	79068	Micronychia (disorder)	C0263523	phenotype		Finding	40	0	0.1	no reported evidence		0	0		
+FTO	79068	Cleft uvula	C0266122	disease		Congenital Abnormality	42	0	0.1	no reported evidence		0	0		
+FTO	79068	Lissencephaly	C0266463	disease	Congenital, Hereditary, and Neonatal Diseases and Abnormalities; Nervous System Diseases	Congenital Abnormality	63	2	0.1	no reported evidence		0	0		
+FTO	79068	Glucose measurement	C0337438	phenotype		Laboratory Procedure	20	89	0.1	no reported evidence		1	1	2016.0	2016.0
+FTO	79068	High density lipoprotein measurement	C0392885	phenotype		Laboratory Procedure	323	867	0.1	no reported evidence		5	4	2012.0	2017.0
+FTO	79068	Lean body mass	C0424678	phenotype		Clinical Attribute	10	23	0.1	no reported evidence		1	1	2017.0	2017.0
+FTO	79068	Small head	C0424688	phenotype		Finding	569	57	0.1	no reported evidence		0	0		
+FTO	79068	Asymmetrical skull	C0424690	phenotype		Finding	5	0	0.1	no reported evidence		0	0		
+FTO	79068	Breast size	C0425782	phenotype		Finding	7	29	0.1	no reported evidence		1	1	2017.0	2017.0
+FTO	79068	Diastolic blood pressure	C0428883	phenotype		Clinical Attribute	116	256	0.1	no reported evidence		1	1	2016.0	2016.0
+FTO	79068	Waist Circumference	C0455829	phenotype		Clinical Attribute	90	227	0.1	no reported evidence		2	53	2009.0	2015.0
+FTO	79068	Overweight	C0497406	phenotype	Pathological Conditions, Signs and Symptoms	Finding	237	126	0.1	no reported evidence	0.9	20	7	2009.0	2016.0
+FTO	79068	body fat percentage (physical finding)	C0518026	phenotype		Finding	8	18	0.1	no reported evidence		2	2	2016.0	2017.0
+FTO	79068	Short neck	C0521525	phenotype		Finding	203	1	0.1	no reported evidence		0	0		
+FTO	79068	Hip circumference	C0562350	phenotype		Clinical Attribute	89	159	0.1	no reported evidence		1	1	2015.0	2015.0
+FTO	79068	Finding of body mass index	C0578022	phenotype		Finding	369	1022	0.1	no reported evidence		28	19	2007.0	2017.0
+FTO	79068	Systolic Pressure	C0871470	phenotype		Clinical Attribute	117	244	0.1	no reported evidence		1	1	2016.0	2016.0
+FTO	79068	Leptin measurement	C1295176	phenotype		Laboratory Procedure	2	5	0.1	no reported evidence		1	1	2016.0	2016.0
+FTO	79068	Body mass index	C1305855	phenotype		Clinical Attribute	369	1022	0.1	no reported evidence		28	19	2007.0	2017.0
+FTO	79068	Age at menarche	C1314691	phenotype		Finding	89	251	0.1	no reported evidence		3	3	2010.0	2017.0
+FTO	79068	Intrauterine retardation	C1386048	phenotype		Pathologic Function	277	6	0.1	no reported evidence		0	0		
+FTO	79068	Serum total cholesterol measurement	C1445957	phenotype		Laboratory Procedure	306	814	0.1	no reported evidence		1	1	2016.0	2016.0
+FTO	79068	Smoking Behaviors	C1519383	phenotype	Behavior and Behavior Mechanisms	Individual Behavior	208	753	0.1	no reported evidence		2	8	2010.0	2017.0
+FTO	79068	Anteverted nostril	C1840077	phenotype		Finding	282	4	0.1	no reported evidence		0	0		
+FTO	79068	Coarse facial features	C1845847	phenotype		Finding	151	4	0.1	no reported evidence		0	0		
+FTO	79068	Cognitive delay	C1864897	phenotype		Finding	965	0	0.1	no reported evidence		0	0		
+FTO	79068	Agyria	C1879312	disease	Congenital, Hereditary, and Neonatal Diseases and Abnormalities; Nervous System Diseases	Congenital Abnormality	47	0	0.1	no reported evidence		0	0		
+FTO	79068	Pediatric failure to thrive	C2315100	disease		Disease or Syndrome	542	0	0.1	no reported evidence		0	0		
+FTO	79068	Allergic rhinitis (disorder)	C2607914	disease	Immune System Diseases; Otorhinolaryngologic Diseases; Respiratory Tract Diseases	Disease or Syndrome	162	54	0.1	no reported evidence		1	1	2015.0	2015.0
+FTO	79068	Uranostaphyloschisis	C2981150	disease		Congenital Abnormality	273	7	0.1	no reported evidence		0	0		
+FTO	79068	Retrognathia	C3494422	phenotype	Congenital, Hereditary, and Neonatal Diseases and Abnormalities; Musculoskeletal Diseases; Stomatognathic Diseases	Anatomical Abnormality	118	3	0.1	no reported evidence		0	0		
+FTO	79068	Mental and motor retardation	C4020875	phenotype		Pathologic Function	1020	151	0.1	no reported evidence		0	0		
+FTO	79068	Physical Activity Measurement	C4049938	phenotype		Laboratory Procedure	110	303	0.1	no reported evidence		1	4	2017.0	2017.0
+FTO	79068	Thickened facial skin with coarse facial features	C4072825	phenotype		Finding	150	0	0.1	no reported evidence		0	0		
+FTO	79068	Malformation of skull shape	C4280562	phenotype		Anatomical Abnormality	5	0	0.1	no reported evidence		0	0		
+FTO	79068	Abnormality of skull shape	C4280563	phenotype		Finding	5	0	0.1	no reported evidence		0	0		
+FTO	79068	Undergrowth	C4531021	phenotype		Finding	528	0	0.1	no reported evidence		0	0		
+CDK5	1020	Diabetes Mellitus, Non-Insulin-Dependent	C0011860	disease	Endocrine System Diseases; Nutritional and Metabolic Diseases	Disease or Syndrome	1671	1522	0.07	no reported evidence	0.857142857142857	7	0	2010.0	2016.0
+FTO	79068	Hypertensive disease	C0020538	group	Cardiovascular Diseases	Disease or Syndrome	1309	447	0.07	no reported evidence	0.8571429	7	3	2010.0	2015.0
+FTO	79068	Obesity, Morbid	C0028756	disease	Nutritional and Metabolic Diseases; Pathological Conditions, Signs and Symptoms	Disease or Syndrome	112	29	0.07	no reported evidence	1.0	7	2	2007.0	2014.0
+CDK5	1020	Neoplasm Metastasis	C0027627	phenotype	Neoplasms; Pathological Conditions, Signs and Symptoms	Neoplastic Process	3919	129	0.06	no reported evidence	1.0	6	0	2006.0	2016.0
+CHRNB2	1141	Nicotine Dependence	C0028043	disease	Mental Disorders; Substance-Related Disorders	Mental or Behavioral Dysfunction	123	120	0.06	no reported evidence	0.666666666666667	6	1	2002.0	2015.0
+CDK5	1020	Amyloidosis	C0002726	disease	Nutritional and Metabolic Diseases	Disease or Syndrome	832	120	0.05	no reported evidence	1.0	5	0	2007.0	2011.0
+CDK5	1020	Parkinson Disease	C0030567	disease	Nervous System Diseases	Disease or Syndrome	1063	636	0.05	no reported evidence	1.0	5	0	2007.0	2015.0
+CDK5	1020	Malignant neoplasm of prostate	C0376358	disease	Male Urogenital Diseases; Neoplasms	Neoplastic Process	3238	563	0.05	no reported evidence	1.0	5	0	2006.0	2016.0
+CDK5	1020	Prostate carcinoma	C0600139	disease		Neoplastic Process	3144	756	0.05	no reported evidence	1.0	5	0	2006.0	2016.0
+FTO	79068	Arteriosclerosis	C0003850	disease	Cardiovascular Diseases	Disease or Syndrome	1086	121	0.05	no reported evidence	1.0	5	1	2010.0	2016.0
+FTO	79068	Atherosclerosis	C0004153	disease	Cardiovascular Diseases	Disease or Syndrome	1133	131	0.05	no reported evidence	1.0	5	1	2010.0	2016.0
+FTO	79068	Major Depressive Disorder	C1269683	disease	Mental Disorders	Mental or Behavioral Dysfunction	512	210	0.05	no reported evidence	0.4	5	2	2012.0	2016.0
+CDK5	1020	Amyotrophic Lateral Sclerosis	C0002736	disease	Nervous System Diseases; Nutritional and Metabolic Diseases	Disease or Syndrome	659	259	0.04	no reported evidence	1.0	4	0	2003.0	2016.0
+CDK5	1020	Carcinogenesis	C0596263	phenotype	Neoplasms; Pathological Conditions, Signs and Symptoms	Neoplastic Process	4064	159	0.04	no reported evidence	1.0	4	0	2014.0	2016.0
+CDK5	1020	Malignant neoplasm of breast	C0006142	disease	Neoplasms; Skin and Connective Tissue Diseases	Neoplastic Process	5053	1365	0.03	no reported evidence	1.0	3	0	2009.0	2015.0
+CDK5	1020	Malignant neoplasm of thyroid	C0007115	disease		Neoplastic Process	504	40	0.03	no reported evidence	1.0	3	0	2007.0	2013.0
+CDK5	1020	Huntington Disease	C0020179	disease	Congenital, Hereditary, and Neonatal Diseases and Abnormalities; Mental Disorders; Nervous System Diseases	Disease or Syndrome	626	68	0.03	no reported evidence	1.0	3	0	2005.0	2015.0
+CDK5	1020	Thyroid carcinoma	C0549473	disease	Endocrine System Diseases; Neoplasms	Neoplastic Process	720	81	0.03	no reported evidence	1.0	3	0	2007.0	2013.0
+CDK5	1020	Breast Carcinoma	C0678222	disease	Neoplasms; Skin and Connective Tissue Diseases	Neoplastic Process	4962	1839	0.03	no reported evidence	1.0	3	0	2009.0	2015.0
+CDK5	1020	Secondary malignant neoplasm of lymph node	C0686619	disease		Neoplastic Process	1270	66	0.03	no reported evidence	1.0	3	0	2015.0	2016.0
+FTO	79068	Alzheimer's Disease	C0002395	disease	Mental Disorders; Nervous System Diseases	Disease or Syndrome	1981	1062	0.03	no reported evidence	1.0	3	4	2011.0	2013.0
+FTO	79068	Myocardial Infarction	C0027051	disease	Cardiovascular Diseases	Disease or Syndrome	965	454	0.03	no reported evidence	1.0	3	1	2010.0	2016.0
+FTO	79068	Degenerative polyarthritis	C0029408	disease	Musculoskeletal Diseases	Disease or Syndrome	975	92	0.03	no reported evidence	1.0	3	2	2012.0	2014.0
+FTO	79068	Pancreatic carcinoma	C0235974	disease	Digestive System Diseases; Endocrine System Diseases; Neoplasms	Neoplastic Process	1868	225	0.03	no reported evidence	0.3333333	3	2	2011.0	2013.0
+FTO	79068	Malignant neoplasm of pancreas	C0346647	disease	Digestive System Diseases; Endocrine System Diseases; Neoplasms	Neoplastic Process	1845	136	0.03	no reported evidence	0.3333333	3	2	2011.0	2013.0
+FTO	79068	Overweight and obesity	C1561826	disease		Disease or Syndrome	8	2	0.03	no reported evidence	1.0	3	0	2011.0	2018.0
+CDK5	1020	leukemia	C0023418	disease	Neoplasms	Neoplastic Process	1940	76	0.02	no reported evidence	0.5	2	0	2001.0	2011.0
+CDK5	1020	nervous system disorder	C0027765	group	Nervous System Diseases	Disease or Syndrome	435	13	0.02	no reported evidence	1.0	2	0	2012.0	2015.0
+CDK5	1020	Neuroblastoma	C0027819	group	Neoplasms	Neoplastic Process	1698	288	0.02	no reported evidence	1.0	2	0	2009.0	2015.0
+CDK5	1020	Osteosarcoma	C0029463	disease	Neoplasms	Neoplastic Process	1102	74	0.02	no reported evidence	1.0	2	0	2010.0	2017.0
+CDK5	1020	Pain	C0030193	phenotype	Pathological Conditions, Signs and Symptoms	Sign or Symptom	484	101	0.02	no reported evidence	1.0	2	0	2006.0	2016.0
+CDK5	1020	Cerebrovascular accident	C0038454	group	Cardiovascular Diseases; Nervous System Diseases	Disease or Syndrome	767	331	0.02	no reported evidence	1.0	2	0	2007.0	2014.0
+CDK5	1020	Tumor Progression	C0178874	phenotype		Neoplastic Process	2089	36	0.02	no reported evidence	1.0	2	0	2014.0	2016.0
+CDK5	1020	Medullary carcinoma of thyroid	C0238462	disease	Endocrine System Diseases; Neoplasms	Neoplastic Process	238	56	0.02	no reported evidence	1.0	2	0	2007.0	2016.0
+CDK5	1020	Metabolic Syndrome X	C0524620	disease	Nutritional and Metabolic Diseases	Disease or Syndrome	547	293	0.02	no reported evidence	1.0	2	0	2010.0	2010.0
+CDK5	1020	Osteosarcoma of bone	C0585442	disease		Neoplastic Process	1041	61	0.02	no reported evidence	1.0	2	0	2010.0	2017.0
+CDK5	1020	Liver carcinoma	C2239176	disease	Digestive System Diseases; Neoplasms	Neoplastic Process	3592	419	0.02	no reported evidence	1.0	2	0	2011.0	2016.0
+CDK5	1020	Autosomal Recessive Primary Microcephaly	C3711387	disease	Congenital, Hereditary, and Neonatal Diseases and Abnormalities; Musculoskeletal Diseases; Nervous System Diseases	Disease or Syndrome	26	7	0.02	no reported evidence	1.0	2	0	2011.0	2016.0
+ASIC3	9311	Pain	C0030193	phenotype	Pathological Conditions, Signs and Symptoms	Sign or Symptom	484	101	0.02	no reported evidence	1.0	2	0	2008.0	2013.0
+ASIC3	9311	Inflammatory pain	C0234251	phenotype		Sign or Symptom	75	0	0.02	no reported evidence	1.0	2	0	2008.0	2013.0
+ABCB8	11194	melanoma	C0025202	disease	Neoplasms	Neoplastic Process	2453	389	0.02	no reported evidence	1.0	2	0	2009.0	2011.0
+FTO	79068	Congenital Abnormality	C0000768	group	Congenital, Hereditary, and Neonatal Diseases and Abnormalities	Congenital Abnormality	606	30	0.02	no reported evidence	1.0	2	1	2009.0	2016.0
+FTO	79068	Asthma	C0004096	disease	Immune System Diseases; Respiratory Tract Diseases	Disease or Syndrome	1312	729	0.02	no reported evidence	1.0	2	1	2013.0	2016.0
+FTO	79068	Mental disorders	C0004936	group	Mental Disorders	Mental or Behavioral Dysfunction	328	77	0.02	no reported evidence	1.0	2	0	2011.0	2012.0
+FTO	79068	Malignant neoplasm of endometrium	C0007103	disease		Neoplastic Process	576	106	0.02	no reported evidence	1.0	2	1	2012.0	2012.0
+FTO	79068	Eating Disorders	C0013473	group	Mental Disorders	Mental or Behavioral Dysfunction	71	25	0.02	no reported evidence	1.0	2	0	2011.0	2017.0
+FTO	79068	Hunger	C0020175	phenotype	Behavior and Behavior Mechanisms	Sign or Symptom	22	8	0.02	no reported evidence	1.0	2	1	2010.0	2015.0
+FTO	79068	Liver neoplasms	C0023903	group	Digestive System Diseases; Neoplasms	Neoplastic Process	1320	7	0.02	no reported evidence	1.0	2	0	1999.0	1999.0
+FTO	79068	Metabolic Diseases	C0025517	group	Nutritional and Metabolic Diseases	Disease or Syndrome	420	21	0.02	no reported evidence	0.5	2	0	2011.0	2014.0
+FTO	79068	nervous system disorder	C0027765	group	Nervous System Diseases	Disease or Syndrome	435	13	0.02	no reported evidence	1.0	2	0	2009.0	2013.0
+FTO	79068	Malignant neoplasm of prostate	C0376358	disease	Male Urogenital Diseases; Neoplasms	Neoplastic Process	3238	563	0.02	no reported evidence	1.0	2	1	2011.0	2013.0
+FTO	79068	Endometrial Carcinoma	C0476089	disease	Female Urogenital Diseases and Pregnancy Complications; Neoplasms	Neoplastic Process	839	145	0.02	no reported evidence	1.0	2	1	2012.0	2012.0
+FTO	79068	Prostate carcinoma	C0600139	disease		Neoplastic Process	3144	756	0.02	no reported evidence	1.0	2	1	2011.0	2013.0
+FTO	79068	Chronic Kidney Diseases	C1561643	group	Female Urogenital Diseases and Pregnancy Complications; Male Urogenital Diseases	Disease or Syndrome	379	120	0.02	no reported evidence	1.0	2	1	2012.0	2013.0
+FTO	79068	Uterine Corpus Cancer	C1883486	disease		Neoplastic Process	578	106	0.02	no reported evidence	1.0	2	1	2012.0	2012.0
+FTO	79068	Liver carcinoma	C2239176	disease	Digestive System Diseases; Neoplasms	Neoplastic Process	3592	419	0.02	no reported evidence	1.0	2	0	1999.0	1999.0
+CDK5	1020	Refractory anemias	C0002893	disease	Hemic and Lymphatic Diseases	Disease or Syndrome	265	3	0.01	no reported evidence	1.0	1	0	2003.0	2003.0
+CDK5	1020	Arteriosclerosis	C0003850	disease	Cardiovascular Diseases	Disease or Syndrome	1086	121	0.01	no reported evidence	1.0	1	0	2012.0	2012.0
+CDK5	1020	Rheumatoid Arthritis	C0003873	disease	Immune System Diseases; Musculoskeletal Diseases; Skin and Connective Tissue Diseases	Disease or Syndrome	1832	1878	0.01	no reported evidence	1.0	1	0	2003.0	2003.0
+CDK5	1020	Astrocytoma	C0004114	disease	Neoplasms	Neoplastic Process	740	44	0.01	no reported evidence	1.0	1	0	2001.0	2001.0
+CDK5	1020	Atherosclerosis	C0004153	disease	Cardiovascular Diseases	Disease or Syndrome	1133	131	0.01	no reported evidence	1.0	1	0	2012.0	2012.0
+CDK5	1020	Autistic Disorder	C0004352	group	Mental Disorders	Mental or Behavioral Dysfunction	676	237	0.01	no reported evidence	1.0	1	0	2017.0	2017.0
+CDK5	1020	Malignant Neoplasms	C0006826	group	Neoplasms	Neoplastic Process	1437	87	0.01	no reported evidence	1.0	1	0	2017.0	2017.0
+CDK5	1020	Malignant tumor of colon	C0007102	disease	Digestive System Diseases; Neoplasms	Neoplastic Process	2000	135	0.01	no reported evidence	1.0	1	0	2006.0	2006.0
+CDK5	1020	Diabetes Mellitus	C0011849	group	Endocrine System Diseases; Nutritional and Metabolic Diseases	Disease or Syndrome	1506	440	0.01	no reported evidence	1.0	1	0	2007.0	2007.0
+CDK5	1020	Drug abuse	C0013146	disease	Mental Disorders; Substance-Related Disorders	Mental or Behavioral Dysfunction	228	25	0.01	no reported evidence	1.0	1	0	2007.0	2007.0
+CDK5	1020	Glioblastoma	C0017636	disease	Neoplasms	Neoplastic Process	1936	180	0.01	no reported evidence	1.0	1	0	2015.0	2015.0
+CDK5	1020	Histiocytosis, Langerhans-Cell	C0019621	disease	Hemic and Lymphatic Diseases; Respiratory Tract Diseases	Neoplastic Process	68	9	0.01	no reported evidence	1.0	1	0	2015.0	2015.0
+CDK5	1020	Machado-Joseph Disease	C0024408	disease	Congenital, Hereditary, and Neonatal Diseases and Abnormalities; Nervous System Diseases	Disease or Syndrome	75	11	0.01	no reported evidence	1.0	1	0	2014.0	2014.0
+CDK5	1020	Malignant neoplasm of stomach	C0024623	disease	Digestive System Diseases; Neoplasms	Neoplastic Process	2397	341	0.01	no reported evidence	1.0	1	0	2016.0	2016.0
+CDK5	1020	Medulloblastoma	C0025149	disease	Neoplasms	Neoplastic Process	589	66	0.01	no reported evidence	1.0	1	0	2016.0	2016.0
+CDK5	1020	Mental Retardation	C0025362	disease		Mental or Behavioral Dysfunction	1157	29	0.01	no reported evidence	1.0	1	0	2016.0	2016.0
+CDK5	1020	Microcephaly	C0025958	disease	Congenital, Hereditary, and Neonatal Diseases and Abnormalities; Musculoskeletal Diseases; Nervous System Diseases	Congenital Abnormality	234	3	0.01	no reported evidence	1.0	1	0	2006.0	2006.0
+CDK5	1020	Multiple Myeloma	C0026764	disease	Cardiovascular Diseases; Hemic and Lymphatic Diseases; Immune System Diseases; Neoplasms	Neoplastic Process	1311	784	0.01	no reported evidence	1.0	1	0	2011.0	2011.0
+CDK5	1020	Spinal Muscular Atrophy	C0026847	disease	Nervous System Diseases	Disease or Syndrome	195	15	0.01	no reported evidence	1.0	1	0	2015.0	2015.0
+CDK5	1020	Neoplasms	C0027651	group	Neoplasms	Neoplastic Process	1235	103	0.01	no reported evidence	1.0	1	0	2017.0	2017.0
+CDK5	1020	Obesity	C0028754	disease	Nutritional and Metabolic Diseases; Pathological Conditions, Signs and Symptoms	Disease or Syndrome	1960	811	0.01	no reported evidence	1.0	1	0	2010.0	2010.0
+CDK5	1020	Ovarian Carcinoma	C0029925	disease		Neoplastic Process	2202	316	0.01	no reported evidence	1.0	1	0	2016.0	2016.0
+CDK5	1020	Prostatic Neoplasms	C0033578	group	Male Urogenital Diseases; Neoplasms	Neoplastic Process	1553	25	0.01	no reported evidence		1	0	2004.0	2004.0
+CDK5	1020	Psoriasis	C0033860	disease	Skin and Connective Tissue Diseases	Disease or Syndrome	817	636	0.01	no reported evidence	1.0	1	0	2005.0	2005.0
+CDK5	1020	Retinoblastoma	C0035335	disease	Eye Diseases; Neoplasms	Neoplastic Process	538	127	0.01	no reported evidence	1.0	1	0	2003.0	2003.0
+CDK5	1020	Seizures	C0036572	phenotype	Nervous System Diseases; Pathological Conditions, Signs and Symptoms	Sign or Symptom	1173	165	0.01	no reported evidence	1.0	1	0	1997.0	1997.0
+CDK5	1020	Shy-Drager Syndrome	C0037019	disease	Cardiovascular Diseases; Nervous System Diseases	Disease or Syndrome	74	27	0.01	no reported evidence	1.0	1	0	1998.0	1998.0
+CDK5	1020	Stomach Neoplasms	C0038356	group	Digestive System Diseases; Neoplasms	Neoplastic Process	834	23	0.01	no reported evidence	1.0	1	0	2016.0	2016.0
+CDK5	1020	Progressive supranuclear palsy	C0038868	disease	Eye Diseases; Nervous System Diseases; Pathological Conditions, Signs and Symptoms	Disease or Syndrome	68	22	0.01	no reported evidence		1	0	2002.0	2002.0
+CDK5	1020	Thyroid Neoplasm	C0040136	disease	Endocrine System Diseases; Neoplasms	Neoplastic Process	475	35	0.01	no reported evidence		1	0	2007.0	2007.0
+CDK5	1020	Unipolar Depression	C0041696	disease	Mental Disorders	Mental or Behavioral Dysfunction	516	378	0.01	no reported evidence	1.0	1	0	2016.0	2016.0
+CDK5	1020	Secondary malignant neoplasm of lung	C0153676	disease		Neoplastic Process	682	7	0.01	no reported evidence	1.0	1	0	2006.0	2006.0
+CDK5	1020	Ganglioglioma	C0206716	disease	Neoplasms	Neoplastic Process	60	2	0.01	no reported evidence	1.0	1	0	2002.0	2002.0
+CDK5	1020	Niemann-Pick Disease, Type C	C0220756	disease	Congenital, Hereditary, and Neonatal Diseases and Abnormalities; Hemic and Lymphatic Diseases; Nervous System Diseases; Nutritional and Metabolic Diseases	Disease or Syndrome	76	77	0.01	no reported evidence	0.0	1	0	2006.0	2006.0
+CDK5	1020	Memory impairment	C0233794	phenotype	Behavior and Behavior Mechanisms; Nervous System Diseases; Pathological Conditions, Signs and Symptoms	Mental or Behavioral Dysfunction	266	22	0.01	no reported evidence	1.0	1	0	2009.0	2009.0
+CDK5	1020	Inflammatory pain	C0234251	phenotype		Sign or Symptom	75	0	0.01	no reported evidence	1.0	1	0	2016.0	2016.0
+CDK5	1020	Pancreatic carcinoma	C0235974	disease	Digestive System Diseases; Endocrine System Diseases; Neoplasms	Neoplastic Process	1868	225	0.01	no reported evidence	1.0	1	0	2010.0	2010.0
+CDK5	1020	Pick Disease of the Brain	C0236642	disease	Mental Disorders; Nervous System Diseases	Disease or Syndrome	104	51	0.01	no reported evidence	1.0	1	0	2017.0	2017.0
+CDK5	1020	Malignant neoplasm of lung	C0242379	disease	Neoplasms; Respiratory Tract Diseases	Neoplastic Process	2448	409	0.01	no reported evidence	1.0	1	0	2008.0	2008.0
+CDK5	1020	Frontotemporal dementia	C0338451	disease	Mental Disorders; Nervous System Diseases; Nutritional and Metabolic Diseases	Disease or Syndrome	144	94	0.01	no reported evidence	1.0	1	0	2017.0	2017.0
+CDK5	1020	Autosomal dominant retinitis pigmentosa	C0339525	disease		Congenital Abnormality	63	34	0.01	no reported evidence	1.0	1	0	2012.0	2012.0
+CDK5	1020	Malignant neoplasm of pancreas	C0346647	disease	Digestive System Diseases; Endocrine System Diseases; Neoplasms	Neoplastic Process	1845	136	0.01	no reported evidence	1.0	1	0	2010.0	2010.0
+CDK5	1020	Cortical Dysplasia	C0431380	disease	Congenital, Hereditary, and Neonatal Diseases and Abnormalities; Nervous System Diseases	Congenital Abnormality	63	3	0.01	no reported evidence	1.0	1	0	2008.0	2008.0
+CDK5	1020	Refractory cancer	C0677936	phenotype		Neoplastic Process	176	7	0.01	no reported evidence	1.0	1	0	2015.0	2015.0
+CDK5	1020	Carcinoma of lung	C0684249	disease		Neoplastic Process	2475	735	0.01	no reported evidence	1.0	1	0	2008.0	2008.0
+CDK5	1020	Colon Carcinoma	C0699790	disease		Neoplastic Process	2090	240	0.01	no reported evidence	1.0	1	0	2006.0	2006.0
+CDK5	1020	Stomach Carcinoma	C0699791	disease		Neoplastic Process	2377	364	0.01	no reported evidence	1.0	1	0	2016.0	2016.0
+CDK5	1020	Central neuroblastoma	C0700095	disease		Neoplastic Process	1655	87	0.01	no reported evidence	1.0	1	0	2015.0	2015.0
+CDK5	1020	Hyperalgesia, Thermal	C0751214	phenotype	Nervous System Diseases; Pathological Conditions, Signs and Symptoms	Sign or Symptom	108	0	0.01	no reported evidence	1.0	1	0	2016.0	2016.0
+CDK5	1020	Mitochondrial Diseases	C0751651	group	Nutritional and Metabolic Diseases	Disease or Syndrome	383	57	0.01	no reported evidence	1.0	1	0	2015.0	2015.0
+CDK5	1020	Metastatic Prostate Carcinoma	C0936223	disease		Neoplastic Process	240	17	0.01	no reported evidence	1.0	1	0	2015.0	2015.0
+CDK5	1020	Ischemic stroke	C0948008	disease		Disease or Syndrome	393	209	0.01	no reported evidence	1.0	1	0	2007.0	2007.0
+CDK5	1020	Malignant neoplasm of ovary	C1140680	disease	Endocrine System Diseases; Female Urogenital Diseases and Pregnancy Complications; Neoplasms	Neoplastic Process	2025	244	0.01	no reported evidence	1.0	1	0	2016.0	2016.0
+CDK5	1020	Squamous cell carcinoma of the head and neck	C1168401	disease	Neoplasms	Neoplastic Process	933	288	0.01	no reported evidence	1.0	1	0	2016.0	2016.0
+CDK5	1020	Major Depressive Disorder	C1269683	disease	Mental Disorders	Mental or Behavioral Dysfunction	512	210	0.01	no reported evidence	1.0	1	0	2016.0	2016.0
+CDK5	1020	Metastasis from malignant tumor of prostate	C1282496	disease		Neoplastic Process	231	15	0.01	no reported evidence	1.0	1	0	2015.0	2015.0
+CDK5	1020	Primary malignant neoplasm	C1306459	group		Neoplastic Process	1031	34	0.01	no reported evidence	1.0	1	0	2017.0	2017.0
+CDK5	1020	Primary malignant neoplasm of lung	C1306460	disease		Neoplastic Process	2267	400	0.01	no reported evidence	1.0	1	0	2008.0	2008.0
+CDK5	1020	Childhood Osteosarcoma	C1332986	disease		Neoplastic Process	205	1	0.01	no reported evidence	1.0	1	0	2017.0	2017.0
+CDK5	1020	Mammary Neoplasms	C1458155	group	Neoplasms; Skin and Connective Tissue Diseases	Neoplastic Process	2386	303	0.01	no reported evidence	1.0	1	0	2016.0	2016.0
+CDK5	1020	Hippocampal sclerosis	C1504404	disease		Disease or Syndrome	51	6	0.01	no reported evidence	1.0	1	0	2006.0	2006.0
+CDK5	1020	Drug Dependence	C1510472	phenotype	Mental Disorders; Substance-Related Disorders	Mental or Behavioral Dysfunction	174	18	0.01	no reported evidence	1.0	1	0	2007.0	2007.0
+CDK5	1020	Malformations of Cortical Development, Group II	C1837249	disease	Congenital, Hereditary, and Neonatal Diseases and Abnormalities; Nervous System Diseases	Congenital Abnormality	84	6	0.01	no reported evidence	1.0	1	0	2003.0	2003.0
+CDK5	1020	FRAGILE X TREMOR/ATAXIA SYNDROME	C1839780	disease	Congenital, Hereditary, and Neonatal Diseases and Abnormalities; Nervous System Diseases; Pathological Conditions, Signs and Symptoms	Disease or Syndrome	46	0	0.01	no reported evidence	1.0	1	0	2018.0	2018.0
+CDK5	1020	X-Linked Lissencephaly	C1848199	disease	Congenital, Hereditary, and Neonatal Diseases and Abnormalities; Nervous System Diseases	Disease or Syndrome	14	24	0.01	no reported evidence	1.0	1	0	2000.0	2000.0
+CDK5	1020	Intellectual Disability	C3714756	group	Behavior and Behavior Mechanisms; Mental Disorders; Nervous System Diseases; Pathological Conditions, Signs and Symptoms	Mental or Behavioral Dysfunction	2502	53	0.01	no reported evidence	1.0	1	0	2016.0	2016.0
+CDK5	1020	Motor neuron atrophy	C4024896	disease		Disease or Syndrome	89	12	0.01	no reported evidence	1.0	1	0	2015.0	2015.0
+CDK5	1020	Lissencephaly with cerebellar hypoplasia	C4274995	disease		Disease or Syndrome	4	0	0.01	no reported evidence	1.0	1	0	2015.0	2015.0
+CHRNB2	1141	Mental Depression	C0011570	disease	Behavior and Behavior Mechanisms	Mental or Behavioral Dysfunction	574	137	0.01	no reported evidence	1.0	1	0	2015.0	2015.0
+CHRNB2	1141	Depressive disorder	C0011581	disease	Mental Disorders	Mental or Behavioral Dysfunction	740	143	0.01	no reported evidence	1.0	1	0	2015.0	2015.0
+CHRNB2	1141	Dizziness	C0012833	phenotype	Pathological Conditions, Signs and Symptoms	Sign or Symptom	53	8	0.01	no reported evidence	1.0	1	0	2012.0	2012.0
+CHRNB2	1141	Down Syndrome	C0013080	disease	Congenital, Hereditary, and Neonatal Diseases and Abnormalities; Nervous System Diseases	Disease or Syndrome	474	15	0.01	no reported evidence		1	0	2001.0	2001.0
+CHRNB2	1141	Nausea	C0027497	phenotype	Pathological Conditions, Signs and Symptoms	Sign or Symptom	57	4	0.01	no reported evidence	1.0	1	0	2012.0	2012.0
+CHRNB2	1141	Vertigo	C0042571	phenotype	Nervous System Diseases; Otorhinolaryngologic Diseases; Pathological Conditions, Signs and Symptoms	Sign or Symptom	55	9	0.01	no reported evidence	1.0	1	0	2012.0	2012.0
+CHRNB2	1141	Memory impairment	C0233794	phenotype	Behavior and Behavior Mechanisms; Nervous System Diseases; Pathological Conditions, Signs and Symptoms	Mental or Behavioral Dysfunction	266	22	0.01	no reported evidence	1.0	1	1	2006.0	2006.0
+CHRNB2	1141	Psychological addiction	C0278079	disease		Mental or Behavioral Dysfunction	3	2	0.01	no reported evidence	1.0	1	1	2016.0	2016.0
+CHRNB2	1141	idiopathic epilepsy	C0391957	disease		Disease or Syndrome	20	2	0.01	no reported evidence	1.0	1	0	2001.0	2001.0
+CHRNB2	1141	Dementia	C0497327	disease	Mental Disorders; Nervous System Diseases	Mental or Behavioral Dysfunction	435	107	0.01	no reported evidence		1	0	2006.0	2006.0
+CHRNB2	1141	Hippocampal sclerosis	C1504404	disease		Disease or Syndrome	51	6	0.01	no reported evidence	1.0	1	0	2013.0	2013.0
+SLC4A2	6522	Achlorhydria	C0001075	phenotype	Digestive System Diseases; Nutritional and Metabolic Diseases	Pathologic Function	2	0	0.01	no reported evidence		1	0	2008.0	2008.0
+SLC4A2	6522	Malignant tumor of colon	C0007102	disease	Digestive System Diseases; Neoplasms	Neoplastic Process	2000	135	0.01	no reported evidence	1.0	1	0	2012.0	2012.0
+SLC4A2	6522	Liver diseases	C0023895	group	Digestive System Diseases	Disease or Syndrome	605	26	0.01	no reported evidence	1.0	1	0	2009.0	2009.0
+SLC4A2	6522	Malignant neoplasm of stomach	C0024623	disease	Digestive System Diseases; Neoplasms	Neoplastic Process	2397	341	0.01	no reported evidence	1.0	1	0	2013.0	2013.0
+SLC4A2	6522	Osteopetrosis	C0029454	disease	Musculoskeletal Diseases	Disease or Syndrome	63	3	0.01	no reported evidence	1.0	1	0	2010.0	2010.0
+SLC4A2	6522	Stomach Neoplasms	C0038356	group	Digestive System Diseases; Neoplasms	Neoplastic Process	834	23	0.01	no reported evidence		1	0	2008.0	2008.0
+SLC4A2	6522	Adenocarcinoma, Tubular	C0205645	disease	Neoplasms	Neoplastic Process	124	1	0.01	no reported evidence	1.0	1	0	2012.0	2012.0
+SLC4A2	6522	Cholangiocarcinoma	C0206698	disease	Neoplasms	Neoplastic Process	454	13	0.01	no reported evidence	1.0	1	0	2012.0	2012.0
+SLC4A2	6522	Colon Carcinoma	C0699790	disease		Neoplastic Process	2090	240	0.01	no reported evidence	1.0	1	0	2012.0	2012.0
+SLC4A2	6522	Stomach Carcinoma	C0699791	disease		Neoplastic Process	2377	364	0.01	no reported evidence	1.0	1	0	2013.0	2013.0
+SLC4A2	6522	Liver carcinoma	C2239176	disease	Digestive System Diseases; Neoplasms	Neoplastic Process	3592	419	0.01	no reported evidence	1.0	1	0	2009.0	2009.0
+ASIC3	9311	Arthritis	C0003864	disease	Musculoskeletal Diseases	Disease or Syndrome	629	25	0.01	no reported evidence	1.0	1	0	2015.0	2015.0
+ASIC3	9311	Rheumatoid Arthritis	C0003873	disease	Immune System Diseases; Musculoskeletal Diseases; Skin and Connective Tissue Diseases	Disease or Syndrome	1832	1878	0.01	no reported evidence	1.0	1	0	2015.0	2015.0
+ASIC3	9311	Cardiovascular Diseases	C0007222	group	Cardiovascular Diseases	Disease or Syndrome	786	197	0.01	no reported evidence	0.0	1	0	2010.0	2010.0
+ASIC3	9311	Pressure Ulcer	C0011127	disease	Skin and Connective Tissue Diseases	Disease or Syndrome	9	0	0.01	no reported evidence	1.0	1	0	2013.0	2013.0
+ASIC3	9311	Fatigue	C0015672	phenotype	Pathological Conditions, Signs and Symptoms	Sign or Symptom	329	33	0.01	no reported evidence	1.0	1	0	2010.0	2010.0
+ASIC3	9311	Chronic Fatigue Syndrome	C0015674	disease	Musculoskeletal Diseases; Nervous System Diseases; Virus Diseases	Disease or Syndrome	63	7	0.01	no reported evidence	1.0	1	0	2012.0	2012.0
+ASIC3	9311	Fibromyalgia	C0016053	disease	Musculoskeletal Diseases; Nervous System Diseases	Disease or Syndrome	49	14	0.01	no reported evidence	1.0	1	0	2012.0	2012.0
+ASIC3	9311	Gastroesophageal reflux disease	C0017168	disease	Digestive System Diseases	Disease or Syndrome	245	13	0.01	no reported evidence	1.0	1	0	2013.0	2013.0
+ASIC3	9311	Hyperalgesia	C0020429	phenotype	Nervous System Diseases; Pathological Conditions, Signs and Symptoms	Sign or Symptom	118	3	0.01	no reported evidence	1.0	1	0	2008.0	2008.0
+ASIC3	9311	Myalgia	C0231528	phenotype	Musculoskeletal Diseases; Nervous System Diseases; Pathological Conditions, Signs and Symptoms	Sign or Symptom	99	9	0.01	no reported evidence	1.0	1	0	2010.0	2010.0
+ASIC3	9311	Autonomic nervous system imbalance	C0262385	disease		Disease or Syndrome	2	0	0.01	no reported evidence	1.0	1	0	2008.0	2008.0
+ASIC3	9311	Impaired glucose tolerance	C0271650	phenotype	Nutritional and Metabolic Diseases	Disease or Syndrome	325	55	0.01	no reported evidence	1.0	1	0	2010.0	2010.0
+ASIC3	9311	Hyperalgesia, Primary	C0751211	phenotype	Nervous System Diseases; Pathological Conditions, Signs and Symptoms	Sign or Symptom	84	0	0.01	no reported evidence	1.0	1	0	2008.0	2008.0
+FTO	79068	Adenoma	C0001430	group	Neoplasms	Neoplastic Process	999	73	0.01	no reported evidence	1.0	1	3	2012.0	2012.0
+FTO	79068	Anorexia Nervosa	C0003125	disease	Mental Disorders	Mental or Behavioral Dysfunction	94	38	0.01	no reported evidence	0.0	1	0	2011.0	2011.0
+FTO	79068	Anxiety	C0003467	disease	Behavior and Behavior Mechanisms	Mental or Behavioral Dysfunction	463	69	0.01	no reported evidence	1.0	1	0	2015.0	2015.0
+FTO	79068	Anxiety Disorders	C0003469	group	Mental Disorders	Mental or Behavioral Dysfunction	395	79	0.01	no reported evidence	1.0	1	0	2015.0	2015.0
+FTO	79068	Aortic Valve Stenosis	C0003507	disease	Cardiovascular Diseases	Disease or Syndrome	129	10	0.01	no reported evidence	1.0	1	1	2016.0	2016.0
+FTO	79068	Astrocytoma	C0004114	disease	Neoplasms	Neoplastic Process	740	44	0.01	no reported evidence	1.0	1	0	2013.0	2013.0
+FTO	79068	Bipolar Disorder	C0005586	disease	Mental Disorders	Mental or Behavioral Dysfunction	836	665	0.01	no reported evidence	1.0	1	0	2016.0	2016.0
+FTO	79068	Bulimia	C0006370	disease	Pathological Conditions, Signs and Symptoms	Mental or Behavioral Dysfunction	30	15	0.01	no reported evidence	1.0	1	1	2016.0	2016.0
+FTO	79068	Colitis	C0009319	disease	Digestive System Diseases	Disease or Syndrome	607	6	0.01	no reported evidence	1.0	1	0	2013.0	2013.0
+FTO	79068	Colorectal Carcinoma	C0009402	disease	Digestive System Diseases; Neoplasms	Neoplastic Process	2931	539	0.01	no reported evidence	0.0	1	1	2012.0	2012.0
+FTO	79068	Coronary Arteriosclerosis	C0010054	disease	Cardiovascular Diseases	Disease or Syndrome	759	189	0.01	no reported evidence	1.0	1	0	2016.0	2016.0
+FTO	79068	Presenile dementia	C0011265	disease	Mental Disorders; Nervous System Diseases	Mental or Behavioral Dysfunction	361	102	0.01	no reported evidence	1.0	1	1	2011.0	2011.0
+FTO	79068	Diabetes Mellitus, Insulin-Dependent	C0011854	disease	Endocrine System Diseases; Immune System Diseases; Nutritional and Metabolic Diseases	Disease or Syndrome	955	775	0.01	no reported evidence	1.0	1	1	2015.0	2015.0
+FTO	79068	Endometrial Neoplasms	C0014170	group	Female Urogenital Diseases and Pregnancy Complications; Neoplasms	Neoplastic Process	237	39	0.01	no reported evidence	1.0	1	0	2012.0	2012.0
+FTO	79068	Hepatitis B	C0019163	disease	Digestive System Diseases; Virus Diseases	Disease or Syndrome	838	192	0.01	no reported evidence	0.0	1	0	1999.0	1999.0
+FTO	79068	HIV Infections	C0019693	group	Immune System Diseases; Virus Diseases	Disease or Syndrome	805	54	0.01	no reported evidence	1.0	1	1	2015.0	2015.0
+FTO	79068	Hyperinsulinism	C0020459	disease	Nutritional and Metabolic Diseases	Disease or Syndrome	376	33	0.01	no reported evidence	1.0	1	1	2014.0	2014.0
+FTO	79068	Kidney Failure, Chronic	C0022661	disease	Female Urogenital Diseases and Pregnancy Complications; Male Urogenital Diseases	Disease or Syndrome	436	101	0.01	no reported evidence	1.0	1	1	2012.0	2012.0
+FTO	79068	Malignant neoplasm of stomach	C0024623	disease	Digestive System Diseases; Neoplasms	Neoplastic Process	2397	341	0.01	no reported evidence	1.0	1	0	2018.0	2018.0
+FTO	79068	Multiple Sclerosis	C0026769	disease	Immune System Diseases; Nervous System Diseases	Disease or Syndrome	1105	745	0.01	no reported evidence	1.0	1	1	2015.0	2015.0
+FTO	79068	Neoplasm Metastasis	C0027627	phenotype	Neoplasms; Pathological Conditions, Signs and Symptoms	Neoplastic Process	3919	129	0.01	no reported evidence	1.0	1	0	2014.0	2014.0
+FTO	79068	Neural Tube Defects	C0027794	group	Congenital, Hereditary, and Neonatal Diseases and Abnormalities; Nervous System Diseases	Congenital Abnormality	162	49	0.01	no reported evidence	1.0	1	3	2013.0	2013.0
+FTO	79068	Neuroblastoma	C0027819	group	Neoplasms	Neoplastic Process	1698	288	0.01	no reported evidence	1.0	1	0	2015.0	2015.0
+FTO	79068	Osteoarthritis of hip	C0029410	disease	Musculoskeletal Diseases	Disease or Syndrome	67	26	0.01	no reported evidence	1.0	1	1	2014.0	2014.0
+FTO	79068	Osteoporosis	C0029456	disease	Musculoskeletal Diseases; Nutritional and Metabolic Diseases	Disease or Syndrome	440	82	0.01	no reported evidence	1.0	1	0	2012.0	2012.0
+FTO	79068	Psychotic Disorders	C0033975	group	Mental Disorders	Mental or Behavioral Dysfunction	316	113	0.01	no reported evidence	1.0	1	0	2012.0	2012.0
+FTO	79068	Pulmonary Embolism	C0034065	disease	Cardiovascular Diseases; Respiratory Tract Diseases	Disease or Syndrome	77	20	0.01	no reported evidence	1.0	1	0	2015.0	2015.0
+FTO	79068	Schizophrenia	C0036341	disease	Mental Disorders	Mental or Behavioral Dysfunction	1922	1782	0.01	no reported evidence	1.0	1	0	2014.0	2014.0
+FTO	79068	Tuberculosis	C0041296	disease	Bacterial Infections and Mycoses	Disease or Syndrome	601	124	0.01	no reported evidence	1.0	1	1	2015.0	2015.0
+FTO	79068	Tuberculosis, Pulmonary	C0041327	disease	Bacterial Infections and Mycoses; Respiratory Tract Diseases	Disease or Syndrome	168	35	0.01	no reported evidence	1.0	1	1	2015.0	2015.0
+FTO	79068	Unipolar Depression	C0041696	disease	Mental Disorders	Mental or Behavioral Dysfunction	516	378	0.01	no reported evidence	0.0	1	0	2015.0	2015.0
+FTO	79068	Wheezing	C0043144	phenotype	Pathological Conditions, Signs and Symptoms	Sign or Symptom	88	49	0.01	no reported evidence	1.0	1	1	2016.0	2016.0
+FTO	79068	Addictive Behavior	C0085281	phenotype	Behavior and Behavior Mechanisms	Mental or Behavioral Dysfunction	207	30	0.01	no reported evidence	1.0	1	0	2015.0	2015.0
+FTO	79068	Essential Hypertension	C0085580	disease	Cardiovascular Diseases	Disease or Syndrome	277	126	0.01	no reported evidence	1.0	1	0	2013.0	2013.0
+FTO	79068	Depressive Symptoms	C0086132	phenotype	Behavior and Behavior Mechanisms	Sign or Symptom	146	62	0.01	no reported evidence	1.0	1	0	2015.0	2015.0
+FTO	79068	Cataract	C0086543	disease	Eye Diseases	Acquired Abnormality	518	42	0.01	no reported evidence	0.0	1	0	2009.0	2009.0
+FTO	79068	Deep Vein Thrombosis	C0149871	disease	Cardiovascular Diseases	Disease or Syndrome	109	252	0.01	no reported evidence	1.0	1	0	2015.0	2015.0
+FTO	79068	Cutaneous Melanoma	C0151779	disease	Neoplasms; Skin and Connective Tissue Diseases	Neoplastic Process	300	203	0.01	no reported evidence	1.0	1	0	2015.0	2015.0
+FTO	79068	Hyperandrogenism	C0206081	disease	Congenital, Hereditary, and Neonatal Diseases and Abnormalities; Endocrine System Diseases; Female Urogenital Diseases and Pregnancy Complications; Male Urogenital Diseases	Disease or Syndrome	55	18	0.01	no reported evidence	0.0	1	0	2010.0	2010.0
+FTO	79068	Chronic schizophrenia	C0221765	disease		Mental or Behavioral Dysfunction	48	9	0.01	no reported evidence	1.0	1	0	2014.0	2014.0
+FTO	79068	Cerebral atrophy	C0235946	disease		Disease or Syndrome	337	21	0.01	no reported evidence	1.0	1	0	2010.0	2010.0
+FTO	79068	Malignant neoplasm of lung	C0242379	disease	Neoplasms; Respiratory Tract Diseases	Neoplastic Process	2448	409	0.01	no reported evidence	1.0	1	0	2009.0	2009.0
+FTO	79068	Type 2 diabetes mellitus in obese	C0271638	disease		Disease or Syndrome	4	3	0.01	no reported evidence	1.0	1	2	2017.0	2017.0
+FTO	79068	Impaired glucose tolerance	C0271650	phenotype	Nutritional and Metabolic Diseases	Disease or Syndrome	325	55	0.01	no reported evidence		1	1	2008.0	2008.0
+FTO	79068	Carcinoma breast stage IV	C0278488	disease		Neoplastic Process	391	7	0.01	no reported evidence	1.0	1	0	2014.0	2014.0
+FTO	79068	Impaired cognition	C0338656	disease	Mental Disorders	Mental or Behavioral Dysfunction	670	121	0.01	no reported evidence	0.0	1	1	2011.0	2011.0
+FTO	79068	Complications of Diabetes Mellitus	C0342257	group	Endocrine System Diseases	Disease or Syndrome	23	0	0.01	no reported evidence	1.0	1	0	2017.0	2017.0
+FTO	79068	Prediabetes syndrome	C0362046	disease	Endocrine System Diseases; Nutritional and Metabolic Diseases	Disease or Syndrome	81	14	0.01	no reported evidence	1.0	1	0	2012.0	2012.0
+FTO	79068	Nuclear cataract	C0392557	disease		Disease or Syndrome	32	1	0.01	no reported evidence	1.0	1	0	2009.0	2009.0
+FTO	79068	Developmental delay (disorder)	C0424605	disease		Mental or Behavioral Dysfunction	192	24	0.01	no reported evidence	1.0	1	0	2016.0	2016.0
+FTO	79068	Dementia	C0497327	disease	Mental Disorders; Nervous System Diseases	Mental or Behavioral Dysfunction	435	107	0.01	no reported evidence	1.0	1	1	2011.0	2011.0
+FTO	79068	Carcinogenesis	C0596263	phenotype	Neoplasms; Pathological Conditions, Signs and Symptoms	Neoplastic Process	4064	159	0.01	no reported evidence	1.0	1	1	2012.0	2012.0
+FTO	79068	Carcinoma of lung	C0684249	disease		Neoplastic Process	2475	735	0.01	no reported evidence	1.0	1	0	2009.0	2009.0
+FTO	79068	Stomach Carcinoma	C0699791	disease		Neoplastic Process	2377	364	0.01	no reported evidence	1.0	1	0	2018.0	2018.0
+FTO	79068	Central neuroblastoma	C0700095	disease		Neoplastic Process	1655	87	0.01	no reported evidence	1.0	1	0	2015.0	2015.0
+FTO	79068	SIMPSON-GOLABI-BEHMEL SYNDROME, TYPE 1	C0796154	disease	Behavior and Behavior Mechanisms; Cardiovascular Diseases; Congenital, Hereditary, and Neonatal Diseases and Abnormalities; Endocrine System Diseases; Mental Disorders; Musculoskeletal Diseases; Nervous System Diseases; Pathological Conditions, Signs and Symptoms	Disease or Syndrome	21	8	0.01	no reported evidence	1.0	1	0	2011.0	2011.0
+FTO	79068	Completed Suicide	C0852733	phenotype		Mental or Behavioral Dysfunction	16	7	0.01	no reported evidence	1.0	1	1	2015.0	2015.0
+FTO	79068	Acute Coronary Syndrome	C0948089	disease	Cardiovascular Diseases	Disease or Syndrome	254	91	0.01	no reported evidence	1.0	1	1	2010.0	2010.0
+FTO	79068	Nuclear non-senile cataract	C1112705	disease		Disease or Syndrome	29	1	0.01	no reported evidence	1.0	1	0	2009.0	2009.0
+FTO	79068	Overnutrition	C1257763	phenotype	Nutritional and Metabolic Diseases	Disease or Syndrome	19	1	0.01	no reported evidence	1.0	1	0	2008.0	2008.0
+FTO	79068	Attention deficit hyperactivity disorder	C1263846	disease	Mental Disorders	Mental or Behavioral Dysfunction	411	202	0.01	no reported evidence	1.0	1	1	2014.0	2014.0
+FTO	79068	Adenoma of large intestine	C1302401	disease		Neoplastic Process	257	61	0.01	no reported evidence	1.0	1	3	2011.0	2011.0
+FTO	79068	Congenital malformation syndrome	C1302790	group		Disease or Syndrome	29	2	0.01	no reported evidence	0.0	1	0	2016.0	2016.0
+FTO	79068	Primary malignant neoplasm	C1306459	group		Neoplastic Process	1031	34	0.01	no reported evidence	1.0	1	1	2018.0	2018.0
+FTO	79068	Primary malignant neoplasm of lung	C1306460	disease		Neoplastic Process	2267	400	0.01	no reported evidence	1.0	1	0	2009.0	2009.0
+FTO	79068	Cognitive changes	C1392786	phenotype		Mental or Behavioral Dysfunction	23	16	0.01	no reported evidence	1.0	1	0	2013.0	2013.0
+FTO	79068	Colorectal Cancer	C1527249	disease	Digestive System Diseases; Neoplasms	Neoplastic Process	3298	955	0.01	no reported evidence	0.0	1	1	2012.0	2012.0
+FTO	79068	Familial (FPAH)	C1611743	disease		Disease or Syndrome	115	20	0.01	no reported evidence	1.0	1	2	2018.0	2018.0
+FTO	79068	Venous Thromboembolism	C1861172	phenotype	Cardiovascular Diseases	Disease or Syndrome	83	186	0.01	no reported evidence	1.0	1	1	2018.0	2018.0
+FTO	79068	Coronary Artery Disease	C1956346	disease	Cardiovascular Diseases	Disease or Syndrome	980	861	0.01	no reported evidence	1.0	1	0	2016.0	2016.0
+FTO	79068	Chronic kidney disease stage 5	C2316810	disease		Disease or Syndrome	387	103	0.01	no reported evidence	1.0	1	1	2012.0	2012.0
+FTO	79068	Monogenic Obesity	C4054476	phenotype		Sign or Symptom	8	1	0.01	no reported evidence	1.0	1	0	2016.0	2016.0
+FTO	79068	Fatty Liver Disease	C4529962	disease		Disease or Syndrome	9	0	0.01	no reported evidence	1.0	1	0	2018.0	2018.0
