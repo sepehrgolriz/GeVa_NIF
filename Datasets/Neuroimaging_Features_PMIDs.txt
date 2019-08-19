@@ -1,0 +1,1055 @@
+﻿Alzheimer disease	11916749
+Alzheimer disease	20450896
+Alzheimer disease	25545807
+Alzheimer disease	24670887
+Alzheimer disease	8023065
+Alzheimer disease	16401756
+Alzheimer disease	21346515
+Alzheimer disease	19204163
+Alzheimer disease	22881374
+Alzheimer disease	21458110
+Alzheimer disease	20885792
+Alzheimer disease	17725684
+Alzheimer disease	24384746
+Alzheimer disease	23571587
+Alzheimer disease	7616230
+Alzheimer disease	17545141
+Alzheimer disease	25653292
+Alzheimer disease	23650005
+Alzheimer disease	24052609
+Alzheimer disease	20554627
+Alzheimer disease	24586483
+Alzheimer disease	21036197
+Alzheimer disease	22975751
+Alzheimer disease	25668194
+Alzheimer disease	21285854
+Alzheimer disease	26680604
+Alzheimer disease	18236001
+Alzheimer disease	26632684
+Alzheimer disease	19472444
+Alzheimer disease	20457951
+Alzheimer disease	19553612
+Alzheimer disease	21059989
+Alzheimer disease	11121179
+Alzheimer disease	22869155
+Alzheimer disease	19191331
+Alzheimer disease	25043464
+Alzheimer disease	22960267
+Alzheimer disease	16545890
+Alzheimer disease	22393166
+Alzheimer disease	26059999
+Alzheimer disease	23836404
+Alzheimer disease	10980547
+Alzheimer disease	19924507
+Alzheimer disease	20167577
+Alzheimer disease	22297151
+Alzheimer disease	20142614
+Alzheimer disease	21220649
+Alzheimer disease	18761660
+Alzheimer disease	23300100
+Alzheimer disease	10688047
+Alzheimer disease	12898287
+Alzheimer disease	16027115
+Alzheimer disease	25199842
+Alzheimer disease	17525976
+Alzheimer disease	16832079
+Alzheimer disease	21295279
+Alzheimer disease	22248099
+Alzheimer disease	17713120
+Alzheimer disease	15339384
+Alzheimer disease	10822446
+Alzheimer disease	15277640
+Alzheimer disease	21108942
+Alzheimer disease	19738170
+Alzheimer disease	15055444
+Alzheimer disease	17657167
+Alzheimer disease	18525293
+Alzheimer disease	9694231
+Alzheimer disease	15623683
+Alzheimer disease	21946017
+Alzheimer disease	20625269
+Alzheimer disease	9781063
+Alzheimer disease	24777780
+Alzheimer disease	20197700
+Alzheimer disease	17653041
+Alzheimer disease	17719017
+Alzheimer disease	21825236
+Alzheimer disease	9779662
+Alzheimer disease	21460841
+Alzheimer disease	20818931
+Alzheimer disease	22943764
+Alzheimer disease	12876480
+Alzheimer disease	12609057
+Alzheimer disease	22722634
+Alzheimer disease	21300947
+Alzheimer disease	21300948
+Alzheimer disease	17573676
+Alzheimer disease	11568920
+Alzheimer disease	25414272
+Alzheimer disease	7876258
+Alzheimer disease	20460622
+Alzheimer disease	23565137
+Alzheimer disease	19456322
+Alzheimer disease	23857120
+Alzheimer disease	23954740
+Alzheimer disease	17431506
+Alzheimer disease	18340469
+Alzheimer disease	23567436
+Alzheimer disease	23075484
+Alzheimer disease	26233692
+Alzheimer disease	19462468
+Alzheimer disease	27066578
+Alzheimer disease	25172201
+Alzheimer disease	16849325
+Alzheimer disease	25178429
+Alzheimer disease	15714520
+Alzheimer disease	24851853
+Alzheimer disease	26782499
+Alzheimer disease	14967768
+Alzheimer disease	16385451
+Alzheimer disease	25778476
+Alzheimer disease	26795201
+Alzheimer disease	22528464
+Alzheimer disease	12707937
+Alzheimer disease	26093050
+Alzheimer disease	20188796
+Alzheimer disease	21297427
+Alzheimer disease	18307576
+Alzheimer disease	24439028
+Alzheimer disease	22874670
+Alzheimer disease	15013567
+Alzheimer disease	25382023
+Alzheimer disease	27066559
+Alzheimer disease	21958003
+Alzheimer disease	15994305
+Alzheimer disease	22015309
+Alzheimer disease	20951764
+Alzheimer disease	15000807
+Alzheimer disease	23399523
+Alzheimer disease	10861683
+Alzheimer disease	20523261
+Alzheimer disease	15537517
+Alzheimer disease	23042215
+Alzheimer disease	26313784
+Alzheimer disease	16837108
+Alzheimer disease	16863614
+Alzheimer disease	20068209
+Alzheimer disease	24535663
+Alzheimer disease	22262751
+Alzheimer disease	15911128
+Alzheimer disease	21548758
+Alzheimer disease	18329006
+Alzheimer disease	21273770
+Alzheimer disease	20697030
+Alzheimer disease	16813604
+Alzheimer disease	24176626
+Alzheimer disease	24061483
+Alzheimer disease	17709831
+Alzheimer disease	22116812
+Alzheimer disease	24847962
+Alzheimer disease	22950423
+Alzheimer disease	24146538
+Alzheimer disease	19923886
+Alzheimer disease	22947263
+Alzheimer disease	24362753
+Alzheimer disease	22984439
+Alzheimer disease	9915968
+Alzheimer disease	16642441
+Alzheimer disease	16027741
+Alzheimer disease	23290204
+Alzheimer disease	15313842
+Alzheimer disease	15895461
+Alzheimer disease	17325276
+Alzheimer disease	12642343
+Alzheimer disease	25470345
+Alzheimer disease	22410445
+Alzheimer disease	26738351
+Alzheimer disease	17614196
+Alzheimer disease	16773580
+Alzheimer disease	18063222
+Alzheimer disease	19606474
+Alzheimer disease	25351705
+Alzheimer disease	16780669
+Alzheimer disease	25862742
+Alzheimer disease	16319298
+Alzheimer disease	26889634
+Alzheimer disease	18423940
+Alzheimer disease	19822779
+Alzheimer disease	10896268
+Alzheimer disease	22159054
+Alzheimer disease	22005930
+Alzheimer disease	12215082
+Alzheimer disease	25073452
+Alzheimer disease	19822782
+Alzheimer disease	19304664
+Alzheimer disease	25840980
+Alzheimer disease	10631141
+Alzheimer disease	21399483
+Alzheimer disease	27066581
+Alzheimer disease	17183148
+Alzheimer disease	15464268
+Alzheimer disease	16652347
+Alzheimer disease	9771888
+Alzheimer disease	16962786
+Alzheimer disease	25186855
+Alzheimer disease	25648963
+Alzheimer disease	23582656
+Tau	25545807
+Tau	19154537
+Tau	21537386
+Tau	8226879
+Tau	24309291
+Tau	15913837
+Tau	25168738
+Tau	10931371
+Tau	23435408
+Tau	24852829
+Tau	25778476
+Tau	7616230
+Tau	10624829
+Tau	12807963
+Tau	25486118
+Tau	24112793
+Tau	17545141
+Tau	26243271
+Tau	24656848
+Tau	18319590
+Tau	21997402
+Tau	20096481
+Tau	18290843
+Tau	17611642
+Tau	7519852
+Tau	23970038
+Tau	17510943
+Tau	25182741
+Tau	12387894
+Tau	25051234
+Tau	17179995
+Tau	26252872
+Tau	15994305
+Tau	26756745
+Tau	23990795
+Tau	20951764
+Tau	25936935
+Tau	27003212
+Tau	27003210
+Tau	26632684
+Tau	17826340
+Tau	15992372
+Tau	7838376
+Tau	20667498
+Tau	20634593
+Tau	25043464
+Tau	18272374
+Tau	17239995
+Tau	22291217
+Tau	27051467
+Tau	15298664
+Tau	25027320
+Tau	12200623
+Tau	23116876
+Tau	22272811
+Tau	21219968
+Tau	19072560
+Tau	16603077
+Tau	18841019
+Tau	25659857
+Tau	16855914
+Tau	25500937
+Tau	21459483
+Tau	21811019
+Tau	18587238
+Tau	21295279
+Tau	17965932
+Tau	23573206
+Tau	17553421
+Tau	25324900
+Tau	26541602
+Tau	25141968
+Tau	12875979
+Tau	19308965
+Tau	17713120
+Tau	17622762
+Tau	21157029
+Tau	22421804
+Tau	23313922
+Tau	26626881
+Tau	9694231
+Tau	20862329
+Tau	20580132
+Tau	19412541
+Tau	12435421
+Tau	24923570
+Tau	21825236
+Tau	22176350
+Tau	15128939
+Tau	17266761
+Tau	7533559
+Tau	7525898
+Tau	19684401
+Tau	21443865
+Tau	23727081
+Tau	19304664
+Tau	21300948
+Tau	21475932
+Tau	15034781
+Tau	26373282
+Tau	9326300
+Tau	7876258
+Tau	25420549
+Tau	12445160
+Tau	26194614
+Tau	9169608
+Tau	10737616
+Tau	23562540
+Tau	16652347
+Tau	9771888
+Tau	26335643
+Tau	23582656
+Mini mental state exam	21903150
+Mini mental state exam	24998857
+Mini mental state exam	18848371
+Mini mental state exam	15843069
+Mini mental state exam	26889634
+Mini mental state exam	16627933
+Mini mental state exam	24391883
+Mini mental state exam	24244428
+Mini mental state exam	20567859
+Mini mental state exam	26499758
+Mini mental state exam	16675064
+Mini mental state exam	25659857
+Mini mental state exam	24150894
+Mini mental state exam	21458110
+Mini mental state exam	24908168
+Mini mental state exam	23069674
+Mini mental state exam	17709831
+Mini mental state exam	19158434
+Mini mental state exam	25730470
+Mini mental state exam	26768225
+Mini mental state exam	25538729
+Mini mental state exam	23374588
+Mini mental state exam	26178916
+Mini mental state exam	20739100
+Mini mental state exam	21459483
+Mini mental state exam	20197096
+Mini mental state exam	23341828
+Mini mental state exam	16967466
+Mini mental state exam	24951635
+Mini mental state exam	16967469
+Mini mental state exam	25840980
+Mini mental state exam	24530172
+Mini mental state exam	18163432
+Mini mental state exam	24355596
+Mini mental state exam	23036585
+Mini mental state exam	21399483
+Mini mental state exam	23463934
+Mini mental state exam	19911314
+Mini mental state exam	21883924
+Mini mental state exam	23313922
+Mini mental state exam	18780301
+Mini mental state exam	16424819
+Mini mental state exam	25420549
+Mini mental state exam	19738170
+Mini mental state exam	16652347
+Mini mental state exam	24589556
+Mini mental state exam	23567436
+Cerebrospinal fluid	18687920
+Cerebrospinal fluid	12938026
+Cerebrospinal fluid	15936520
+Cerebrospinal fluid	20567859
+Cerebrospinal fluid	18781900
+Cerebrospinal fluid	25659857
+Cerebrospinal fluid	25385369
+Cerebrospinal fluid	21139807
+Cerebrospinal fluid	26682689
+Cerebrospinal fluid	20849576
+Cerebrospinal fluid	25500937
+Cerebrospinal fluid	21459483
+Cerebrospinal fluid	23573206
+Cerebrospinal fluid	21559813
+Cerebrospinal fluid	26402410
+Cerebrospinal fluid	19368828
+Cerebrospinal fluid	25486118
+Cerebrospinal fluid	18163432
+Cerebrospinal fluid	19705089
+Cerebrospinal fluid	17622762
+Cerebrospinal fluid	15959845
+Cerebrospinal fluid	26243271
+Cerebrospinal fluid	23313922
+Cerebrospinal fluid	15895461
+Cerebrospinal fluid	26626881
+Cerebrospinal fluid	21997402
+Cerebrospinal fluid	15316799
+Cerebrospinal fluid	17430597
+Cerebrospinal fluid	17611642
+Cerebrospinal fluid	15623683
+Cerebrospinal fluid	19606474
+Cerebrospinal fluid	17510943
+Cerebrospinal fluid	20862329
+Cerebrospinal fluid	26967218
+Cerebrospinal fluid	25182741
+Cerebrospinal fluid	25051234
+Cerebrospinal fluid	19412541
+Cerebrospinal fluid	17179995
+Cerebrospinal fluid	26252872
+Cerebrospinal fluid	20807319
+Cerebrospinal fluid	21825236
+Cerebrospinal fluid	26756745
+Cerebrospinal fluid	23427138
+Cerebrospinal fluid	25808939
+Cerebrospinal fluid	23990795
+Cerebrospinal fluid	20951764
+Cerebrospinal fluid	25936935
+Cerebrospinal fluid	27003212
+Cerebrospinal fluid	19286353
+Cerebrospinal fluid	18671953
+Cerebrospinal fluid	27003210
+Cerebrospinal fluid	16596262
+Cerebrospinal fluid	19625741
+Cerebrospinal fluid	19842071
+Cerebrospinal fluid	26576771
+Cerebrospinal fluid	16835721
+Cerebrospinal fluid	15992372
+Cerebrospinal fluid	22572541
+Cerebrospinal fluid	23727081
+Cerebrospinal fluid	20634593
+Cerebrospinal fluid	21300948
+Cerebrospinal fluid	25720397
+Cerebrospinal fluid	21475932
+Cerebrospinal fluid	19956428
+Cerebrospinal fluid	19911314
+Cerebrospinal fluid	17239995
+Cerebrospinal fluid	15034781
+Cerebrospinal fluid	25420549
+Cerebrospinal fluid	25027320
+Cerebrospinal fluid	16752360
+Cerebrospinal fluid	12600718
+Cerebrospinal fluid	23562540
+Cerebrospinal fluid	15666037
+Cerebrospinal fluid	21196064
+Cerebrospinal fluid	16652347
+Cerebrospinal fluid	24439484
+Cerebrospinal fluid	17987251
+Abeta_42	17510943
+Abeta_42	18687920
+Abeta_42	15974898
+Abeta_42	19412541
+Abeta_42	20567859
+Abeta_42	19067586
+Abeta_42	11948243
+Abeta_42	9065468
+Abeta_42	15663477
+Abeta_42	11879646
+Abeta_42	19368828
+Abeta_42	12807963
+Abeta_42	17545141
+Abeta_42	15615772
+Abeta_42	15006697
+Abeta_42	16328515
+Abeta_42	17622762
+Abeta_42	17239995
+Abeta_42	19154786
+Abeta_42	15034781
+Abeta_42	15895461
+Abeta_42	16474849
+Abeta_42	16652347
+Abeta_42	15772361
+Abeta_42	9694871
+Tau hyperphosphorylation	17965932
+Tau hyperphosphorylation	7616230
+Tau hyperphosphorylation	12387894
+Tau hyperphosphorylation	12435421
+Tau hyperphosphorylation	19154537
+Tau hyperphosphorylation	18319590
+Tau hyperphosphorylation	20188796
+Tau hyperphosphorylation	18841019
+Tau hyperphosphorylation	15298664
+Tau hyperphosphorylation	19615060
+Tau hyperphosphorylation	18290843
+Tau hyperphosphorylation	10737616
+Tau hyperphosphorylation	19995442
+Tau hyperphosphorylation	12200623
+Tau hyperphosphorylation	19684401
+Amyloid deposition	18687920
+Amyloid deposition	25051234
+Amyloid deposition	24112793
+Amyloid deposition	26252872
+Amyloid deposition	17553989
+Amyloid deposition	24260488
+Amyloid deposition	24596678
+Amyloid deposition	10821838
+Amyloid deposition	15305978
+Amyloid deposition	22262751
+Amyloid deposition	26268530
+Amyloid deposition	23022416
+Amyloid deposition	27003212
+Amyloid deposition	10362543
+Amyloid deposition	15055444
+Amyloid deposition	23419831
+Amyloid deposition	15537517
+Amyloid deposition	8915606
+Amyloid deposition	26058841
+p_tau	23573206
+p_tau	26626881
+p_tau	21559813
+p_tau	27003212
+p_tau	27003210
+p_tau	25486118
+p_tau	26682689
+p_tau	18163432
+p_tau	21459483
+p_tau	19842071
+p_tau	20567859
+Hippocampus	18789830
+Hippocampus	17064357
+Hippocampus	16027115
+Hippocampus	21346515
+Hippocampus	25419706
+Hippocampus	25385369
+Hippocampus	16855914
+Hippocampus	24770881
+Hippocampus	17709831
+Hippocampus	26856603
+Hippocampus	26631617
+Hippocampus	23435408
+Hippocampus	23608917
+Hippocampus	25778476
+Hippocampus	18332581
+Hippocampus	22504417
+Hippocampus	11959460
+Hippocampus	23734114
+Hippocampus	26923404
+Hippocampus	24464990
+Hippocampus	24578178
+Hippocampus	24260406
+Hippocampus	26115089
+Hippocampus	25470345
+Hippocampus	15316799
+Hippocampus	25653292
+Hippocampus	17657167
+Hippocampus	22504421
+Hippocampus	25598427
+Hippocampus	24086677
+Hippocampus	24379779
+Hippocampus	25182741
+Hippocampus	20197700
+Hippocampus	19412541
+Hippocampus	21116278
+Hippocampus	16627933
+Hippocampus	16899999
+Hippocampus	15084795
+Hippocampus	18236001
+Hippocampus	18671953
+Hippocampus	18585350
+Hippocampus	22159129
+Hippocampus	7525898
+Hippocampus	26444770
+Hippocampus	25478031
+Hippocampus	22572541
+Hippocampus	22596272
+Hippocampus	18688167
+Hippocampus	25707397
+Hippocampus	25800888
+Hippocampus	22711244
+Hippocampus	21397462
+Hippocampus	25630570
+Hippocampus	27051467
+Hippocampus	25976010
+Hippocampus	12445160
+Hippocampus	24938503
+Hippocampus	25687773
+Hippocampus	25648963
+Hippocampal atrophy	24260406
+Hippocampal atrophy	24379779
+Hippocampal atrophy	25625606
+Hippocampal atrophy	25182741
+Hippocampal atrophy	25659857
+Hippocampal atrophy	27003210
+Hippocampal atrophy	18585350
+Hippocampal atrophy	25486118
+Hippocampal atrophy	24938503
+Hippocampal atrophy	25559091
+Hippocampal atrophy	26923404
+Hippocampus volume	22504417
+Hippocampus volume	25670335
+Hippocampus volume	25625606
+Hippocampus volume	25385369
+Hippocampus volume	25670955
+Hippocampus volume	24361131
+Hippocampus volume	23734114
+Hippocampus volume	25559091
+Hippocampus volume	22504421
+Hippocampus volume	23608917
+Hippocampus volume	25630570
+Brain region	22795969
+Brain region	22685416
+Brain region	18687920
+Brain region	22910610
+Brain region	23736221
+Brain region	18789830
+Brain region	25862420
+Brain region	24505811
+Brain region	25264344
+Brain region	23427138
+Brain region	17240059
+Brain region	21185108
+Brain region	21185624
+Brain region	15992372
+Brain region	27117083
+Brain region	22596272
+Brain region	17579359
+Brain region	20100581
+Brain region	19429178
+Brain region	22291217
+Brain region	23836404
+Brain region	23199001
+Brain region	12733424
+Brain region	26194614
+Brain region	20237460
+Brain region	21543606
+Brain region	12200623
+Brain region	24958192
+Brain region	25649652
+Brain region	24439168
+Brain volume	22504417
+Brain volume	25670335
+Brain volume	25976010
+Brain volume	21098976
+Brain volume	24505811
+Brain volume	19766542
+Brain volume	22856364
+Brain volume	25264344
+Brain volume	24086677
+AV45_PET	26402410
+AV45_PET	27003212
+AV45_PET	27003210
+Parkinson disease	22494505
+Parkinson disease	20951764
+Parkinson disease	21912625
+Parkinson disease	23300100
+Parkinson disease	26233692
+Parkinson disease	26632684
+Parkinson disease	26889634
+Parkinson disease	22947263
+Parkinson disease	25178429
+Parkinson disease	27066581
+Amyloid positron emission tomography	26402410
+Amyloid positron emission tomography	25840980
+Amyloid positron emission tomography	24112793
+Amyloid positron emission tomography	24596678
+Cortical Thickness	19717458
+Cortical Thickness	20100581
+Cortical Thickness	25862420
+Cortical Thickness	21300947
+Cortical Thickness	26682689
+Cortical Thickness	26923404
+Cortical Thickness	22711244
+Cortical Thickness	22028680
+Temporal lobe volume	24505811
+Temporal lobe volume	20197096
+Temporal lobe volume	25264344
+Entorhinal Cortex	27066559
+Entorhinal Cortex	12445160
+Entorhinal Cortex	25862420
+Entorhinal Cortex	21300947
+Entorhinal Cortex	12200623
+Entorhinal Cortex	25687773
+Entorhinal Cortex	21116278
+Right Hippocampus	24260406
+Right Hippocampus	20100581
+Right Hippocampus	25486118
+Right Hippocampus	26444770
+Structural magnetic resonance imaging	24260406
+Structural magnetic resonance imaging	22903471
+Structural magnetic resonance imaging	26776178
+Structural magnetic resonance imaging	26444770
+Structural magnetic resonance imaging	21502949
+18F_florbetapir	26268530
+18F_florbetapir	25840980
+White matter integrity	24508314
+White matter integrity	21543606
+White matter integrity	21300947
+White matter integrity	24997672
+Precuneus	18786162
+Precuneus	18789830
+Precuneus	26825091
+Precuneus	25670955
+Precuneus	21784354
+Logical memory	23643458
+Logical memory	23844928
+Logical memory	20185150
+Brain atrophy	24260406
+Brain atrophy	27003212
+Brain atrophy	27003210
+Brain atrophy	20570408
+Brain atrophy	24613704
+Fluency test	23844928
+Fluency test	22110642
+Fluency test	25178429
+Pittsburgh Compound B	23836404
+Pittsburgh Compound B	27066559
+Pittsburgh Compound B	17553989
+Whole brain atrophy	24938503
+Whole brain atrophy	24086677
+Clinical dementia rating	23226438
+Clinical dementia rating	23727081
+Clinical dementia rating	25043464
+Clinical dementia rating	23567436
+Montreal cognitive assessment	26404360
+Montreal cognitive assessment	25178429
+Montreal cognitive assessment	26499758
+White matter	26725994
+White matter	21300947
+White matter	26661731
+White matter	25027412
+White matter	25707397
+White matter	22711244
+White matter	22028680
+White matter	19889229
+White matter	21543606
+White matter	15055444
+White matter	19477230
+White matter	26762507
+White matter	25598427
+White matter	26314833
+White matter	24997672
+Alzheimers disease assessment scale	25840980
+Alzheimers disease assessment scale	21992747
+Alzheimers disease assessment scale	24086677
+Phonemic fluency	25073452
+Phonemic fluency	24530172
+Grey matter volume	23266749
+Grey matter volume	20570408
+Grey matter volume	21784354
+Grey matter volume	23341828
+Voxel_based morphometry	20100581
+Voxel_based morphometry	20570408
+Voxel_based morphometry	25027412
+Voxel_based morphometry	23341828
+Whole brain volume	17709831
+Whole brain volume	24086677
+No mapping: IO001244	25649652
+White Matter Hyperintensity	25670335
+White Matter Hyperintensity	17903297
+Entorhinal Cortex Thickness	21116278
+Intracranial volume	22504417
+Intracranial volume	25670335
+Intracranial volume	17709831
+Right Caudate	26444770
+Right Caudate	21502949
+Resting state fMRI	23199001
+Resting state fMRI	22785398
+Resting state fMRI	26825091
+18F AV_45	24260488
+Inferior Temporal Gyrus	25182741
+Inferior Temporal Gyrus	26444770
+Entorhinal cortex volume	21116278
+Hippocampal perfusion	22596272
+Hippocampal Formation	24260406
+Hippocampal Formation	12200623
+Hippocampal Formation	25496871
+Hippocampal Formation	26631617
+Cuneus	19717458
+Cuneus	23199001
+Gray matter	25385369
+Gray matter	23266749
+Gray matter	17545141
+Gray matter	25496871
+Gray matter	25027412
+Gray matter	22028680
+Occipital gyrus	25486118
+Right hippocampus volume	25976010
+Ventricular expansion	24806679
+Rates of atrophy	23608917
+Amyloid beta metabolism	15034781
+Tensor_based morphometry	25264344
+Temporal horn volume	22984439
+Parietal Lobe	23226438
+Parietal Lobe	19625741
+Parietal Lobe	25027412
+Spatial span	18387741
+Lateral Occipito_Temporal Gyrus	19717458
+Lateral Occipito_Temporal Gyrus	26444770
+Microstructural integrity	21300947
+Cambridge neuropsychological test	22863908
+15 O Water	22795969
+11C_PiB	24596678
+Intracerebral hemorrhage	22262751
+Intracerebral hemorrhage	24448547
+Intracerebral hemorrhage	26661731
+Intracerebral hemorrhage	15537517
+Quantitative electroencephalography	24379779
+Amyloid imaging	17553989
+Lentiform Nucleus	22903471
+Boston naming test	24908168
+Perception digital test	18761660
+Axial diffusivity	25598427
+Inferior Frontal Gyrus	23199001
+Inferior Frontal Gyrus	25800888
+Cortical volume	20570408
+Functional near_infrared spectroscopy	21097517
+Neuropsychological assessments	17012294
+Volumetric MRI	25027412
+Lateral Ventricle	15298664
+Lateral Ventricle	25486118
+Lateral Ventricle	24806679
+Cerebral hemorrhage	8049900
+Cerebral hemorrhage	10821838
+Atrophy	18786162
+Atrophy	26725994
+Atrophy	25625606
+Atrophy	27117083
+Atrophy	25182741
+Atrophy	25486118
+Atrophy	21116278
+Atrophy	17713120
+Atrophy	25027412
+Atrophy	16102903
+Atrophy	26243271
+Atrophy	26058955
+Atrophy	27003212
+Atrophy	17709831
+Atrophy	25478031
+Atrophy	23608917
+Disability assessment for dementia	24438528
+Angular Gyrus	25024311
+Medial Temporal Lobe Atrophy	26725994
+Superior Frontal Gyrus	22785398
+Cerebral microbleed	26661731
+Wechsler adult intelligence scale	21036197
+Cortical atrophy	26268530
+Mean diffusivity	25598427
+Parahippocampal Gyrus	26444770
+Hypometabolism	27003212
+Cerebral atrophy	24938503
+Cingulate Gyrus	26825091
+Geriatric depression scale	25840980
+Insula	23266749
+Insula	25491588
+Insula	26444770
+Positron emission tomography	22795969
+Positron emission tomography	26626881
+Positron emission tomography	26268530
+Positron emission tomography	23022416
+Positron emission tomography	18789830
+Positron emission tomography	26776178
+Positron emission tomography	25840980
+Positron emission tomography	22968319
+Positron emission tomography	17553989
+Positron emission tomography	24260488
+Positron emission tomography	23419831
+Positron emission tomography	25707397
+CA1 of the hippocampus	21831326
+Posterior Cortical Atrophy	24670887
+Hamilton depression scale	23844928
+Neocortex	18786162
+Neocortex	16027115
+Neocortex	10931371
+Neocortex	17481814
+Dopaminergic Neurons	26704436
+Dopaminergic Neurons	15488313
+18_fluorodeoxyglucose PET	27003210
+18_fluorodeoxyglucose PET	26776178
+Hypoperfusion	22596272
+Neural activity	21097517
+Substantia Nigra	16437584
+Substantia Nigra	26704436
+Substantia Nigra	16054170
+Corpus Callosum	21543606
+Frontal lobe	21458110
+Single Photon Emission Computed Tomography	18332581
+Single Photon Emission Computed Tomography	22596272
+Single Photon Emission Computed Tomography	25491588
+Single Photon Emission Computed Tomography	25800888
+Fractional anisotropy	21300947
+Fractional anisotropy	24997672
+Fractional anisotropy	22028680
+Hindbrain	18332581
+Hindbrain	22685416
+Hindbrain	25324900
+Hindbrain	22572541
+Hindbrain	22722634
+Hindbrain	26541602
+Hindbrain	18688167
+Hindbrain	22711244
+Hindbrain	10896268
+Hindbrain	21731745
+Hindbrain	15305978
+Hindbrain	23199001
+Hindbrain	12820876
+Hindbrain	26803359
+Hindbrain	24958192
+Hindbrain	23341828
+Hindbrain	21185624
+Hindbrain	23415546
+Midbrain	15488313
+Cerebral blood flow	22795969
+Amygdala	23251365
+Functional magnetic resonance imaging	17012294
+Functional magnetic resonance imaging	23199001
+Functional magnetic resonance imaging	25024311
+Functional magnetic resonance imaging	25496871
+Functional magnetic resonance imaging	24549102
+Functional magnetic resonance imaging	21397462
+Mean transit time	17456364
+Mean transit time	12885235
+Cerebral Cortex	18332581
+Cerebral Cortex	15084795
+Cerebral Cortex	15055444
+Cerebral Cortex	23419831
+Cerebral Cortex	22005931
+Cerebral Cortex	15305978
+Cerebral Cortex	16871401
+Striatum	17553989
+Adverse events	19738170
+Perfusion	22596272
+Algorithms	11524469
+Algorithms	26366461
+Computed tomography	22272811
+X_ray	17239395
+Serotonin	15313842
+Serotonin	11566166
+Serotonin	15000807
+Serotonin	17691947
+Serotonin	17183148
+Serotonin	19494443
+Serotonin	23290204
+Serotonin	17614196
+Serotonin	10624811
+Serotonin	21660253
+Serotonin	16967466
+Serotonin	19625753
+Acetylcholine	12770689
+Acetylcholine	15974920
+Acetylcholine	12214130
+Acetylcholine	15690550
+Acetylcholine	21547719
+Acetylcholine	24391883
+Acetylcholine	12074828
+Acetylcholine	18696274
+Dopamine	25130782
+Dopamine	18833581
+Dopamine	22691691
+Dopamine	22483294
+Dopamine	18387741
+Dopamine	25491588
+Dopamine	23416088
+Dopamine	21070631
+Dopamine	24035893
+Dopamine	9779662
+Dopamine	23034259
+Dopamine	21502949
+Magnetic resonance imaging	18786162
+Magnetic resonance imaging	17012294
+Magnetic resonance imaging	25670335
+Magnetic resonance imaging	25862420
+Magnetic resonance imaging	26776178
+Magnetic resonance imaging	21116278
+Magnetic resonance imaging	26661731
+Magnetic resonance imaging	19766542
+Magnetic resonance imaging	25264344
+Magnetic resonance imaging	26268530
+Magnetic resonance imaging	24508314
+Magnetic resonance imaging	27003210
+Magnetic resonance imaging	24997672
+Magnetic resonance imaging	20197096
+Magnetic resonance imaging	23341828
+Magnetic resonance imaging	26444770
+Magnetic resonance imaging	22504417
+Magnetic resonance imaging	22984439
+Magnetic resonance imaging	26725994
+Magnetic resonance imaging	20100581
+Magnetic resonance imaging	21300947
+Magnetic resonance imaging	17903297
+Magnetic resonance imaging	26923404
+Magnetic resonance imaging	22711244
+Magnetic resonance imaging	26243271
+Magnetic resonance imaging	24260406
+Magnetic resonance imaging	21543606
+Magnetic resonance imaging	24938503
+Magnetic resonance imaging	25649652
+Scores	23075484
+Scores	25024311
+Scores	21903150
+Scores	18505307
+Scores	18848371
+Scores	18761660
+Scores	27103528
+Scores	25199842
+Scores	20567859
+Scores	25178429
+Scores	23318115
+Scores	22881374
+Scores	24660791
+Scores	26768225
+Scores	17725684
+Scores	25189118
+Scores	23471985
+Scores	20197096
+Scores	26359528
+Scores	22984439
+Scores	24355596
+Scores	21992747
+Scores	23313922
+Scores	23199001
+Scores	24086677
+Scores	15843069
+Scores	15784960
+Scores	26889634
+Scores	23669301
+Scores	18460776
+Scores	16675064
+Scores	24508314
+Scores	22301435
+Scores	16967466
+Scores	23226438
+Scores	16967469
+Scores	22572541
+Scores	23727081
+Scores	26402757
+Scores	22960267
+Scores	20068209
+Scores	25840980
+Scores	21399483
+Scores	24743338
+Scores	17903297
+Scores	17601350
+Scores	23463934
+Scores	19911314
+Scores	23643458
+Scores	25420549
+Scores	16652347
+Scores	24589556
+Scores	18194457
+Assessment of anxiety	17151862
+Assessment of anxiety	21507424
+Assessment of anxiety	14699448
+Assessment of anxiety	21611732
+Assessment of anxiety	24103372
+Assessment of anxiety	14730194
+Assessment of anxiety	26949549
+Assessment of anxiety	21036197
+Assessment of anxiety	19650872
+Assessment of anxiety	23844928
+Assessment of anxiety	19158434
+Assessment of anxiety	23712749
+Assessment of anxiety	16797081
+Assessment of anxiety	18179845
+Assessment of anxiety	12215082
+Assessment of anxiety	24549102
+Assessment of anxiety	17525976
+Assessment of anxiety	23157339
+Assessment of anxiety	22503724
+Assessment of anxiety	22903471
+Assessment of anxiety	22504417
+Assessment of anxiety	19661618
+Assessment of anxiety	23290204
+Assessment of anxiety	23463934
+Assessment of anxiety	15313842
+Assessment of anxiety	22244847
+Assessment of anxiety	17183148
+Assessment of anxiety	20237460
+Assessment of anxiety	17614196
+Assessment of anxiety	23954740
+Assessment of anxiety	11058789
+Assessment of anxiety	22863908
