@@ -1,0 +1,2216 @@
+SNPs,PMIDs,Neuroimaging_Features
+ RS11136000,23573206,Tau
+ RS11136000,23573206,Cerebrospinal fluid
+ RS11136000,23573206,p_tau
+RS2075650,23573206,Tau
+RS2075650,23573206,Cerebrospinal fluid
+RS2075650,23573206,p_tau
+ RS1868402,23573206,Tau
+ RS1868402,23573206,Cerebrospinal fluid
+ RS1868402,23573206,p_tau
+ RS2304933,23573206,Tau
+ RS2304933,23573206,Cerebrospinal fluid
+ RS2304933,23573206,p_tau
+ RS16940758,23573206,Tau
+ RS16940758,23573206,Cerebrospinal fluid
+ RS16940758,23573206,p_tau
+ RS73595277,23573206,Tau
+ RS73595277,23573206,Cerebrospinal fluid
+ RS73595277,23573206,p_tau
+ RS2435211,23573206,Tau
+ RS2435211,23573206,Cerebrospinal fluid
+ RS2435211,23573206,p_tau
+ RS11136000,22795969,Brain region
+ RS11136000,22795969,15 O Water
+ RS11136000,22795969,Positron emission tomography
+ RS11136000,22795969,Cerebral blood flow
+ RS11136000,22248099,Alzheimer disease
+ RS11136000,24379779,Hippocampus
+ RS11136000,24379779,Hippocampal atrophy
+ RS11136000,24379779,Quantitative electroencephalography
+ RS11136000,21912625,Parkinson disease
+RS3851179,21912625,Parkinson disease
+ RS6656401,21912625,Parkinson disease
+ RS11136000,22722634,Alzheimer disease
+ RS11136000,22722634,Hindbrain
+ RS2304933,22722634,Alzheimer disease
+ RS2304933,22722634,Hindbrain
+ RS2304935,22722634,Alzheimer disease
+ RS2304935,22722634,Hindbrain
+ RS11136000,25051234,Tau
+ RS11136000,25051234,Cerebrospinal fluid
+ RS11136000,25051234,Amyloid deposition
+ RS11136000,24670887,Alzheimer disease
+ RS11136000,24670887,Posterior Cortical Atrophy
+RS3851179,24670887,Alzheimer disease
+RS3851179,24670887,Posterior Cortical Atrophy
+RS3764650,24670887,Alzheimer disease
+RS3764650,24670887,Posterior Cortical Atrophy
+RS744373,24670887,Alzheimer disease
+RS744373,24670887,Posterior Cortical Atrophy
+ RS11136000,26661731,White matter
+ RS11136000,26661731,Intracerebral hemorrhage
+ RS11136000,26661731,Cerebral microbleed
+ RS11136000,26661731,Magnetic resonance imaging
+RS429358,26661731,White matter
+RS429358,26661731,Intracerebral hemorrhage
+RS429358,26661731,Cerebral microbleed
+RS429358,26661731,Magnetic resonance imaging
+ RS1532278,26661731,White matter
+ RS1532278,26661731,Intracerebral hemorrhage
+ RS1532278,26661731,Cerebral microbleed
+ RS1532278,26661731,Magnetic resonance imaging
+RS7412,26661731,White matter
+RS7412,26661731,Intracerebral hemorrhage
+RS7412,26661731,Cerebral microbleed
+RS7412,26661731,Magnetic resonance imaging
+ RS9331888,26661731,White matter
+ RS9331888,26661731,Intracerebral hemorrhage
+ RS9331888,26661731,Cerebral microbleed
+ RS9331888,26661731,Magnetic resonance imaging
+ RS7012010,26661731,White matter
+ RS7012010,26661731,Intracerebral hemorrhage
+ RS7012010,26661731,Cerebral microbleed
+ RS7012010,26661731,Magnetic resonance imaging
+RS5069,26661731,White matter
+RS5069,26661731,Intracerebral hemorrhage
+RS5069,26661731,Cerebral microbleed
+RS5069,26661731,Magnetic resonance imaging
+RS670,26661731,White matter
+RS670,26661731,Intracerebral hemorrhage
+RS670,26661731,Cerebral microbleed
+RS670,26661731,Magnetic resonance imaging
+ RS11136000,24244428,Mini mental state exam
+ RS1532278,24244428,Mini mental state exam
+ RS9331888,24244428,Mini mental state exam
+ RS11136000,21397462,Hippocampus
+ RS11136000,21397462,Functional magnetic resonance imaging
+ RS11136000,24578178,Hippocampus
+RS3851179,24578178,Hippocampus
+ RS11136000,23643458,Logical memory
+ RS11136000,23643458,Scores
+RS3851179,23643458,Logical memory
+RS3851179,23643458,Scores
+RS3818361,23643458,Logical memory
+RS3818361,23643458,Scores
+ RS6656401,23643458,Logical memory
+ RS6656401,23643458,Scores
+ RS11136000,24660791,Scores
+RS3851179,24660791,Scores
+RS744373,24660791,Scores
+ RS541458,24660791,Scores
+ RS11136000,22159129,Hippocampus
+ RS11136000,21543606,Brain region
+ RS11136000,21543606,White matter integrity
+ RS11136000,21543606,White matter
+ RS11136000,21543606,Corpus Callosum
+ RS11136000,21543606,Magnetic resonance imaging
+ RS11136000,24806679,Ventricular expansion
+ RS11136000,24806679,Lateral Ventricle
+ RS1532278,24806679,Ventricular expansion
+ RS1532278,24806679,Lateral Ventricle
+ RS11136000,25496871,Hippocampal Formation
+ RS11136000,25496871,Gray matter
+ RS11136000,25496871,Functional magnetic resonance imaging
+ RS11136000,26738351,Alzheimer disease
+ RS11136000,23650005,Alzheimer disease
+RS3851179,23650005,Alzheimer disease
+ RS6656401,23650005,Alzheimer disease
+ RS11136000,20739100,Mini mental state exam
+RS3851179,20739100,Mini mental state exam
+ RS6656401,20739100,Mini mental state exam
+ RS11136000,25189118,Scores
+RS3851179,25189118,Scores
+RS3764650,25189118,Scores
+ RS11767557,25189118,Scores
+RS610932,25189118,Scores
+ RS11136000,20554627,Alzheimer disease
+RS3851179,20554627,Alzheimer disease
+RS3818361,20554627,Alzheimer disease
+ RS11136000,20697030,Alzheimer disease
+RS3851179,20697030,Alzheimer disease
+RS3818361,20697030,Alzheimer disease
+rs35128093,17965932,Tau
+rs35128093,17965932,Tau hyperphosphorylation
+rs35128093,15992372,Tau
+rs35128093,15992372,Cerebrospinal fluid
+rs35128093,15992372,Brain region
+rs35128093,7616230,Alzheimer disease
+rs35128093,7616230,Tau
+rs35128093,7616230,Tau hyperphosphorylation
+rs35128093,12387894,Tau
+rs35128093,12387894,Tau hyperphosphorylation
+rs35128093,19304664,Alzheimer disease
+rs35128093,19304664,Tau
+rs35128093,12435421,Tau
+rs35128093,12435421,Tau hyperphosphorylation
+rs35128093,15994305,Alzheimer disease
+rs35128093,15994305,Tau
+rs35128093,7876258,Alzheimer disease
+rs35128093,7876258,Tau
+rs35128093,15298664,Tau
+rs35128093,15298664,Tau hyperphosphorylation
+rs35128093,15298664,Lateral Ventricle
+rs35128093,16855914,Tau
+rs35128093,16855914,Hippocampus
+rs35128093,7533559,Tau
+rs35128093,8226879,Tau
+rs35128093,15913837,Tau
+rs35128093,7525898,Tau
+rs35128093,7525898,Hippocampus
+rs35128093,9169608,Tau
+rs35128093,10737616,Tau
+rs35128093,10737616,Tau hyperphosphorylation
+rs35128093,12200623,Tau
+rs35128093,12200623,Tau hyperphosphorylation
+rs35128093,12200623,Brain region
+rs35128093,12200623,Entorhinal Cortex
+rs35128093,12200623,Hippocampal Formation
+rs35128093,9771888,Alzheimer disease
+rs35128093,9771888,Tau
+rs35128093,7519852,Tau
+rs35128093,9694231,Alzheimer disease
+rs35128093,9694231,Tau
+RS3851179,26889634,Alzheimer disease
+RS3851179,26889634,Mini mental state exam
+RS3851179,26889634,Parkinson disease
+RS3851179,26889634,Scores
+RS3851179,23036585,Mini mental state exam
+RS3851179,24613704,Brain atrophy
+RS3851179,22943764,Alzheimer disease
+RS592297,22943764,Alzheimer disease
+RS3851179,23565137,Alzheimer disease
+RS744373,23565137,Alzheimer disease
+ RS11218343,23565137,Alzheimer disease
+ RS3781834,23565137,Alzheimer disease
+RS3764650,23226438,Clinical dementia rating
+RS3764650,23226438,Parietal Lobe
+RS3764650,23226438,Scores
+RS670139,23226438,Clinical dementia rating
+RS670139,23226438,Parietal Lobe
+RS670139,23226438,Scores
+RS3764650,23836404,Alzheimer disease
+RS3764650,23836404,Brain region
+RS3764650,23836404,Pittsburgh Compound B
+RS9349407,23836404,Alzheimer disease
+RS9349407,23836404,Brain region
+RS9349407,23836404,Pittsburgh Compound B
+ RS2829887,23836404,Alzheimer disease
+ RS2829887,23836404,Brain region
+ RS2829887,23836404,Pittsburgh Compound B
+RS3764650,27003212,Tau
+RS3764650,27003212,Cerebrospinal fluid
+RS3764650,27003212,Amyloid deposition
+RS3764650,27003212,p_tau
+RS3764650,27003212,AV45_PET
+RS3764650,27003212,Brain atrophy
+RS3764650,27003212,Atrophy
+RS3764650,27003212,Hypometabolism
+RS4147912,27003212,Tau
+RS4147912,27003212,Cerebrospinal fluid
+RS4147912,27003212,Amyloid deposition
+RS4147912,27003212,p_tau
+RS4147912,27003212,AV45_PET
+RS4147912,27003212,Brain atrophy
+RS4147912,27003212,Atrophy
+RS4147912,27003212,Hypometabolism
+RS3752242,27003212,Tau
+RS3752242,27003212,Cerebrospinal fluid
+RS3752242,27003212,Amyloid deposition
+RS3752242,27003212,p_tau
+RS3752242,27003212,AV45_PET
+RS3752242,27003212,Brain atrophy
+RS3752242,27003212,Atrophy
+RS3752242,27003212,Hypometabolism
+RS3752240,27003212,Tau
+RS3752240,27003212,Cerebrospinal fluid
+RS3752240,27003212,Amyloid deposition
+RS3752240,27003212,p_tau
+RS3752240,27003212,AV45_PET
+RS3752240,27003212,Brain atrophy
+RS3752240,27003212,Atrophy
+RS3752240,27003212,Hypometabolism
+RS78117248,27003212,Tau
+RS78117248,27003212,Cerebrospinal fluid
+RS78117248,27003212,Amyloid deposition
+RS78117248,27003212,p_tau
+RS78117248,27003212,AV45_PET
+RS78117248,27003212,Brain atrophy
+RS78117248,27003212,Atrophy
+RS78117248,27003212,Hypometabolism
+RS3764650,24908168,Mini mental state exam
+RS3764650,24908168,Boston naming test
+RS3764650,26795201,Alzheimer disease
+RS2075650,26795201,Alzheimer disease
+RS3865444,26795201,Alzheimer disease
+RS376465,26795201,Alzheimer disease
+RS3764605,26795201,Alzheimer disease
+RS157580,26795201,Alzheimer disease
+RS3764650,24438528,Disability assessment for dementia
+RS3818361,24438528,Disability assessment for dementia
+RS744373,24438528,Disability assessment for dementia
+ RS1532278,24438528,Disability assessment for dementia
+RS3865444,24438528,Disability assessment for dementia
+RS9349407,24438528,Disability assessment for dementia
+RS561655,24438528,Disability assessment for dementia
+ RS11767557,24438528,Disability assessment for dementia
+RS610932,24438528,Disability assessment for dementia
+RS3764650,27103528,Scores
+RS3818361,27103528,Scores
+RS6265,27103528,Scores
+RS668387,27103528,Scores
+RS12007229,27103528,Scores
+RS17314229,27103528,Scores
+RS6109332,27103528,Scores
+RS6125962,27103528,Scores
+RS10808746,27103528,Scores
+RS3746319,27103528,Scores
+RS4680,27103528,Scores
+RS3764650,24743338,Scores
+ RS1532278,24743338,Scores
+ RS1476679,24743338,Scores
+RS3764650,26923404,Hippocampus
+RS3764650,26923404,Hippocampal atrophy
+RS3764650,26923404,Cortical Thickness
+RS3764650,26923404,Magnetic resonance imaging
+RS610932,26923404,Hippocampus
+RS610932,26923404,Hippocampal atrophy
+RS610932,26923404,Cortical Thickness
+RS610932,26923404,Magnetic resonance imaging
+RS3764650,23669301,Scores
+ RS3752246,23669301,Scores
+RS2075650,25670335,Hippocampus volume
+RS2075650,25670335,Brain volume
+RS2075650,25670335,White Matter Hyperintensity
+RS2075650,25670335,Intracranial volume
+RS2075650,25670335,Magnetic resonance imaging
+RS3865444,25670335,Hippocampus volume
+RS3865444,25670335,Brain volume
+RS3865444,25670335,White Matter Hyperintensity
+RS3865444,25670335,Intracranial volume
+RS3865444,25670335,Magnetic resonance imaging
+RS2075650,23734114,Hippocampus
+RS2075650,23734114,Hippocampus volume
+ RS11556505,23734114,Hippocampus
+ RS11556505,23734114,Hippocampus volume
+RS2075650,24530172,Mini mental state exam
+RS2075650,24530172,Phonemic fluency
+ RS3752232,24530172,Mini mental state exam
+ RS3752232,24530172,Phonemic fluency
+ RS11803956,24530172,Mini mental state exam
+ RS11803956,24530172,Phonemic fluency
+RS2075650,22975751,Alzheimer disease
+RS429358,22975751,Alzheimer disease
+ RS677909,22975751,Alzheimer disease
+RS2075650,24176626,Alzheimer disease
+RS3818361,24176626,Alzheimer disease
+ RS6656401,24176626,Alzheimer disease
+RS3865444,24176626,Alzheimer disease
+RS7561528,24176626,Alzheimer disease
+RS2075650,20885792,Alzheimer disease
+ RS17349743,20885792,Alzheimer disease
+ RS803422,20885792,Alzheimer disease
+ RS803424,20885792,Alzheimer disease
+ RS2073067,20885792,Alzheimer disease
+ RS2072064,20885792,Alzheimer disease
+RS11754661,20885792,Alzheimer disease
+RS2075650,21459483,Tau
+RS2075650,21459483,Mini mental state exam
+RS2075650,21459483,Cerebrospinal fluid
+RS2075650,21459483,p_tau
+ RS541458,21459483,Tau
+ RS541458,21459483,Mini mental state exam
+ RS541458,21459483,Cerebrospinal fluid
+ RS541458,21459483,p_tau
+ RS1408077,21459483,Tau
+ RS1408077,21459483,Mini mental state exam
+ RS1408077,21459483,Cerebrospinal fluid
+ RS1408077,21459483,p_tau
+RS2075650,24146538,Alzheimer disease
+RS2075650,24549102,Functional magnetic resonance imaging
+RS2075650,24549102,Assessment of anxiety
+RS2075650,26444770,Hippocampus
+RS2075650,26444770,Right Hippocampus
+RS2075650,26444770,Structural magnetic resonance imaging
+RS2075650,26444770,Right Caudate
+RS2075650,26444770,Inferior Temporal Gyrus
+RS2075650,26444770,Lateral Occipito_Temporal Gyrus
+RS2075650,26444770,Parahippocampal Gyrus
+RS2075650,26444770,Insula
+RS2075650,26444770,Magnetic resonance imaging
+ RS1498853,26444770,Hippocampus
+ RS1498853,26444770,Right Hippocampus
+ RS1498853,26444770,Structural magnetic resonance imaging
+ RS1498853,26444770,Right Caudate
+ RS1498853,26444770,Inferior Temporal Gyrus
+ RS1498853,26444770,Lateral Occipito_Temporal Gyrus
+ RS1498853,26444770,Parahippocampal Gyrus
+ RS1498853,26444770,Insula
+ RS1498853,26444770,Magnetic resonance imaging
+ RS17028008,26444770,Hippocampus
+ RS17028008,26444770,Right Hippocampus
+ RS17028008,26444770,Structural magnetic resonance imaging
+ RS17028008,26444770,Right Caudate
+ RS17028008,26444770,Inferior Temporal Gyrus
+ RS17028008,26444770,Lateral Occipito_Temporal Gyrus
+ RS17028008,26444770,Parahippocampal Gyrus
+ RS17028008,26444770,Insula
+ RS17028008,26444770,Magnetic resonance imaging
+ RS2137962,26444770,Hippocampus
+ RS2137962,26444770,Right Hippocampus
+ RS2137962,26444770,Structural magnetic resonance imaging
+ RS2137962,26444770,Right Caudate
+ RS2137962,26444770,Inferior Temporal Gyrus
+ RS2137962,26444770,Lateral Occipito_Temporal Gyrus
+ RS2137962,26444770,Parahippocampal Gyrus
+ RS2137962,26444770,Insula
+ RS2137962,26444770,Magnetic resonance imaging
+ RS4899412,26444770,Hippocampus
+ RS4899412,26444770,Right Hippocampus
+ RS4899412,26444770,Structural magnetic resonance imaging
+ RS4899412,26444770,Right Caudate
+ RS4899412,26444770,Inferior Temporal Gyrus
+ RS4899412,26444770,Lateral Occipito_Temporal Gyrus
+ RS4899412,26444770,Parahippocampal Gyrus
+ RS4899412,26444770,Insula
+ RS4899412,26444770,Magnetic resonance imaging
+ RS11072463,26444770,Hippocampus
+ RS11072463,26444770,Right Hippocampus
+ RS11072463,26444770,Structural magnetic resonance imaging
+ RS11072463,26444770,Right Caudate
+ RS11072463,26444770,Inferior Temporal Gyrus
+ RS11072463,26444770,Lateral Occipito_Temporal Gyrus
+ RS11072463,26444770,Parahippocampal Gyrus
+ RS11072463,26444770,Insula
+ RS11072463,26444770,Magnetic resonance imaging
+ RS288496,26444770,Hippocampus
+ RS288496,26444770,Right Hippocampus
+ RS288496,26444770,Structural magnetic resonance imaging
+ RS288496,26444770,Right Caudate
+ RS288496,26444770,Inferior Temporal Gyrus
+ RS288496,26444770,Lateral Occipito_Temporal Gyrus
+ RS288496,26444770,Parahippocampal Gyrus
+ RS288496,26444770,Insula
+ RS288496,26444770,Magnetic resonance imaging
+ RS4829605,26444770,Hippocampus
+ RS4829605,26444770,Right Hippocampus
+ RS4829605,26444770,Structural magnetic resonance imaging
+ RS4829605,26444770,Right Caudate
+ RS4829605,26444770,Inferior Temporal Gyrus
+ RS4829605,26444770,Lateral Occipito_Temporal Gyrus
+ RS4829605,26444770,Parahippocampal Gyrus
+ RS4829605,26444770,Insula
+ RS4829605,26444770,Magnetic resonance imaging
+ RS1052242,26444770,Hippocampus
+ RS1052242,26444770,Right Hippocampus
+ RS1052242,26444770,Structural magnetic resonance imaging
+ RS1052242,26444770,Right Caudate
+ RS1052242,26444770,Inferior Temporal Gyrus
+ RS1052242,26444770,Lateral Occipito_Temporal Gyrus
+ RS1052242,26444770,Parahippocampal Gyrus
+ RS1052242,26444770,Insula
+ RS1052242,26444770,Magnetic resonance imaging
+ RS4886844,26444770,Hippocampus
+ RS4886844,26444770,Right Hippocampus
+ RS4886844,26444770,Structural magnetic resonance imaging
+ RS4886844,26444770,Right Caudate
+ RS4886844,26444770,Inferior Temporal Gyrus
+ RS4886844,26444770,Lateral Occipito_Temporal Gyrus
+ RS4886844,26444770,Parahippocampal Gyrus
+ RS4886844,26444770,Insula
+ RS4886844,26444770,Magnetic resonance imaging
+ RS734854,26444770,Hippocampus
+ RS734854,26444770,Right Hippocampus
+ RS734854,26444770,Structural magnetic resonance imaging
+ RS734854,26444770,Right Caudate
+ RS734854,26444770,Inferior Temporal Gyrus
+ RS734854,26444770,Lateral Occipito_Temporal Gyrus
+ RS734854,26444770,Parahippocampal Gyrus
+ RS734854,26444770,Insula
+ RS734854,26444770,Magnetic resonance imaging
+ RS17027976,26444770,Hippocampus
+ RS17027976,26444770,Right Hippocampus
+ RS17027976,26444770,Structural magnetic resonance imaging
+ RS17027976,26444770,Right Caudate
+ RS17027976,26444770,Inferior Temporal Gyrus
+ RS17027976,26444770,Lateral Occipito_Temporal Gyrus
+ RS17027976,26444770,Parahippocampal Gyrus
+ RS17027976,26444770,Insula
+ RS17027976,26444770,Magnetic resonance imaging
+ RS288503,26444770,Hippocampus
+ RS288503,26444770,Right Hippocampus
+ RS288503,26444770,Structural magnetic resonance imaging
+ RS288503,26444770,Right Caudate
+ RS288503,26444770,Inferior Temporal Gyrus
+ RS288503,26444770,Lateral Occipito_Temporal Gyrus
+ RS288503,26444770,Parahippocampal Gyrus
+ RS288503,26444770,Insula
+ RS288503,26444770,Magnetic resonance imaging
+ RS1334496,26444770,Hippocampus
+ RS1334496,26444770,Right Hippocampus
+ RS1334496,26444770,Structural magnetic resonance imaging
+ RS1334496,26444770,Right Caudate
+ RS1334496,26444770,Inferior Temporal Gyrus
+ RS1334496,26444770,Lateral Occipito_Temporal Gyrus
+ RS1334496,26444770,Parahippocampal Gyrus
+ RS1334496,26444770,Insula
+ RS1334496,26444770,Magnetic resonance imaging
+RS2075650,26576771,Cerebrospinal fluid
+RS439401,26576771,Cerebrospinal fluid
+RS3818361,22244847,Assessment of anxiety
+ RS6656401,22244847,Assessment of anxiety
+RS3818361,27066559,Alzheimer disease
+RS3818361,27066559,Entorhinal Cortex
+RS3818361,27066559,Pittsburgh Compound B
+RS744373,27066559,Alzheimer disease
+RS744373,27066559,Entorhinal Cortex
+RS744373,27066559,Pittsburgh Compound B
+RS9349407,27066559,Alzheimer disease
+RS9349407,27066559,Entorhinal Cortex
+RS9349407,27066559,Pittsburgh Compound B
+RS3818361,23022416,Amyloid deposition
+RS3818361,23022416,Positron emission tomography
+RS3818361,24998857,Mini mental state exam
+RS3818361,23582656,Alzheimer disease
+RS3818361,23582656,Tau
+ RS6656401,23582656,Alzheimer disease
+ RS6656401,23582656,Tau
+RS4844609,23582656,Alzheimer disease
+RS4844609,23582656,Tau
+RS744373,27003210,Tau
+RS744373,27003210,Cerebrospinal fluid
+RS744373,27003210,p_tau
+RS744373,27003210,Hippocampal atrophy
+RS744373,27003210,AV45_PET
+RS744373,27003210,Brain atrophy
+RS744373,27003210,18_fluorodeoxyglucose PET
+RS744373,27003210,Magnetic resonance imaging
+RS7561528,27003210,Tau
+RS7561528,27003210,Cerebrospinal fluid
+RS7561528,27003210,p_tau
+RS7561528,27003210,Hippocampal atrophy
+RS7561528,27003210,AV45_PET
+RS7561528,27003210,Brain atrophy
+RS7561528,27003210,18_fluorodeoxyglucose PET
+RS7561528,27003210,Magnetic resonance imaging
+RS72838284,27003210,Tau
+RS72838284,27003210,Cerebrospinal fluid
+RS72838284,27003210,p_tau
+RS72838284,27003210,Hippocampal atrophy
+RS72838284,27003210,AV45_PET
+RS72838284,27003210,Brain atrophy
+RS72838284,27003210,18_fluorodeoxyglucose PET
+RS72838284,27003210,Magnetic resonance imaging
+RS1469980,27003210,Tau
+RS1469980,27003210,Cerebrospinal fluid
+RS1469980,27003210,p_tau
+RS1469980,27003210,Hippocampal atrophy
+RS1469980,27003210,AV45_PET
+RS1469980,27003210,Brain atrophy
+RS1469980,27003210,18_fluorodeoxyglucose PET
+RS1469980,27003210,Magnetic resonance imaging
+RS13031703,27003210,Tau
+RS13031703,27003210,Cerebrospinal fluid
+RS13031703,27003210,p_tau
+RS13031703,27003210,Hippocampal atrophy
+RS13031703,27003210,AV45_PET
+RS13031703,27003210,Brain atrophy
+RS13031703,27003210,18_fluorodeoxyglucose PET
+RS13031703,27003210,Magnetic resonance imaging
+RS744373,20460622,Alzheimer disease
+ RS597668,20460622,Alzheimer disease
+RS744373,24260488,Amyloid deposition
+RS744373,24260488,18F AV_45
+RS744373,24260488,Positron emission tomography
+RS7561528,24260488,Amyloid deposition
+RS7561528,24260488,18F AV_45
+RS7561528,24260488,Positron emission tomography
+ RS7851179,24260488,Amyloid deposition
+ RS7851179,24260488,18F AV_45
+ RS7851179,24260488,Positron emission tomography
+RS744373,26631617,Hippocampus
+RS744373,26631617,Hippocampal Formation
+RS744373,26680604,Alzheimer disease
+ RS6656401,26680604,Alzheimer disease
+RS3865444,26680604,Alzheimer disease
+RS9349407,26680604,Alzheimer disease
+ RS4938933,26680604,Alzheimer disease
+ RS9331888,26680604,Alzheimer disease
+ RS11556505,26680604,Alzheimer disease
+ RS4945261,26680604,Alzheimer disease
+ RS5984894,26680604,Alzheimer disease
+ RS597668,26680604,Alzheimer disease
+ RS9271192,26680604,Alzheimer disease
+RS28834970,26680604,Alzheimer disease
+ RS1562990,26680604,Alzheimer disease
+ RS157581,26680604,Alzheimer disease
+RS1160985,26680604,Alzheimer disease
+RS6691117,26680604,Alzheimer disease
+RS744373,25630570,Hippocampus
+RS744373,25630570,Hippocampus volume
+ RS10524523,24260406,Hippocampus
+ RS10524523,24260406,Hippocampal atrophy
+ RS10524523,24260406,Right Hippocampus
+ RS10524523,24260406,Structural magnetic resonance imaging
+ RS10524523,24260406,Brain atrophy
+ RS10524523,24260406,Hippocampal Formation
+ RS10524523,24260406,Magnetic resonance imaging
+ RS10524523,22869155,Alzheimer disease
+ RS10524523,24508314,White matter integrity
+ RS10524523,24508314,Magnetic resonance imaging
+ RS10524523,24508314,Scores
+ RS10524523,25862420,Brain region
+ RS10524523,25862420,Cortical Thickness
+ RS10524523,25862420,Entorhinal Cortex
+ RS10524523,25862420,Magnetic resonance imaging
+ RS10524523,21784354,Precuneus
+ RS10524523,21784354,Grey matter volume
+ RS10524523,25500937,Tau
+ RS10524523,25500937,Cerebrospinal fluid
+ RS10524523,20457951,Alzheimer disease
+ RS10524523,21825236,Alzheimer disease
+ RS10524523,21825236,Tau
+ RS10524523,21825236,Cerebrospinal fluid
+ RS10524523,22863908,Cambridge neuropsychological test
+ RS10524523,22863908,Assessment of anxiety
+ RS10524523,26756745,Tau
+ RS10524523,26756745,Cerebrospinal fluid
+ RS10524523,24439168,Brain region
+ RS242557,22291217,Tau
+ RS242557,22291217,Brain region
+RS356165,22291217,Tau
+RS356165,22291217,Brain region
+ RS242557,22685416,Brain region
+ RS242557,22685416,Hindbrain
+ RS6532197,22685416,Brain region
+ RS6532197,22685416,Hindbrain
+ RS1561570,22685416,Brain region
+ RS1561570,22685416,Hindbrain
+ RS1701704,22685416,Brain region
+ RS1701704,22685416,Hindbrain
+rs11568563,22685416,Brain region
+rs11568563,22685416,Hindbrain
+RS4728142,22685416,Brain region
+RS4728142,22685416,Hindbrain
+ RS242557,20951764,Alzheimer disease
+ RS242557,20951764,Tau
+ RS242557,20951764,Cerebrospinal fluid
+ RS242557,20951764,Parkinson disease
+ RS2471738,20951764,Alzheimer disease
+ RS2471738,20951764,Tau
+ RS2471738,20951764,Cerebrospinal fluid
+ RS2471738,20951764,Parkinson disease
+rs7521,20951764,Alzheimer disease
+rs7521,20951764,Tau
+rs7521,20951764,Cerebrospinal fluid
+rs7521,20951764,Parkinson disease
+ RS1880756,20951764,Alzheimer disease
+ RS1880756,20951764,Tau
+ RS1880756,20951764,Cerebrospinal fluid
+ RS1880756,20951764,Parkinson disease
+ RS1467967,20951764,Alzheimer disease
+ RS1467967,20951764,Tau
+ RS1467967,20951764,Cerebrospinal fluid
+ RS1467967,20951764,Parkinson disease
+ RS1880753,20951764,Alzheimer disease
+ RS1880753,20951764,Tau
+ RS1880753,20951764,Cerebrospinal fluid
+ RS1880753,20951764,Parkinson disease
+ RS1800547,20951764,Alzheimer disease
+ RS1800547,20951764,Tau
+ RS1800547,20951764,Cerebrospinal fluid
+ RS1800547,20951764,Parkinson disease
+ RS242557,17266761,Tau
+ RS242557,23116876,Tau
+ RS1768208,23116876,Tau
+ RS7571971,23116876,Tau
+ RS1411478,23116876,Tau
+ RS242557,18841019,Tau
+ RS242557,18841019,Tau hyperphosphorylation
+RS2071746,18841019,Tau
+RS2071746,18841019,Tau hyperphosphorylation
+ RS242557,19308965,Tau
+ RS242557,17179995,Tau
+ RS242557,17179995,Cerebrospinal fluid
+ RS242557,24923570,Tau
+ RS6656401,22262751,Alzheimer disease
+ RS6656401,22262751,Amyloid deposition
+ RS6656401,22262751,Intracerebral hemorrhage
+RS28936379,10822446,Alzheimer disease
+RS28936379,10362543,Amyloid deposition
+RS28936379,15055444,Alzheimer disease
+RS28936379,15055444,Amyloid deposition
+RS28936379,15055444,White matter
+RS28936379,15055444,Cerebral Cortex
+RS28936379,15006697,Abeta_42
+RS28936379,9065468,Abeta_42
+rs661,9065468,Abeta_42
+RS28936379,16545890,Alzheimer disease
+rs28936380,16545890,Alzheimer disease
+RS28936379,9694871,Abeta_42
+RS28936379,15663477,Abeta_42
+RS2070045,23318115,Scores
+ RS11600875,23318115,Scores
+ RS753780,23318115,Scores
+ RS7105365,23318115,Scores
+ RS11820794,23318115,Scores
+RS2070045,25659857,Tau
+RS2070045,25659857,Mini mental state exam
+RS2070045,25659857,Cerebrospinal fluid
+RS2070045,25659857,Hippocampal atrophy
+ RS3824968,25659857,Tau
+ RS3824968,25659857,Mini mental state exam
+ RS3824968,25659857,Cerebrospinal fluid
+ RS3824968,25659857,Hippocampal atrophy
+ RS11218340,25659857,Tau
+ RS11218340,25659857,Mini mental state exam
+ RS11218340,25659857,Cerebrospinal fluid
+ RS11218340,25659857,Hippocampal atrophy
+ RS3824966,25659857,Tau
+ RS3824966,25659857,Mini mental state exam
+ RS3824966,25659857,Cerebrospinal fluid
+ RS3824966,25659857,Hippocampal atrophy
+RS2070045,24309291,Tau
+RS2070045,22410445,Alzheimer disease
+ RS1699102,22410445,Alzheimer disease
+RS2070045,19368828,Cerebrospinal fluid
+RS2070045,19368828,Abeta_42
+ RS3824968,19368828,Cerebrospinal fluid
+ RS3824968,19368828,Abeta_42
+ RS1010159,19368828,Cerebrospinal fluid
+ RS1010159,19368828,Abeta_42
+RS2070045,25598427,Hippocampus
+RS2070045,25598427,White matter
+RS2070045,25598427,Axial diffusivity
+RS2070045,25598427,Mean diffusivity
+RS2070045,20625269,Alzheimer disease
+ RS3824968,20625269,Alzheimer disease
+ RS661057,20625269,Alzheimer disease
+ RS1800764,20625269,Alzheimer disease
+RS4343,20625269,Alzheimer disease
+RS668387,20625269,Alzheimer disease
+ RS2282649,20625269,Alzheimer disease
+RS1799752,20625269,Alzheimer disease
+ RS689021,20625269,Alzheimer disease
+RS17125721,23990795,Tau
+RS17125721,23990795,Cerebrospinal fluid
+RS17125721,11524469,Algorithms
+RS17125721,9915968,Alzheimer disease
+RS17125721,18525293,Alzheimer disease
+RS17125721,15772361,Abeta_42
+RS17125721,10896268,Alzheimer disease
+RS17125721,10896268,Hindbrain
+RS17125721,11568920,Alzheimer disease
+RS17125721,9781063,Alzheimer disease
+RS429358,16603077,Tau
+RS7412,16603077,Tau
+RS429358,23571587,Alzheimer disease
+ RS115550680,23571587,Alzheimer disease
+RS429358,24448547,Intracerebral hemorrhage
+RS7412,24448547,Intracerebral hemorrhage
+RS429358,21958003,Alzheimer disease
+RS7412,21958003,Alzheimer disease
+RS429358,26776178,Structural magnetic resonance imaging
+RS429358,26776178,Positron emission tomography
+RS429358,26776178,18_fluorodeoxyglucose PET
+RS429358,26776178,Magnetic resonance imaging
+RS429358,20167577,Alzheimer disease
+rs2230805,20167577,Alzheimer disease
+ RS3183702,20167577,Alzheimer disease
+RS429358,23419831,Amyloid deposition
+RS429358,23419831,Positron emission tomography
+RS429358,23419831,Cerebral Cortex
+ RS509208,23419831,Amyloid deposition
+ RS509208,23419831,Positron emission tomography
+ RS509208,23419831,Cerebral Cortex
+RS429358,22110642,Fluency test
+RS7412,22110642,Fluency test
+RS429358,26404360,Montreal cognitive assessment
+RS7412,26404360,Montreal cognitive assessment
+RS75932628,26704436,Dopaminergic Neurons
+RS75932628,26704436,Substantia Nigra
+ RS2234253,26704436,Dopaminergic Neurons
+ RS2234253,26704436,Substantia Nigra
+RS75932628,27051467,Tau
+RS75932628,27051467,Hippocampus
+RS75932628,26058955,Atrophy
+RS75932628,25936935,Tau
+RS75932628,25936935,Cerebrospinal fluid
+RS75932628,24535663,Alzheimer disease
+RS75932628,25027412,White matter
+RS75932628,25027412,Voxel_based morphometry
+RS75932628,25027412,Gray matter
+RS75932628,25027412,Parietal Lobe
+RS75932628,25027412,Volumetric MRI
+RS75932628,25027412,Atrophy
+RS75932628,25186855,Alzheimer disease
+RS75932628,26058841,Amyloid deposition
+ RS1532278,21460841,Alzheimer disease
+RS3865444,21460841,Alzheimer disease
+RS7561528,21460841,Alzheimer disease
+RS9349407,21460841,Alzheimer disease
+RS561655,21460841,Alzheimer disease
+ RS11767557,21460841,Alzheimer disease
+ RS4938933,21460841,Alzheimer disease
+RS6701713,21460841,Alzheimer disease
+RS6265,18786162,Precuneus
+RS6265,18786162,Atrophy
+RS6265,18786162,Neocortex
+RS6265,18786162,Magnetic resonance imaging
+RS6265,17151862,Assessment of anxiety
+RS6265,25625606,Hippocampal atrophy
+RS6265,25625606,Hippocampus volume
+RS6265,25625606,Atrophy
+ RS6581612,25625606,Hippocampal atrophy
+ RS6581612,25625606,Hippocampus volume
+ RS6581612,25625606,Atrophy
+RS6265,18505307,Scores
+RS6265,14730194,Assessment of anxiety
+RS6265,21300947,Alzheimer disease
+RS6265,21300947,Cortical Thickness
+RS6265,21300947,Entorhinal Cortex
+RS6265,21300947,White matter integrity
+RS6265,21300947,White matter
+RS6265,21300947,Microstructural integrity
+RS6265,21300947,Fractional anisotropy
+RS6265,21300947,Magnetic resonance imaging
+RS6265,19412541,Tau
+RS6265,19412541,Cerebrospinal fluid
+RS6265,19412541,Abeta_42
+RS6265,19412541,Hippocampus
+RS6265,15843069,Mini mental state exam
+RS6265,15843069,Scores
+rs1048218,15843069,Mini mental state exam
+rs1048218,15843069,Scores
+RS6265,16627933,Mini mental state exam
+RS6265,16627933,Hippocampus
+RS6265,18460776,Scores
+RS6265,16899999,Hippocampus
+RS6265,15084795,Hippocampus
+RS6265,15084795,Cerebral Cortex
+RS6265,18179845,Assessment of anxiety
+RS6265,17657167,Alzheimer disease
+RS6265,17657167,Hippocampus
+RS6265,16962786,Alzheimer disease
+RS11030104,16962786,Alzheimer disease
+RS7103411,16962786,Alzheimer disease
+RS6265,24086677,Hippocampus
+RS6265,24086677,Brain volume
+RS6265,24086677,Whole brain atrophy
+RS6265,24086677,Alzheimers disease assessment scale
+RS6265,24086677,Whole brain volume
+RS6265,24086677,Scores
+RS11030104,24086677,Hippocampus
+RS11030104,24086677,Brain volume
+RS11030104,24086677,Whole brain atrophy
+RS11030104,24086677,Alzheimers disease assessment scale
+RS11030104,24086677,Whole brain volume
+RS11030104,24086677,Scores
+RS1157659,24086677,Hippocampus
+RS1157659,24086677,Brain volume
+RS1157659,24086677,Whole brain atrophy
+RS1157659,24086677,Alzheimers disease assessment scale
+RS1157659,24086677,Whole brain volume
+RS1157659,24086677,Scores
+RS1050187,24086677,Hippocampus
+RS1050187,24086677,Brain volume
+RS1050187,24086677,Whole brain atrophy
+RS1050187,24086677,Alzheimers disease assessment scale
+RS1050187,24086677,Whole brain volume
+RS1050187,24086677,Scores
+RS1157459,24086677,Hippocampus
+RS1157459,24086677,Brain volume
+RS1157459,24086677,Whole brain atrophy
+RS1157459,24086677,Alzheimers disease assessment scale
+RS1157459,24086677,Whole brain volume
+RS1157459,24086677,Scores
+RS11030108,24086677,Hippocampus
+RS11030108,24086677,Brain volume
+RS11030108,24086677,Whole brain atrophy
+RS11030108,24086677,Alzheimers disease assessment scale
+RS11030108,24086677,Whole brain volume
+RS11030108,24086677,Scores
+RS11030094,24086677,Hippocampus
+RS11030094,24086677,Brain volume
+RS11030094,24086677,Whole brain atrophy
+RS11030094,24086677,Alzheimers disease assessment scale
+RS11030094,24086677,Whole brain volume
+RS11030094,24086677,Scores
+RS2203877,24086677,Hippocampus
+RS2203877,24086677,Brain volume
+RS2203877,24086677,Whole brain atrophy
+RS2203877,24086677,Alzheimers disease assessment scale
+RS2203877,24086677,Whole brain volume
+RS2203877,24086677,Scores
+RS10835211,24086677,Hippocampus
+RS10835211,24086677,Brain volume
+RS10835211,24086677,Whole brain atrophy
+RS10835211,24086677,Alzheimers disease assessment scale
+RS10835211,24086677,Whole brain volume
+RS10835211,24086677,Scores
+RS7934165,24086677,Hippocampus
+RS7934165,24086677,Brain volume
+RS7934165,24086677,Whole brain atrophy
+RS7934165,24086677,Alzheimers disease assessment scale
+RS7934165,24086677,Whole brain volume
+RS7934165,24086677,Scores
+RS10501087,24086677,Hippocampus
+RS10501087,24086677,Brain volume
+RS10501087,24086677,Whole brain atrophy
+RS10501087,24086677,Alzheimers disease assessment scale
+RS10501087,24086677,Whole brain volume
+RS10501087,24086677,Scores
+RS908867,24086677,Hippocampus
+RS908867,24086677,Brain volume
+RS908867,24086677,Whole brain atrophy
+RS908867,24086677,Alzheimers disease assessment scale
+RS908867,24086677,Whole brain volume
+RS908867,24086677,Scores
+RS1491850,24086677,Hippocampus
+RS1491850,24086677,Brain volume
+RS1491850,24086677,Whole brain atrophy
+RS1491850,24086677,Alzheimers disease assessment scale
+RS1491850,24086677,Whole brain volume
+RS1491850,24086677,Scores
+RS12273363,24086677,Hippocampus
+RS12273363,24086677,Brain volume
+RS12273363,24086677,Whole brain atrophy
+RS12273363,24086677,Alzheimers disease assessment scale
+RS12273363,24086677,Whole brain volume
+RS12273363,24086677,Scores
+RS925946,24086677,Hippocampus
+RS925946,24086677,Brain volume
+RS925946,24086677,Whole brain atrophy
+RS925946,24086677,Alzheimers disease assessment scale
+RS925946,24086677,Whole brain volume
+RS925946,24086677,Scores
+RS5848,25470345,Alzheimer disease
+RS5848,25470345,Hippocampus
+RS1990622,25470345,Alzheimer disease
+RS1990622,25470345,Hippocampus
+ RS704180,25470345,Alzheimer disease
+ RS704180,25470345,Hippocampus
+RS5848,24770881,Hippocampus
+RS1990622,24770881,Hippocampus
+ RS704178,24770881,Hippocampus
+RS5848,23300100,Alzheimer disease
+RS5848,23300100,Parkinson disease
+RS5848,20197700,Alzheimer disease
+RS5848,20197700,Hippocampus
+RS5848,26682689,Cerebrospinal fluid
+RS5848,26682689,p_tau
+RS5848,26682689,Cortical Thickness
+RS5848,19625741,Cerebrospinal fluid
+RS5848,19625741,Parietal Lobe
+ RS9897526,19625741,Cerebrospinal fluid
+ RS9897526,19625741,Parietal Lobe
+RS5848,21346515,Alzheimer disease
+RS5848,21346515,Hippocampus
+RS7561528,25199842,Alzheimer disease
+RS7561528,25199842,Scores
+RS561655,25199842,Alzheimer disease
+RS561655,25199842,Scores
+RS6701713,25199842,Alzheimer disease
+RS6701713,25199842,Scores
+rs459543,11879646,Abeta_42
+rs459543,18687920,Cerebrospinal fluid
+rs459543,18687920,Abeta_42
+rs459543,18687920,Amyloid deposition
+rs459543,18687920,Brain region
+rs459543,15974898,Abeta_42
+rs459543,19067586,Abeta_42
+rs459543,16027115,Alzheimer disease
+rs459543,16027115,Hippocampus
+rs459543,16027115,Neocortex
+ RS3824968,21997402,Tau
+ RS3824968,21997402,Cerebrospinal fluid
+ RS2282649,21997402,Tau
+ RS2282649,21997402,Cerebrospinal fluid
+ RS3824968,18063222,Alzheimer disease
+ RS2282649,18063222,Alzheimer disease
+ RS1699102,18063222,Alzheimer disease
+ RS2373115,17553421,Tau
+ RS2373115,19924507,Alzheimer disease
+ RS1385600,19924507,Alzheimer disease
+ RS2373115,20188796,Alzheimer disease
+ RS2373115,20188796,Tau hyperphosphorylation
+ RS2373115,21285854,Alzheimer disease
+ RS7101429,21285854,Alzheimer disease
+ RS1385600,21285854,Alzheimer disease
+ RS4945261,21285854,Alzheimer disease
+ RS7115850,21285854,Alzheimer disease
+ RS2373115,18272374,Tau
+RS334558,25420549,Tau
+RS334558,25420549,Mini mental state exam
+RS334558,25420549,Cerebrospinal fluid
+RS334558,25420549,Scores
+ RS1154597,25420549,Tau
+ RS1154597,25420549,Mini mental state exam
+ RS1154597,25420549,Cerebrospinal fluid
+ RS1154597,25420549,Scores
+ RS3107669,25420549,Tau
+ RS3107669,25420549,Mini mental state exam
+ RS3107669,25420549,Cerebrospinal fluid
+ RS3107669,25420549,Scores
+RS334558,22785398,Resting state fMRI
+RS334558,22785398,Superior Frontal Gyrus
+RS334558,25141968,Tau
+ RS60393216,25141968,Tau
+ RS3732361,25141968,Tau
+ RS56728675,25141968,Tau
+RS334558,19154537,Tau
+RS334558,19154537,Tau hyperphosphorylation
+RS735555,19154537,Tau
+RS735555,19154537,Tau hyperphosphorylation
+RS334558,25351705,Alzheimer disease
+RS6438552,25351705,Alzheimer disease
+RS334558,21443865,Tau
+rs2986017,20634593,Tau
+rs2986017,20634593,Cerebrospinal fluid
+rs2986017,19191331,Alzheimer disease
+rs2986017,18585350,Hippocampus
+rs2986017,18585350,Hippocampal atrophy
+rs2986017,19472444,Alzheimer disease
+rs2986017,22874670,Alzheimer disease
+ RS4918016,22874670,Alzheimer disease
+ RS2986018,22874670,Alzheimer disease
+ RS41287502,22874670,Alzheimer disease
+ RS41287500,22874670,Alzheimer disease
+rs754203,15034781,Tau
+rs754203,15034781,Cerebrospinal fluid
+rs754203,15034781,Abeta_42
+rs754203,15034781,Amyloid beta metabolism
+rs754203,22528464,Alzheimer disease
+rs754203,19705089,Cerebrospinal fluid
+rs754203,15936520,Cerebrospinal fluid
+rs754203,19553612,Alzheimer disease
+RS17070145,18789830,Hippocampus
+RS17070145,18789830,Brain region
+RS17070145,18789830,Precuneus
+RS17070145,18789830,Positron emission tomography
+RS17070145,23266749,Grey matter volume
+RS17070145,23266749,Gray matter
+RS17070145,23266749,Insula
+RS17070145,25800888,Hippocampus
+RS17070145,25800888,Inferior Frontal Gyrus
+RS17070145,25800888,Single Photon Emission Computed Tomography
+RS17070145,20185150,Logical memory
+RS17070145,21185624,Brain region
+RS17070145,21185624,Hindbrain
+RS17070145,18194457,Scores
+rs6313,15313842,Alzheimer disease
+rs6313,15313842,Serotonin
+rs6313,15313842,Assessment of anxiety
+rs6313,11566166,Serotonin
+rs6313,14699448,Assessment of anxiety
+rs6313,15000807,Alzheimer disease
+rs6313,15000807,Serotonin
+rs6313,17183148,Alzheimer disease
+rs6313,17183148,Serotonin
+rs6313,17183148,Assessment of anxiety
+rs11542040,17183148,Alzheimer disease
+rs11542040,17183148,Serotonin
+rs11542040,17183148,Assessment of anxiety
+rs6313,19494443,Serotonin
+rs6313,17614196,Alzheimer disease
+rs6313,17614196,Serotonin
+rs6313,17614196,Assessment of anxiety
+rs6313,17525976,Alzheimer disease
+rs6313,17525976,Assessment of anxiety
+rs6313,17481814,Neocortex
+rs6313,16967466,Mini mental state exam
+rs6313,16967466,Serotonin
+rs6313,16967466,Scores
+RS638405,15784960,Scores
+RS638405,12707937,Alzheimer disease
+RS638405,20849576,Cerebrospinal fluid
+RS638405,23341828,Mini mental state exam
+RS638405,23341828,Grey matter volume
+RS638405,23341828,Voxel_based morphometry
+RS638405,23341828,Hindbrain
+RS638405,23341828,Magnetic resonance imaging
+rs661,17012294,Neuropsychological assessments
+rs661,17012294,Functional magnetic resonance imaging
+rs661,17012294,Magnetic resonance imaging
+rs661,17545141,Alzheimer disease
+rs661,17545141,Tau
+rs661,17545141,Abeta_42
+rs661,17545141,Gray matter
+rs661,17553989,Amyloid deposition
+rs661,17553989,Pittsburgh Compound B
+rs661,17553989,Amyloid imaging
+rs661,17553989,Positron emission tomography
+rs661,17553989,Striatum
+ RS2471738,18319590,Tau
+ RS2471738,18319590,Tau hyperphosphorylation
+ RS983583,18319590,Tau
+ RS983583,18319590,Tau hyperphosphorylation
+ RS2471738,19684401,Tau
+ RS2471738,19684401,Tau hyperphosphorylation
+RS1799986,19684401,Tau
+RS1799986,19684401,Tau hyperphosphorylation
+ RS1868402,20862329,Tau
+ RS1868402,20862329,Cerebrospinal fluid
+ RS1868402,23727081,Tau
+ RS1868402,23727081,Cerebrospinal fluid
+ RS1868402,23727081,Clinical dementia rating
+ RS1868402,23727081,Scores
+RS3785883,23727081,Tau
+RS3785883,23727081,Cerebrospinal fluid
+RS3785883,23727081,Clinical dementia rating
+RS3785883,23727081,Scores
+ RS661057,19889229,White matter
+ RS661057,19822782,Alzheimer disease
+ RS641120,19822782,Alzheimer disease
+ RS12364988,19822782,Alzheimer disease
+ RS1800764,21139807,Cerebrospinal fluid
+RS4343,21139807,Cerebrospinal fluid
+RS1799752,21139807,Cerebrospinal fluid
+ RS1800764,24851853,Alzheimer disease
+RS4343,24851853,Alzheimer disease
+RS4291,24851853,Alzheimer disease
+ RS1800764,19956428,Cerebrospinal fluid
+RS4343,19956428,Cerebrospinal fluid
+ RS4921,19956428,Cerebrospinal fluid
+RS1990622,25653292,Alzheimer disease
+RS1990622,25653292,Hippocampus
+RS1990622,21220649,Alzheimer disease
+ RS3173615,21220649,Alzheimer disease
+RS6971,25840980,Alzheimer disease
+RS6971,25840980,Mini mental state exam
+RS6971,25840980,Amyloid positron emission tomography
+RS6971,25840980,18F_florbetapir
+RS6971,25840980,Alzheimers disease assessment scale
+RS6971,25840980,Geriatric depression scale
+RS6971,25840980,Positron emission tomography
+RS6971,25840980,Scores
+RS6971,22968319,Positron emission tomography
+RS6971,25707397,Hippocampus
+RS6971,25707397,White matter
+RS6971,25707397,Positron emission tomography
+RS6971,26762507,White matter
+ RS7101429,19204163,Alzheimer disease
+ RS10519262,19204163,Alzheimer disease
+ RS9886784,19204163,Alzheimer disease
+ RS7019241,19204163,Alzheimer disease
+ RS7101429,22856364,Brain volume
+ RS498055,16385451,Alzheimer disease
+ RS498055,17725684,Alzheimer disease
+ RS498055,17725684,Scores
+ RS498055,16773580,Alzheimer disease
+RS4343,16642441,Alzheimer disease
+ RS4351,16642441,Alzheimer disease
+rs7521,7838376,Tau
+rs7521,10931371,Tau
+rs7521,10931371,Neocortex
+RS668387,23463934,Mini mental state exam
+RS668387,23463934,Scores
+RS668387,23463934,Assessment of anxiety
+ RS641120,23463934,Mini mental state exam
+ RS641120,23463934,Scores
+ RS641120,23463934,Assessment of anxiety
+ RS68902,23463934,Mini mental state exam
+ RS68902,23463934,Scores
+ RS68902,23463934,Assessment of anxiety
+ RS8702,17653041,Alzheimer disease
+ RS8702,17611642,Tau
+ RS8702,17611642,Cerebrospinal fluid
+ RS8702,19911314,Mini mental state exam
+ RS8702,19911314,Cerebrospinal fluid
+ RS8702,19911314,Scores
+ RS3212079,19911314,Mini mental state exam
+ RS3212079,19911314,Cerebrospinal fluid
+ RS3212079,19911314,Scores
+ RS8007903,19911314,Mini mental state exam
+ RS8007903,19911314,Cerebrospinal fluid
+ RS8007903,19911314,Scores
+ RS7294919,22504417,Hippocampus
+ RS7294919,22504417,Hippocampus volume
+ RS7294919,22504417,Brain volume
+ RS7294919,22504417,Intracranial volume
+ RS7294919,22504417,Magnetic resonance imaging
+ RS7294919,22504417,Assessment of anxiety
+ RS10784502,22504417,Hippocampus
+ RS10784502,22504417,Hippocampus volume
+ RS10784502,22504417,Brain volume
+ RS10784502,22504417,Intracranial volume
+ RS10784502,22504417,Magnetic resonance imaging
+ RS10784502,22504417,Assessment of anxiety
+ RS10494373,22504417,Hippocampus
+ RS10494373,22504417,Hippocampus volume
+ RS10494373,22504417,Brain volume
+ RS10494373,22504417,Intracranial volume
+ RS10494373,22504417,Magnetic resonance imaging
+ RS10494373,22504417,Assessment of anxiety
+ RS7294919,24361131,Hippocampus volume
+ RS7294919,22504421,Hippocampus
+ RS7294919,22504421,Hippocampus volume
+ RS6741949,22504421,Hippocampus
+ RS6741949,22504421,Hippocampus volume
+ RS17178006,22504421,Hippocampus
+ RS17178006,22504421,Hippocampus volume
+ RS7852872,22504421,Hippocampus
+ RS7852872,22504421,Hippocampus volume
+ RS541458,21300948,Alzheimer disease
+ RS541458,21300948,Tau
+ RS541458,21300948,Cerebrospinal fluid
+RS4925,22494505,Parkinson disease
+RS156697,22494505,Parkinson disease
+RS4925,20818931,Alzheimer disease
+ RS1804834,20818931,Alzheimer disease
+RS4925,18307576,Alzheimer disease
+ RS2297235,18307576,Alzheimer disease
+RS4925,15623683,Alzheimer disease
+RS4925,15623683,Cerebrospinal fluid
+RS3810950,21507424,Assessment of anxiety
+ RS1880676,21507424,Assessment of anxiety
+RS3810950,15690550,Acetylcholine
+RS3810950,21883924,Mini mental state exam
+RS8178990,21883924,Mini mental state exam
+RS1799990,12733424,Brain region
+RS11538766,12733424,Brain region
+RS1799990,15277640,Alzheimer disease
+RS1799990,12445160,Tau
+RS1799990,12445160,Hippocampus
+RS1799990,12445160,Entorhinal Cortex
+RS1799990,23399523,Alzheimer disease
+RS1799990,19822779,Alzheimer disease
+RS28933385,19822779,Alzheimer disease
+RS1799990,15305978,Amyloid deposition
+RS1799990,15305978,Hindbrain
+RS1799990,15305978,Cerebral Cortex
+RS1799990,16871401,Cerebral Cortex
+ RS2298813,24938503,Hippocampus
+ RS2298813,24938503,Hippocampal atrophy
+ RS2298813,24938503,Whole brain atrophy
+ RS2298813,24938503,Cerebral atrophy
+ RS2298813,24938503,Magnetic resonance imaging
+ RS4935774,24938503,Hippocampus
+ RS4935774,24938503,Hippocampal atrophy
+ RS4935774,24938503,Whole brain atrophy
+ RS4935774,24938503,Cerebral atrophy
+ RS4935774,24938503,Magnetic resonance imaging
+ RS1133174,24938503,Hippocampus
+ RS1133174,24938503,Hippocampal atrophy
+ RS1133174,24938503,Whole brain atrophy
+ RS1133174,24938503,Cerebral atrophy
+ RS1133174,24938503,Magnetic resonance imaging
+ RS2298813,25382023,Alzheimer disease
+ RS117260922,25382023,Alzheimer disease
+ RS143571823,25382023,Alzheimer disease
+ RS10845990,22421804,Tau
+ RS10845990,21295279,Alzheimer disease
+ RS10845990,21295279,Tau
+ RS2651206,20096481,Tau
+ RS7764257,20096481,Tau
+ RS3800294,20096481,Tau
+ RS2756173,20096481,Tau
+ RS1995300,20096481,Tau
+ RS2104142,20096481,Tau
+ RS6458330,20096481,Tau
+ RS10807287,20096481,Tau
+ RS6936397,20096481,Tau
+ RS2651206,21219968,Tau
+ RS7764257,21219968,Tau
+ RS1345203,24505811,Brain region
+ RS1345203,24505811,Brain volume
+ RS1345203,24505811,Temporal lobe volume
+ RS1213205,24505811,Brain region
+ RS1213205,24505811,Brain volume
+ RS1213205,24505811,Temporal lobe volume
+ RS1345203,25264344,Brain region
+ RS1345203,25264344,Brain volume
+ RS1345203,25264344,Temporal lobe volume
+ RS1345203,25264344,Tensor_based morphometry
+ RS1345203,25264344,Magnetic resonance imaging
+ RS1213205,25264344,Brain region
+ RS1213205,25264344,Brain volume
+ RS1213205,25264344,Temporal lobe volume
+ RS1213205,25264344,Tensor_based morphometry
+ RS1213205,25264344,Magnetic resonance imaging
+ RS600491,17510943,Tau
+ RS600491,17510943,Cerebrospinal fluid
+ RS600491,17510943,Abeta_42
+rs718265,17510943,Tau
+rs718265,17510943,Cerebrospinal fluid
+rs718265,17510943,Abeta_42
+ RS7374,17510943,Tau
+ RS7374,17510943,Cerebrospinal fluid
+ RS7374,17510943,Abeta_42
+ RS638944,17510943,Tau
+ RS638944,17510943,Cerebrospinal fluid
+ RS638944,17510943,Abeta_42
+ RS600491,22910610,Brain region
+ RS11622883,21903150,Mini mental state exam
+ RS11622883,21903150,Scores
+RS505058,21903150,Mini mental state exam
+RS505058,21903150,Scores
+ RS11622883,18848371,Mini mental state exam
+ RS11622883,18848371,Scores
+RS505058,18848371,Mini mental state exam
+RS505058,18848371,Scores
+RS12007229,22116812,Alzheimer disease
+rs5952,18671953,Cerebrospinal fluid
+rs5952,18671953,Hippocampus
+ RS1568566,18671953,Cerebrospinal fluid
+ RS1568566,18671953,Hippocampus
+rs5952,15316799,Cerebrospinal fluid
+rs5952,15316799,Hippocampus
+ RS2585590,26194614,Tau
+ RS2585590,26194614,Brain region
+ RS334543,26194614,Tau
+ RS334543,26194614,Brain region
+ RS2585590,24112793,Tau
+ RS2585590,24112793,Amyloid deposition
+ RS2585590,24112793,Amyloid positron emission tomography
+ RS334543,24112793,Tau
+ RS334543,24112793,Amyloid deposition
+ RS334543,24112793,Amyloid positron emission tomography
+ RS3098914,24112793,Tau
+ RS3098914,24112793,Amyloid deposition
+ RS3098914,24112793,Amyloid positron emission tomography
+ RS457581,24112793,Tau
+ RS457581,24112793,Amyloid deposition
+ RS457581,24112793,Amyloid positron emission tomography
+ RS11600875,21185108,Brain region
+ RS7945931,21185108,Brain region
+ RS2298525,21185108,Brain region
+ RS7759295,26059999,Alzheimer disease
+ RS6910730,26059999,Alzheimer disease
+ RS7759295,25545807,Alzheimer disease
+ RS7759295,25545807,Tau
+ RS6910730,25545807,Alzheimer disease
+ RS6910730,25545807,Tau
+ RS704180,26115089,Hippocampus
+rs718265,17579359,Brain region
+RS2227564,16967469,Mini mental state exam
+RS2227564,16967469,Scores
+ RS2227571,16967469,Mini mental state exam
+ RS2227571,16967469,Scores
+ RS2227562,16967469,Mini mental state exam
+ RS2227562,16967469,Scores
+rs4065,16967469,Mini mental state exam
+rs4065,16967469,Scores
+RS2227564,12898287,Alzheimer disease
+RS2227564,15615772,Abeta_42
+ RS983583,18290843,Tau
+ RS983583,18290843,Tau hyperphosphorylation
+ RS964917,18290843,Tau
+ RS964917,18290843,Tau hyperphosphorylation
+RS41345849,12609057,Alzheimer disease
+RS41345849,17456364,Mean transit time
+rs2230805,19606474,Alzheimer disease
+rs2230805,19606474,Cerebrospinal fluid
+RS3785883,25324900,Tau
+RS3785883,25324900,Hindbrain
+RS8070723,25324900,Tau
+RS8070723,25324900,Hindbrain
+RS592297,27117083,Brain region
+RS592297,27117083,Atrophy
+RS543293,27117083,Brain region
+RS543293,27117083,Atrophy
+RS642949,27117083,Brain region
+RS642949,27117083,Atrophy
+ RS514049,22572541,Cerebrospinal fluid
+ RS514049,22572541,Hippocampus
+ RS514049,22572541,Hindbrain
+ RS514049,22572541,Scores
+ RS653765,22572541,Cerebrospinal fluid
+ RS653765,22572541,Hippocampus
+ RS653765,22572541,Hindbrain
+ RS653765,22572541,Scores
+ RS514049,21196064,Cerebrospinal fluid
+rs55979514,11948243,Abeta_42
+rs55979514,16849325,Alzheimer disease
+RS1800557,8049900,Cerebral hemorrhage
+RS1800557,8023065,Alzheimer disease
+ RS1768208,26335643,Tau
+ RS5984894,20523261,Alzheimer disease
+ RS5941047,20523261,Alzheimer disease
+ RS2573905,20523261,Alzheimer disease
+ RS4568761,20523261,Alzheimer disease
+ RS6494223,24951635,Mini mental state exam
+ RS6494223,18696274,Acetylcholine
+RS28933385,16835721,Cerebrospinal fluid
+RS28933385,12820876,Hindbrain
+rs55871421,12820876,Hindbrain
+RS28933385,14967768,Alzheimer disease
+ RS2049045,22596272,Hippocampus
+ RS2049045,22596272,Brain region
+ RS2049045,22596272,Hippocampal perfusion
+ RS2049045,22596272,Hypoperfusion
+ RS2049045,22596272,Single Photon Emission Computed Tomography
+ RS2049045,22596272,Perfusion
+ RS2049045,19661618,Assessment of anxiety
+RS3758653,22691691,Dopamine
+ RS936465,22691691,Dopamine
+ RS11246228,22691691,Dopamine
+ RS752306,22691691,Dopamine
+RS3758653,23034259,Dopamine
+ RS12516948,23034259,Dopamine
+ RS11133762,23034259,Dopamine
+ RS2937639,23034259,Dopamine
+ RS4646312,23034259,Dopamine
+ RS2020917,23034259,Dopamine
+RS916455,23034259,Dopamine
+rs6347,23034259,Dopamine
+ RS1080985,19738170,Alzheimer disease
+ RS1080985,19738170,Mini mental state exam
+ RS1080985,19738170,Adverse events
+ RS1080985,25538729,Mini mental state exam
+RS17571,16652347,Alzheimer disease
+RS17571,16652347,Tau
+RS17571,16652347,Mini mental state exam
+RS17571,16652347,Cerebrospinal fluid
+RS17571,16652347,Abeta_42
+RS17571,16652347,Scores
+RS17571,23415546,Hindbrain
+RS1799986,24596678,Amyloid deposition
+RS1799986,24596678,Amyloid positron emission tomography
+RS1799986,24596678,11C_PiB
+RS34637584,16437584,Substantia Nigra
+RS34637584,17713120,Alzheimer disease
+RS34637584,17713120,Tau
+RS34637584,17713120,Atrophy
+rs33962975,17713120,Alzheimer disease
+rs33962975,17713120,Tau
+rs33962975,17713120,Atrophy
+RS34778348,17713120,Alzheimer disease
+RS34778348,17713120,Tau
+RS34778348,17713120,Atrophy
+RS33939927,17713120,Alzheimer disease
+RS33939927,17713120,Tau
+RS33939927,17713120,Atrophy
+RS34637584,16401756,Alzheimer disease
+RS34637584,16102903,Atrophy
+RS34637584,19072560,Tau
+RS2230806,16596262,Cerebrospinal fluid
+ RS2246293,16596262,Cerebrospinal fluid
+RS2230806,12600718,Cerebrospinal fluid
+RS2230808,12600718,Cerebrospinal fluid
+RS2230806,17430597,Cerebrospinal fluid
+RS1800587,24103372,Assessment of anxiety
+RS1800587,19158434,Mini mental state exam
+RS1800587,19158434,Assessment of anxiety
+RS1800587,21070631,Dopamine
+RS1611115,21070631,Dopamine
+ RS113464261,26366461,Algorithms
+ RS76306710,26366461,Algorithms
+ RS668134,26366461,Algorithms
+ RS114506298,26366461,Algorithms
+ RS7929589,26366461,Algorithms
+ RS73504429,26366461,Algorithms
+ RS7530069,26366461,Algorithms
+ RS514716,23562540,Tau
+ RS514716,23562540,Cerebrospinal fluid
+ RS6922617,23562540,Tau
+ RS6922617,23562540,Cerebrospinal fluid
+ RS9877502,23562540,Tau
+ RS9877502,23562540,Cerebrospinal fluid
+RS10410711,26359528,Scores
+RS2285513,26359528,Scores
+RS10421862,26359528,Scores
+RS2945988,26359528,Scores
+RS541169,26359528,Scores
+RS7718456,25670955,Hippocampus volume
+RS7718456,25670955,Precuneus
+RS16964473,25670955,Hippocampus volume
+RS16964473,25670955,Precuneus
+RS17029131,25670955,Hippocampus volume
+RS17029131,25670955,Precuneus
+RS6446443,25670955,Hippocampus volume
+RS6446443,25670955,Precuneus
+RS12972537,25670955,Hippocampus volume
+RS12972537,25670955,Precuneus
+ RS2456772,21811019,Tau
+ RS917570,21811019,Tau
+ RS2448347,21811019,Tau
+ RS1871447,21811019,Tau
+ RS1256429,25649652,Brain region
+ RS1256429,25649652,No mapping: IO001244
+ RS1256429,25649652,Magnetic resonance imaging
+ RS10770042,25649652,Brain region
+ RS10770042,25649652,No mapping: IO001244
+ RS10770042,25649652,Magnetic resonance imaging
+ RS2829841,25649652,Brain region
+ RS2829841,25649652,No mapping: IO001244
+ RS2829841,25649652,Magnetic resonance imaging
+ RS2724509,25649652,Brain region
+ RS2724509,25649652,No mapping: IO001244
+ RS2724509,25649652,Magnetic resonance imaging
+ RS3857059,24777780,Alzheimer disease
+ RS1491923,24777780,Alzheimer disease
+ RS2619363,24777780,Alzheimer disease
+ RS2583988,24777780,Alzheimer disease
+rs12850496,19650872,Assessment of anxiety
+ RS7523477,21537386,Tau
+ RS4951168,21537386,Tau
+RS4420638,21537386,Tau
+ RS8014408,24362753,Alzheimer disease
+ RS981471,24362753,Alzheimer disease
+ RS11711889,21059989,Alzheimer disease
+ RS4669573,21059989,Alzheimer disease
+ RS9945493,21059989,Alzheimer disease
+ RS7908652,21059989,Alzheimer disease
+ RS10197851,21059989,Alzheimer disease
+ RS1117750,21059989,Alzheimer disease
+ RS868749,12770689,Acetylcholine
+ RS2835740,19995442,Tau hyperphosphorylation
+ RS2835762,19995442,Tau hyperphosphorylation
+ RS2835761,19995442,Tau hyperphosphorylation
+ RS8132976,19995442,Tau hyperphosphorylation
+ RS2154545,19995442,Tau hyperphosphorylation
+ RS11701483,19995442,Tau hyperphosphorylation
+ RS1137600,19995442,Tau hyperphosphorylation
+RS2732614,26632684,Alzheimer disease
+RS2732614,26632684,Tau
+RS2732614,26632684,Parkinson disease
+RS199443,26632684,Alzheimer disease
+RS199443,26632684,Tau
+RS199443,26632684,Parkinson disease
+ RS8070488,24439028,Alzheimer disease
+ RS7792525,24439028,Alzheimer disease
+ RS3752228,24439028,Alzheimer disease
+ RS2071590,24439028,Alzheimer disease
+ RS762237,19477230,White matter
+ RS2834072,19477230,White matter
+RS362344,25808939,Cerebrospinal fluid
+RS2040273,25808939,Cerebrospinal fluid
+RS214484,25808939,Cerebrospinal fluid
+RS2068143,25808939,Cerebrospinal fluid
+RS466448,25808939,Cerebrospinal fluid
+ RS1439568,23042215,Alzheimer disease
+ RS11870474,23857120,Alzheimer disease
+ RS149979685,25172201,Alzheimer disease
+ RS144662445,25172201,Alzheimer disease
+ RS22334693,23567436,Alzheimer disease
+ RS22334693,23567436,Mini mental state exam
+ RS22334693,23567436,Clinical dementia rating
+ RS1884049,23567436,Alzheimer disease
+ RS1884049,23567436,Mini mental state exam
+ RS1884049,23567436,Clinical dementia rating
+ RS3853248,23567436,Alzheimer disease
+ RS3853248,23567436,Mini mental state exam
+ RS3853248,23567436,Clinical dementia rating
+ RS9341016,23567436,Alzheimer disease
+ RS9341016,23567436,Mini mental state exam
+ RS9341016,23567436,Clinical dementia rating
+ RS9397456,23567436,Alzheimer disease
+ RS9397456,23567436,Mini mental state exam
+ RS9397456,23567436,Clinical dementia rating
+ RS6557171,23567436,Alzheimer disease
+ RS6557171,23567436,Mini mental state exam
+ RS6557171,23567436,Clinical dementia rating
+ RS2179922,23567436,Alzheimer disease
+ RS2179922,23567436,Mini mental state exam
+ RS2179922,23567436,Clinical dementia rating
+ RS932477,23567436,Alzheimer disease
+ RS932477,23567436,Mini mental state exam
+ RS932477,23567436,Clinical dementia rating
+RS9340799,23567436,Alzheimer disease
+RS9340799,23567436,Mini mental state exam
+RS9340799,23567436,Clinical dementia rating
+RS1801132,23567436,Alzheimer disease
+RS1801132,23567436,Mini mental state exam
+RS1801132,23567436,Clinical dementia rating
+ RS7895832,21731745,Hindbrain
+ RS17107734,21731745,Hindbrain
+ RS11187061,21731745,Hindbrain
+ RS4646958,21731745,Hindbrain
+ RS4646957,21731745,Hindbrain
+RS6583817,21731745,Hindbrain
+rs11538100,10821838,Amyloid deposition
+rs11538100,10821838,Cerebral hemorrhage
+ RS10675722,22176350,Tau
+ RS5820604,22176350,Tau
+rs1055084,15537517,Alzheimer disease
+rs1055084,15537517,Amyloid deposition
+rs1055084,15537517,Intracerebral hemorrhage
+ RS474018,24061483,Alzheimer disease
+ RS17101017,24061483,Alzheimer disease
+ RS504522,24061483,Alzheimer disease
+ RS17685233,24061483,Alzheimer disease
+ RS11192423,24061483,Alzheimer disease
+ RS2483295,24061483,Alzheimer disease
+ RS2177370,25730470,Mini mental state exam
+ RS3793790,25730470,Mini mental state exam
+RS2732703,25778476,Alzheimer disease
+RS2732703,25778476,Tau
+RS2732703,25778476,Hippocampus
+RS1595014,25778476,Alzheimer disease
+RS1595014,25778476,Tau
+RS1595014,25778476,Hippocampus
+RS113986870,25778476,Alzheimer disease
+RS113986870,25778476,Tau
+RS113986870,25778476,Hippocampus
+rs55685423,12214130,Acetylcholine
+ RS2456737,17573676,Alzheimer disease
+ RS1890739,17573676,Alzheimer disease
+ RS2441718,17573676,Alzheimer disease
+ RS12361953,22881374,Alzheimer disease
+ RS12361953,22881374,Scores
+ RS2974151,22881374,Alzheimer disease
+ RS2974151,22881374,Scores
+rs58973334,16474849,Abeta_42
+ RS17219084,23251365,Amygdala
+ RS11075996,23251365,Amygdala
+ RS11075997,23251365,Amygdala
+ RS10852521,23251365,Amygdala
+ RS16945088,23251365,Amygdala
+ RS6499640,23251365,Amygdala
+RS8044769,23251365,Amygdala
+ RS706118,21157029,Tau
+ RS844239,21157029,Tau
+ RS891507,19615060,Tau hyperphosphorylation
+ RS1549759,19615060,Tau hyperphosphorylation
+ RS2069454,19615060,Tau hyperphosphorylation
+rs9278,19615060,Tau hyperphosphorylation
+ RS2069442,19615060,Tau hyperphosphorylation
+ RS2069459,19615060,Tau hyperphosphorylation
+ RS2177369,18780301,Mini mental state exam
+ RS1355534,18780301,Mini mental state exam
+ RS2571598,18780301,Mini mental state exam
+RS1803274,18780301,Mini mental state exam
+ RS1143960,25720397,Cerebrospinal fluid
+ RS1249963,25720397,Cerebrospinal fluid
+ RS4836493,25720397,Cerebrospinal fluid
+ RS6766238,25720397,Cerebrospinal fluid
+ RS11975968,25720397,Cerebrospinal fluid
+rs3862792,19154786,Abeta_42
+RS1802061,16054170,Substantia Nigra
+ RS3747742,24439484,Cerebrospinal fluid
+RS13113697,25862742,Alzheimer disease
+RS7920721,25862742,Alzheimer disease
+ RS11667768,26402410,Cerebrospinal fluid
+ RS11667768,26402410,AV45_PET
+ RS11667768,26402410,Amyloid positron emission tomography
+ RS1795240,22903471,Structural magnetic resonance imaging
+ RS1795240,22903471,Lentiform Nucleus
+ RS1795240,22903471,Assessment of anxiety
+ RS34011,24464990,Hippocampus
+ RS3765728,24464990,Hippocampus
+ RS3756577,24384746,Alzheimer disease
+ RS15009,24384746,Alzheimer disease
+ RS3822606,24384746,Alzheimer disease
+ RS2299356,24384746,Alzheimer disease
+ RS702723,24384746,Alzheimer disease
+ RS528528,24384746,Alzheimer disease
+ RS63750756,26373282,Tau
+ RS461093,22950423,Alzheimer disease
+ RS1557372,22950423,Alzheimer disease
+ RS457274,22950423,Alzheimer disease
+ RS469083,22950423,Alzheimer disease
+ RS17000900,22950423,Alzheimer disease
+ RS2071430,22950423,Alzheimer disease
+ RS4038131,22005930,Alzheimer disease
+ RS6834555,22005930,Alzheimer disease
+ RS753129,22005930,Alzheimer disease
+ RS9790,26949549,Assessment of anxiety
+ RS17136239,26949549,Assessment of anxiety
+rs2391191,26949549,Assessment of anxiety
+ RS2287839,20580132,Tau
+ RS10845840,20197096,Mini mental state exam
+ RS10845840,20197096,Temporal lobe volume
+ RS10845840,20197096,Magnetic resonance imaging
+ RS10845840,20197096,Scores
+ RS2551645,23844928,Logical memory
+ RS2551645,23844928,Fluency test
+ RS2551645,23844928,Hamilton depression scale
+ RS2551645,23844928,Assessment of anxiety
+ RS2551640,23844928,Logical memory
+ RS2551640,23844928,Fluency test
+ RS2551640,23844928,Hamilton depression scale
+ RS2551640,23844928,Assessment of anxiety
+ RS10932201,23844928,Logical memory
+ RS10932201,23844928,Fluency test
+ RS10932201,23844928,Hamilton depression scale
+ RS10932201,23844928,Assessment of anxiety
+ RS2254137,23844928,Logical memory
+ RS2254137,23844928,Fluency test
+ RS2254137,23844928,Hamilton depression scale
+ RS2254137,23844928,Assessment of anxiety
+ RS6740584,23844928,Logical memory
+ RS6740584,23844928,Fluency test
+ RS6740584,23844928,Hamilton depression scale
+ RS6740584,23844928,Assessment of anxiety
+ RS2738444,17239995,Tau
+ RS2738444,17239995,Cerebrospinal fluid
+ RS2738444,17239995,Abeta_42
+ RS12983082,17239995,Tau
+ RS12983082,17239995,Cerebrospinal fluid
+ RS12983082,17239995,Abeta_42
+ RS11668477,17239995,Tau
+ RS11668477,17239995,Cerebrospinal fluid
+ RS11668477,17239995,Abeta_42
+ RS1433099,17239995,Tau
+ RS1433099,17239995,Cerebrospinal fluid
+ RS1433099,17239995,Abeta_42
+RS11669576,17239995,Tau
+RS11669576,17239995,Cerebrospinal fluid
+RS11669576,17239995,Abeta_42
+RS5925,17239995,Tau
+RS5925,17239995,Cerebrospinal fluid
+RS5925,17239995,Abeta_42
+ RS11129640,21116278,Hippocampus
+ RS11129640,21116278,Entorhinal Cortex
+ RS11129640,21116278,Entorhinal Cortex Thickness
+ RS11129640,21116278,Entorhinal cortex volume
+ RS11129640,21116278,Atrophy
+ RS11129640,21116278,Magnetic resonance imaging
+ RS1925690,21116278,Hippocampus
+ RS1925690,21116278,Entorhinal Cortex
+ RS1925690,21116278,Entorhinal Cortex Thickness
+ RS1925690,21116278,Entorhinal cortex volume
+ RS1925690,21116278,Atrophy
+ RS1925690,21116278,Magnetic resonance imaging
+RS1503351,26252872,Tau
+RS1503351,26252872,Cerebrospinal fluid
+RS1503351,26252872,Amyloid deposition
+RS116953792,26252872,Tau
+RS116953792,26252872,Cerebrospinal fluid
+RS116953792,26252872,Amyloid deposition
+RS10509663,26252872,Tau
+RS10509663,26252872,Cerebrospinal fluid
+RS10509663,26252872,Amyloid deposition
+ RS4240872,26626881,Tau
+ RS4240872,26626881,Cerebrospinal fluid
+ RS4240872,26626881,p_tau
+ RS4240872,26626881,Positron emission tomography
+ RS261752,26626881,Tau
+ RS261752,26626881,Cerebrospinal fluid
+ RS261752,26626881,p_tau
+ RS261752,26626881,Positron emission tomography
+ RS7514452,26626881,Tau
+ RS7514452,26626881,Cerebrospinal fluid
+ RS7514452,26626881,p_tau
+ RS7514452,26626881,Positron emission tomography
+ RS740850,18340469,Alzheimer disease
+ RS2532500,18340469,Alzheimer disease
+ RS1060620,18340469,Alzheimer disease
+ RS3741916,18340469,Alzheimer disease
+ RS1970546,17903297,White Matter Hyperintensity
+ RS1970546,17903297,Magnetic resonance imaging
+ RS1970546,17903297,Scores
+ RS1131497,17903297,White Matter Hyperintensity
+ RS1131497,17903297,Magnetic resonance imaging
+ RS1131497,17903297,Scores
+ RS8024987,24391883,Mini mental state exam
+ RS8024987,24391883,Acetylcholine
+ RS111787668,24852829,Tau
+ RS1057979,24852829,Tau
+ RS7768046,24852829,Tau
+rs12910,24852829,Tau
+ RS6916861,24852829,Tau
+ RS113809142,27066581,Alzheimer disease
+ RS113809142,27066581,Parkinson disease
+ RS3748348,22711244,Hippocampus
+ RS3748348,22711244,Cortical Thickness
+ RS3748348,22711244,White matter
+ RS3748348,22711244,Hindbrain
+ RS3748348,22711244,Magnetic resonance imaging
+ RS34772568,19462468,Alzheimer disease
+ RS535860,19462468,Alzheimer disease
+ RS17183619,22984439,Alzheimer disease
+ RS17183619,22984439,Temporal horn volume
+ RS17183619,22984439,Magnetic resonance imaging
+ RS17183619,22984439,Scores
+ RS13155993,22984439,Alzheimer disease
+ RS13155993,22984439,Temporal horn volume
+ RS13155993,22984439,Magnetic resonance imaging
+ RS13155993,22984439,Scores
+ RS2096488,22984439,Alzheimer disease
+ RS2096488,22984439,Temporal horn volume
+ RS2096488,22984439,Magnetic resonance imaging
+ RS2096488,22984439,Scores
+ RS13170756,22984439,Alzheimer disease
+ RS13170756,22984439,Temporal horn volume
+ RS13170756,22984439,Magnetic resonance imaging
+ RS13170756,22984439,Scores
+ RS137875858,25419706,Hippocampus
+ RS2494751,26178916,Mini mental state exam
+ RS5811155,26178916,Mini mental state exam
+ RS74090038,26178916,Mini mental state exam
+ RS2498786,26178916,Mini mental state exam
+RS2494750,26178916,Mini mental state exam
+ RS2494752,26178916,Mini mental state exam
+ RS367709245,26803359,Hindbrain
+ RS2772677,18761660,Alzheimer disease
+ RS2772677,18761660,Perception digital test
+ RS2772677,18761660,Scores
+rs11515,18761660,Alzheimer disease
+rs11515,18761660,Perception digital test
+rs11515,18761660,Scores
+ RS4016671,21548758,Alzheimer disease
+ RS7967622,21548758,Alzheimer disease
+ RS377155188,27066578,Alzheimer disease
+ RS3864101,17987251,Cerebrospinal fluid
+ RS4988,17987251,Cerebrospinal fluid
+ RS7624,17987251,Cerebrospinal fluid
+ RS4988514,17987251,Cerebrospinal fluid
+ RS7594645,25385369,Cerebrospinal fluid
+ RS7594645,25385369,Hippocampus
+ RS7594645,25385369,Hippocampus volume
+ RS7594645,25385369,Gray matter
+RS9897528,17826340,Tau
+ RS163030,21502949,Structural magnetic resonance imaging
+ RS163030,21502949,Right Caudate
+ RS163030,21502949,Dopamine
+ RS2830102,17601350,Scores
+ RS7082306,22393166,Alzheimer disease
+ RS1925608,22393166,Alzheimer disease
+ RS1925609,22393166,Alzheimer disease
+ RS16923760,22393166,Alzheimer disease
+ RS10997477,22393166,Alzheimer disease
+ RS11651595,21946017,Alzheimer disease
+ RS11657747,21946017,Alzheimer disease
+ RS34733791,21946017,Alzheimer disease
+ RS2137722,21946017,Alzheimer disease
+ RS7989332,24958192,Brain region
+ RS7989332,24958192,Hindbrain
+ RS6455128,24958192,Brain region
+ RS6455128,24958192,Hindbrain
+ RS6813517,25648963,Alzheimer disease
+ RS6813517,25648963,Hippocampus
+ RS11074779,25648963,Alzheimer disease
+ RS11074779,25648963,Hippocampus
+RS4420638,25648963,Alzheimer disease
+RS4420638,25648963,Hippocampus
+ RS2242230,23970038,Tau
+ RS411280,21036197,Alzheimer disease
+ RS411280,21036197,Wechsler adult intelligence scale
+ RS411280,21036197,Assessment of anxiety
+ RS3846329,21036197,Alzheimer disease
+ RS3846329,21036197,Wechsler adult intelligence scale
+ RS3846329,21036197,Assessment of anxiety
+ RS892086,18236001,Alzheimer disease
+ RS892086,18236001,Hippocampus
+ RS737864,16837108,Alzheimer disease
+RS4680,16837108,Alzheimer disease
+RS737865,16837108,Alzheimer disease
+ RS11771145,25182741,Tau
+ RS11771145,25182741,Cerebrospinal fluid
+ RS11771145,25182741,Hippocampus
+ RS11771145,25182741,Hippocampal atrophy
+ RS11771145,25182741,Inferior Temporal Gyrus
+ RS11771145,25182741,Atrophy
+ RS3753526,17622762,Tau
+ RS3753526,17622762,Cerebrospinal fluid
+ RS3753526,17622762,Abeta_42
+ RS2247071,17622762,Tau
+ RS2247071,17622762,Cerebrospinal fluid
+ RS2247071,17622762,Abeta_42
+ RS2862616,17622762,Tau
+ RS2862616,17622762,Cerebrospinal fluid
+ RS2862616,17622762,Abeta_42
+ RS1044925,17622762,Tau
+ RS1044925,17622762,Cerebrospinal fluid
+ RS1044925,17622762,Abeta_42
+ RS9610775,23608917,Hippocampus
+ RS9610775,23608917,Hippocampus volume
+ RS9610775,23608917,Rates of atrophy
+ RS9610775,23608917,Atrophy
+RS1136410,23608917,Hippocampus
+RS1136410,23608917,Hippocampus volume
+RS1136410,23608917,Rates of atrophy
+RS1136410,23608917,Atrophy
+ RS11554585,22960267,Alzheimer disease
+ RS11554585,22960267,Scores
+ RS12800974,22960267,Alzheimer disease
+ RS12800974,22960267,Scores
+ RS333229,21547719,Acetylcholine
+RS1013940,21547719,Acetylcholine
+ RS7300593,23435408,Tau
+ RS7300593,23435408,Hippocampus
+ RS12821290,23435408,Tau
+ RS12821290,23435408,Hippocampus
+ RS17695156,23435408,Tau
+ RS17695156,23435408,Hippocampus
+ RS176951056,23435408,Tau
+ RS176951056,23435408,Hippocampus
+ RS73938538,25668194,Alzheimer disease
+ RS277470,25043464,Alzheimer disease
+ RS277470,25043464,Tau
+ RS277470,25043464,Clinical dementia rating
+ RS145999145,25478031,Hippocampus
+ RS145999145,25478031,Atrophy
+ RS62256378,25027320,Tau
+ RS62256378,25027320,Cerebrospinal fluid
+RS16913634,26967218,Cerebrospinal fluid
+RS1980493,26967218,Cerebrospinal fluid
+RS9268877,26967218,Cerebrospinal fluid
+RS9268856,26967218,Cerebrospinal fluid
+RS302668,26967218,Cerebrospinal fluid
+ RS2069456,21475932,Tau
+ RS2069456,21475932,Cerebrospinal fluid
+ RS383902,21611732,Assessment of anxiety
+ RS2053053,21611732,Assessment of anxiety
+RS1466662,22005931,Cerebral Cortex
+rs10972178,16319298,Alzheimer disease
+RS1800866,16319298,Alzheimer disease
+ RS1065778,23736221,Brain region
+RS1062033,23736221,Brain region
+RS1800896,23736221,Brain region
+ RS13403026,26233692,Alzheimer disease
+ RS13403026,26233692,Parkinson disease
+ RS7157609,19286353,Cerebrospinal fluid
+RS4900442,19286353,Cerebrospinal fluid
+rs1145,11959460,Hippocampus
+ RS463946,17325276,Alzheimer disease
+ RS4728029,24656848,Tau
+ RS1999763,16675064,Mini mental state exam
+ RS1999763,16675064,Scores
+ RS11187040,16675064,Mini mental state exam
+ RS11187040,16675064,Scores
+ RS11187007,16675064,Mini mental state exam
+ RS11187007,16675064,Scores
+ RS11187033,16675064,Mini mental state exam
+ RS11187033,16675064,Scores
+ RS1999764,25414272,Alzheimer disease
+ RS1887922,25414272,Alzheimer disease
+ RS2456930,22028680,Cortical Thickness
+ RS2456930,22028680,White matter
+ RS2456930,22028680,Gray matter
+ RS2456930,22028680,Fractional anisotropy
+RS629301,25073452,Alzheimer disease
+RS629301,25073452,Phonemic fluency
+RS515135,25073452,Alzheimer disease
+RS515135,25073452,Phonemic fluency
+RS2228671,25073452,Alzheimer disease
+RS2228671,25073452,Phonemic fluency
+ RS6463843,20100581,Brain region
+ RS6463843,20100581,Cortical Thickness
+ RS6463843,20100581,Right Hippocampus
+ RS6463843,20100581,Voxel_based morphometry
+ RS6463843,20100581,Magnetic resonance imaging
+ RS6577853,21273770,Alzheimer disease
+ RS2718058,25486118,Tau
+ RS2718058,25486118,Cerebrospinal fluid
+ RS2718058,25486118,p_tau
+ RS2718058,25486118,Hippocampal atrophy
+ RS2718058,25486118,Right Hippocampus
+ RS2718058,25486118,Occipital gyrus
+ RS2718058,25486118,Lateral Ventricle
+ RS2718058,25486118,Atrophy
+ RS6720975,23374588,Mini mental state exam
+ RS17798800,23374588,Mini mental state exam
+ RS733722,16424819,Mini mental state exam
+ RS2442607,21297427,Alzheimer disease
+ RS2618516,23471985,Scores
+ RS12053868,26268530,Amyloid deposition
+ RS12053868,26268530,18F_florbetapir
+ RS12053868,26268530,Cortical atrophy
+ RS12053868,26268530,Positron emission tomography
+ RS12053868,26268530,Magnetic resonance imaging
+rs1801264,18587238,Tau
+rs1801263,9326300,Tau
+ RS13134663,22297151,Alzheimer disease
+rs1048218,16797081,Assessment of anxiety
+RS405509,26825091,Precuneus
+RS405509,26825091,Resting state fMRI
+RS405509,26825091,Cingulate Gyrus
+RS405509,26314833,White matter
+ RS4334089,22947263,Alzheimer disease
+ RS4334089,22947263,Parkinson disease
+RS731236,22947263,Alzheimer disease
+RS731236,22947263,Parkinson disease
+RS1799805,15974920,Acetylcholine
+rs1799806,15974920,Acetylcholine
+RS17234982,15974920,Acetylcholine
+RS17881553,15974920,Acetylcholine
+RS17228588,15974920,Acetylcholine
+rs2569558,12807963,Tau
+rs2569558,12807963,Abeta_42
+rs1050283,12807963,Tau
+rs1050283,12807963,Abeta_42
+ RS1468063,19766542,Brain volume
+ RS1468063,19766542,Magnetic resonance imaging
+RS41276552,17239395,X_ray
+ RS2910464,24586483,Alzheimer disease
+ RS57095329,24586483,Alzheimer disease
+RS2910164,24586483,Alzheimer disease
+ RS62063857,25168738,Tau
+ RS2765,25976010,Hippocampus
+ RS2765,25976010,Brain volume
+ RS2765,25976010,Right hippocampus volume
+ RS2029721,16832079,Alzheimer disease
+ RS11257655,26499758,Mini mental state exam
+ RS11257655,26499758,Montreal cognitive assessment
+ RS10965250,26499758,Mini mental state exam
+ RS10965250,26499758,Montreal cognitive assessment
+ RS2383208,26499758,Mini mental state exam
+ RS2383208,26499758,Montreal cognitive assessment
+RS163182,26499758,Mini mental state exam
+RS163182,26499758,Montreal cognitive assessment
+RS10811661,26499758,Mini mental state exam
+RS10811661,26499758,Montreal cognitive assessment
+ RS7910977,20142614,Alzheimer disease
+ RS6859,22159054,Alzheimer disease
+ RS2209972,24355596,Mini mental state exam
+ RS2209972,24355596,Scores
+RS1800458,8915606,Amyloid deposition
+ RS2306074,24847962,Alzheimer disease
+rs1146,16328515,Abeta_42
+rs14158,16328515,Abeta_42
+ RS7802308,20667498,Tau
+RS1800796,20667498,Tau
+ RS10793294,21108942,Alzheimer disease
+RS1611115,23416088,Dopamine
+rs6271,23416088,Dopamine
+RS5882,20068209,Alzheimer disease
+RS5882,20068209,Scores
+RS5882,24997672,White matter integrity
+RS5882,24997672,White matter
+RS5882,24997672,Fractional anisotropy
+RS5882,24997672,Magnetic resonance imaging
+RS669,10688047,Alzheimer disease
+RS669,11058789,Assessment of anxiety
+rs11549661,10631141,Alzheimer disease
+RS1800839,15911128,Alzheimer disease
+RS393152,25687773,Hippocampus
+RS393152,25687773,Entorhinal Cortex
+ RS948854,20237460,Brain region
+ RS948854,20237460,Assessment of anxiety
+rs28930977,17431506,Alzheimer disease
+ RS165932,17719017,Alzheimer disease
+ RS10868366,20570408,Brain atrophy
+ RS10868366,20570408,Grey matter volume
+ RS10868366,20570408,Voxel_based morphometry
+ RS10868366,20570408,Cortical volume
+ RS908832,16752360,Cerebrospinal fluid
+ RS13133980,15714520,Alzheimer disease
+ RS2097677,26725994,White matter
+ RS2097677,26725994,Atrophy
+ RS2097677,26725994,Medial Temporal Lobe Atrophy
+ RS2097677,26725994,Magnetic resonance imaging
+RS3093059,26725994,White matter
+RS3093059,26725994,Atrophy
+RS3093059,26725994,Medial Temporal Lobe Atrophy
+RS3093059,26725994,Magnetic resonance imaging
+RS2228145,26725994,White matter
+RS2228145,26725994,Atrophy
+RS2228145,26725994,Medial Temporal Lobe Atrophy
+RS2228145,26725994,Magnetic resonance imaging
+ RS11014002,26856603,Hippocampus
+rs355026,17709831,Alzheimer disease
+rs355026,17709831,Mini mental state exam
+rs355026,17709831,Hippocampus
+rs355026,17709831,Whole brain volume
+rs355026,17709831,Intracranial volume
+rs355026,17709831,Atrophy
+rs11880,17709831,Alzheimer disease
+rs11880,17709831,Mini mental state exam
+rs11880,17709831,Hippocampus
+rs11880,17709831,Whole brain volume
+rs11880,17709831,Intracranial volume
+rs11880,17709831,Atrophy
+RS9340799,24150894,Mini mental state exam
+RS2234693,24150894,Mini mental state exam
+RS9340799,24052609,Alzheimer disease
+RS2228480,24052609,Alzheimer disease
+RS2234693,24052609,Alzheimer disease
+RS4986938,24052609,Alzheimer disease
+RS678849,23427138,Cerebrospinal fluid
+RS678849,23427138,Brain region
+ RS6489630,23075484,Alzheimer disease
+ RS6489630,23075484,Scores
+rs6332,23075484,Alzheimer disease
+rs6332,23075484,Scores
+ RS972936,26402757,Scores
+ RS3761740,20450896,Alzheimer disease
+ RS10410544,23712749,Assessment of anxiety
+rs4934,10980547,Alzheimer disease
+RS2278749,26782499,Alzheimer disease
+rs10490923,18688167,Hippocampus
+rs10490923,18688167,Hindbrain
+RS2736911,18688167,Hippocampus
+RS2736911,18688167,Hindbrain
+RS10490924,18688167,Hippocampus
+RS10490924,18688167,Hindbrain
+RS3796529,25559091,Hippocampal atrophy
+RS3796529,25559091,Hippocampus volume
+ RS760678,21399483,Alzheimer disease
+ RS760678,21399483,Mini mental state exam
+ RS760678,21399483,Scores
+RS363043,25024311,Angular Gyrus
+RS363043,25024311,Functional magnetic resonance imaging
+RS363043,25024311,Scores
+RS363050,25024311,Angular Gyrus
+RS363050,25024311,Functional magnetic resonance imaging
+RS363050,25024311,Scores
+ RS2251101,21992747,Alzheimers disease assessment scale
+ RS2251101,21992747,Scores
+RS1143627,21992747,Alzheimers disease assessment scale
+RS1143627,21992747,Scores
+RS16944,21992747,Alzheimers disease assessment scale
+RS16944,21992747,Scores
+RS2070600,20567859,Mini mental state exam
+RS2070600,20567859,Cerebrospinal fluid
+RS2070600,20567859,Abeta_42
+RS2070600,20567859,p_tau
+RS2070600,20567859,Scores
+RS2070600,26313784,Alzheimer disease
+rs184003,26313784,Alzheimer disease
+RS1800624,26313784,Alzheimer disease
+RS1800625,26313784,Alzheimer disease
+ RS3093075,21831326,CA1 of the hippocampus
+RS2794521,21831326,CA1 of the hippocampus
+RS3091244,21831326,CA1 of the hippocampus
+RS1130864,21831326,CA1 of the hippocampus
+RS2239464,19717458,Cortical Thickness
+RS2239464,19717458,Cuneus
+RS2239464,19717458,Lateral Occipito_Temporal Gyrus
+rs1524107,22272811,Tau
+rs1524107,22272811,Computed tomography
+RS2069837,22272811,Tau
+RS2069837,22272811,Computed tomography
+RS1800796,22272811,Tau
+RS1800796,22272811,Computed tomography
+rs56054745,15339384,Alzheimer disease
+RS1801279,15339384,Alzheimer disease
+RS1208,15339384,Alzheimer disease
+RS1041983,15339384,Alzheimer disease
+RS1799929,15339384,Alzheimer disease
+RS1799931,15339384,Alzheimer disease
+RS1801280,15339384,Alzheimer disease
+RS1799930,15339384,Alzheimer disease
+ RS2306604,15464268,Alzheimer disease
+RS1937,15464268,Alzheimer disease
+RS16139,12215082,Alzheimer disease
+RS16139,12215082,Assessment of anxiety
+RS16139,15959845,Cerebrospinal fluid
+rs1052553,10624829,Tau
+ RS140701,23290204,Alzheimer disease
+ RS140701,23290204,Serotonin
+ RS140701,23290204,Assessment of anxiety
+ RS3813034,23290204,Alzheimer disease
+ RS3813034,23290204,Serotonin
+ RS3813034,23290204,Assessment of anxiety
+ RS4795541,23290204,Alzheimer disease
+ RS4795541,23290204,Serotonin
+ RS4795541,23290204,Assessment of anxiety
+ RS242941,23157339,Assessment of anxiety
+RS1360780,23157339,Assessment of anxiety
+rs11538767,18332581,Hippocampus
+rs11538767,18332581,Single Photon Emission Computed Tomography
+rs11538767,18332581,Hindbrain
+rs11538767,18332581,Cerebral Cortex
+RS5789,21097517,Functional near_infrared spectroscopy
+RS5789,21097517,Neural activity
+rs6330,22301435,Scores
+RS7483,18423940,Alzheimer disease
+rs226379,11121179,Alzheimer disease
+rs11541618,12875979,Tau
+RS28363170,25130782,Dopamine
+ RS2670660,19923886,Alzheimer disease
+RS2227631,22503724,Assessment of anxiety
+RS1799889,22503724,Assessment of anxiety
+ RS3846662,26541602,Tau
+ RS3846662,26541602,Hindbrain
+RS9332739,23313922,Tau
+RS9332739,23313922,Mini mental state exam
+RS9332739,23313922,Cerebrospinal fluid
+RS9332739,23313922,Scores
+rs4151667,23313922,Tau
+rs4151667,23313922,Mini mental state exam
+rs4151667,23313922,Cerebrospinal fluid
+rs4151667,23313922,Scores
+rs4746,15128939,Tau
+RS4680,22483294,Dopamine
+RS4680,18387741,Spatial span
+RS4680,18387741,Dopamine
+RS4680,23069674,Mini mental state exam
+RS4680,25491588,Insula
+RS4680,25491588,Single Photon Emission Computed Tomography
+RS4680,25491588,Dopamine
+RS4680,16027741,Alzheimer disease
+RS4680,24035893,Dopamine
+RS1805054,10624811,Serotonin
+RS356219,25178429,Alzheimer disease
+RS356219,25178429,Parkinson disease
+RS356219,25178429,Fluency test
+RS356219,25178429,Montreal cognitive assessment
+RS356219,25178429,Scores
+RS1143627,23199001,Brain region
+RS1143627,23199001,Resting state fMRI
+RS1143627,23199001,Cuneus
+RS1143627,23199001,Inferior Frontal Gyrus
+RS1143627,23199001,Hindbrain
+RS1143627,23199001,Functional magnetic resonance imaging
+RS1143627,23199001,Scores
+RS688,20807319,Cerebrospinal fluid
+RS1805087,12642343,Alzheimer disease
+RS1801394,12642343,Alzheimer disease
+RS1805087,12876480,Alzheimer disease
+RS1805087,18329006,Alzheimer disease
+RS1065852,26768225,Mini mental state exam
+RS1065852,26768225,Scores
+RS1801278,24589556,Mini mental state exam
+RS1801278,24589556,Scores
+RS2165241,21559813,Cerebrospinal fluid
+RS2165241,21559813,p_tau
+RS1048661,21559813,Cerebrospinal fluid
+RS1048661,21559813,p_tau
+RS3825942,21559813,Cerebrospinal fluid
+RS3825942,21559813,p_tau
+rs3730271,17064357,Hippocampus
+RS11540652,12885235,Mean transit time
+rs6314,17691947,Serotonin
+RS1799724,15895461,Alzheimer disease
+RS1799724,15895461,Cerebrospinal fluid
+RS1799724,15895461,Abeta_42
+RS1800629,15895461,Alzheimer disease
+RS1800629,15895461,Cerebrospinal fluid
+RS1800629,15895461,Abeta_42
+RS25531,21660253,Serotonin
+RS25531,19625753,Serotonin
+RS731236,26093050,Alzheimer disease
+rs10735810,26093050,Alzheimer disease
+RS7975232,26093050,Alzheimer disease
+RS1544410,26093050,Alzheimer disease
+RS1800896,23954740,Alzheimer disease
+RS1800896,23954740,Assessment of anxiety
+RS1570360,19842071,Cerebrospinal fluid
+RS1570360,19842071,p_tau
+RS699947,19842071,Cerebrospinal fluid
+RS699947,19842071,p_tau
+RS800292,26243271,Tau
+RS800292,26243271,Cerebrospinal fluid
+RS800292,26243271,Atrophy
+RS800292,26243271,Magnetic resonance imaging
+RS1061170,26243271,Tau
+RS1061170,26243271,Cerebrospinal fluid
+RS1061170,26243271,Atrophy
+RS1061170,26243271,Magnetic resonance imaging
+RS1800206,12938026,Cerebrospinal fluid
+RS6277,18833581,Dopamine
+RS671,19456322,Alzheimer disease
+RS1801028,9779662,Alzheimer disease
+RS1801028,9779662,Dopamine
+RS1799864,15488313,Dopaminergic Neurons
+RS1799864,15488313,Midbrain
+RS662,16863614,Alzheimer disease
+RS662,12074828,Acetylcholine
+RS662,16780669,Alzheimer disease
+RS1061170,18163432,Mini mental state exam
+RS1061170,18163432,Cerebrospinal fluid
+RS1061170,18163432,p_tau
+RS1801131,22015309,Alzheimer disease
+RS1800795,22015309,Alzheimer disease
+RS1801133,22015309,Alzheimer disease
+RS1128503,18781900,Cerebrospinal fluid
+RS2032582,18781900,Cerebrospinal fluid
+RS1052133,17240059,Brain region
+RS1801133,11916749,Alzheimer disease
+RS1805192,15666037,Cerebrospinal fluid
+RS1801282,15666037,Cerebrospinal fluid
+RS9939609,21458110,Alzheimer disease
+RS9939609,21458110,Mini mental state exam
+RS9939609,21458110,Frontal lobe
+RS9939609,21098976,Brain volume
+RS1799983,16813604,Alzheimer disease
+RS1799945,10861683,Alzheimer disease
+RS1800562,10861683,Alzheimer disease
+RS1799945,19429178,Brain region
+RS1800562,19429178,Brain region
+RS1799945,15013567,Alzheimer disease
+RS1800562,15013567,Alzheimer disease
